@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "id": "js_1",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is JavaScript and its core features?",
+            "expected_keywords": ["dynamic", "interpreted", "prototype", "first-class functions", "event-driven"]
+        },
+        {
+            "id": "js_2",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "Explain var, let, and const.",
+            "expected_keywords": ["scope", "hoisting", "block", "reassignment", "declaration"]
+        },
+        {
+            "id": "js_3",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "What are Promises and how do they work?",
+            "expected_keywords": ["asynchronous", "then", "catch", "resolve", "reject"]
+        },
+        {
+            "id": "js_4",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain async/await.",
+            "expected_keywords": ["promises", "asynchronous", "sequential", "try-catch", "non-blocking"]
+        },
+        {
+            "id": "js_5",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "What is closure in JavaScript?",
+            "expected_keywords": ["scope", "function", "lexical", "access", "variables"]
+        },
+        {
+            "id": "js_6",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain prototypal inheritance.",
+            "expected_keywords": ["prototype", "chain", "object", "inheritance", "__proto__"]
+        },
+        {
+            "id": "js_7",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are Web Workers?",
+            "expected_keywords": ["background", "thread", "parallel", "performance", "messaging"]
+        },
+        {
+            "id": "js_8",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain Event Loop in JavaScript.",
+            "expected_keywords": ["call stack", "callback queue", "single-thread", "asynchronous", "microtask"]
+        },
+        {
+            "id": "js_9",
+            "category": "javascript",
+            "difficulty": "expert",
+            "question": "What are JavaScript Modules and Module Bundlers?",
+            "expected_keywords": ["import", "export", "webpack", "bundling", "dependencies"]
+        },
+        {
+            "id": "js_10",
+            "category": "javascript",
+            "difficulty": "expert",
+            "question": "Explain JavaScript Memory Management and Garbage Collection.",
+            "expected_keywords": ["memory leak", "reference", "cleanup", "heap", "mark-and-sweep"]
+        }
+    ]
+} 

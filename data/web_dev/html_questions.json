@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "id": "html_1",
+            "category": "html",
+            "difficulty": "beginner",
+            "question": "What is HTML5 and what are its new features?",
+            "expected_keywords": ["semantic", "canvas", "storage", "multimedia", "forms"]
+        },
+        {
+            "id": "html_2",
+            "category": "html",
+            "difficulty": "beginner",
+            "question": "Explain the difference between <div> and <span>.",
+            "expected_keywords": ["block", "inline", "container", "element", "display"]
+        },
+        {
+            "id": "html_3",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "What are semantic elements in HTML5?",
+            "expected_keywords": ["header", "nav", "article", "section", "footer"]
+        },
+        {
+            "id": "html_4",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "Explain the importance of DOCTYPE declaration.",
+            "expected_keywords": ["document type", "browser", "rendering", "standard", "mode"]
+        },
+        {
+            "id": "html_5",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "What is the purpose of meta tags?",
+            "expected_keywords": ["metadata", "description", "viewport", "charset", "keywords"]
+        },
+        {
+            "id": "html_6",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "Explain HTML5 Web Storage.",
+            "expected_keywords": ["localStorage", "sessionStorage", "cookies", "data", "client"]
+        },
+        {
+            "id": "html_7",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "What is the Canvas element and its uses?",
+            "expected_keywords": ["graphics", "drawing", "animation", "pixels", "context"]
+        },
+        {
+            "id": "html_8",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "Explain HTML5 Form Validation.",
+            "expected_keywords": ["required", "pattern", "type", "validation", "constraints"]
+        },
+        {
+            "id": "html_9",
+            "category": "html",
+            "difficulty": "expert",
+            "question": "What are Web Components?",
+            "expected_keywords": ["custom elements", "shadow DOM", "templates", "encapsulation", "reusable"]
+        },
+        {
+            "id": "html_10",
+            "category": "html",
+            "difficulty": "expert",
+            "question": "Explain the concept of Progressive Web Apps.",
+            "expected_keywords": ["offline", "installable", "responsive", "push", "native"]
+        }
+    ]
+} 

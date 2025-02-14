@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Interview Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>AI Interview Chatbot</h1>
+        
+        <!-- Resume Upload Section -->
+        <div class="upload-section">
+            <h2>Upload Your Resume</h2>
+            <form id="resumeForm">
+                <input type="file" id="resume" name="resume" accept=".pdf,.doc,.docx" required>
+                <button type="submit">Start Interview</button>
+            </form>
+        </div>
+
+        <!-- Chat Interface -->
+        <div class="chat-container" style="display: none;">
+            <div class="chat-messages" id="chatMessages"></div>
+            <div class="input-area">
+                <textarea id="userInput" placeholder="Type your answer here..."></textarea>
+                <button id="submitAnswer">Submit</button>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <div class="results-section" style="display: none;">
+            <h2>Interview Results</h2>
+            <div id="results"></div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html> 

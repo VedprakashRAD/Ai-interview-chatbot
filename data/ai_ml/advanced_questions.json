@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "id": "adv_1",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "Explain the architecture of Transformers.",
+            "expected_keywords": ["attention", "self-attention", "encoder", "decoder", "multi-head"]
+        },
+        {
+            "id": "adv_2",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "What is transfer learning and how is it useful in deep learning?",
+            "expected_keywords": ["pre-trained", "fine-tuning", "knowledge", "adaptation", "efficiency"]
+        },
+        {
+            "id": "adv_3",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "Explain the concept of attention mechanisms in deep learning.",
+            "expected_keywords": ["weights", "focus", "relevance", "context", "sequence"]
+        },
+        {
+            "id": "adv_4",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "What are Variational Autoencoders (VAEs)?",
+            "expected_keywords": ["latent", "generative", "encoding", "decoding", "distribution"]
+        },
+        {
+            "id": "adv_5",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "Explain the concept of Meta-Learning.",
+            "expected_keywords": ["learning to learn", "few-shot", "adaptation", "transfer", "generalization"]
+        },
+        {
+            "id": "adv_6",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "What is Federated Learning?",
+            "expected_keywords": ["distributed", "privacy", "decentralized", "collaboration", "local"]
+        },
+        {
+            "id": "adv_7",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "Explain Graph Neural Networks (GNNs).",
+            "expected_keywords": ["nodes", "edges", "message passing", "aggregation", "representation"]
+        },
+        {
+            "id": "adv_8",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "What is Quantum Machine Learning?",
+            "expected_keywords": ["quantum", "superposition", "entanglement", "qubits", "algorithms"]
+        },
+        {
+            "id": "adv_9",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "Explain the concept of Neural Architecture Search (NAS).",
+            "expected_keywords": ["automation", "optimization", "search space", "architecture", "hyperparameters"]
+        },
+        {
+            "id": "adv_10",
+            "category": "advanced",
+            "difficulty": "expert",
+            "question": "What are Self-Supervised Learning techniques?",
+            "expected_keywords": ["unlabeled", "pretext", "representation", "contrastive", "learning"]
+        }
+    ]
+} 

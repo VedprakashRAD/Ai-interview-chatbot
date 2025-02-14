@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "id": "css_1",
+            "category": "css",
+            "difficulty": "beginner",
+            "question": "What is CSS and what are its different versions?",
+            "expected_keywords": ["styling", "cascading", "CSS3", "stylesheet", "presentation"]
+        },
+        {
+            "id": "css_2",
+            "category": "css",
+            "difficulty": "beginner",
+            "question": "Explain the box model in CSS.",
+            "expected_keywords": ["margin", "border", "padding", "content", "box-sizing"]
+        },
+        {
+            "id": "css_3",
+            "category": "css",
+            "difficulty": "intermediate",
+            "question": "What is the difference between position relative and absolute?",
+            "expected_keywords": ["positioning", "parent", "flow", "coordinates", "container"]
+        },
+        {
+            "id": "css_4",
+            "category": "css",
+            "difficulty": "intermediate",
+            "question": "Explain CSS Flexbox.",
+            "expected_keywords": ["container", "items", "axis", "direction", "alignment"]
+        },
+        {
+            "id": "css_5",
+            "category": "css",
+            "difficulty": "intermediate",
+            "question": "What is CSS Grid?",
+            "expected_keywords": ["layout", "rows", "columns", "grid-template", "areas"]
+        },
+        {
+            "id": "css_6",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "Explain CSS Preprocessors and their benefits.",
+            "expected_keywords": ["SASS", "LESS", "variables", "nesting", "mixins"]
+        },
+        {
+            "id": "css_7",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What are CSS Custom Properties (Variables)?",
+            "expected_keywords": ["variables", "scope", "dynamic", "root", "reusable"]
+        },
+        {
+            "id": "css_8",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "Explain CSS Animations and Transitions.",
+            "expected_keywords": ["keyframes", "transform", "duration", "timing", "properties"]
+        },
+        {
+            "id": "css_9",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What is CSS-in-JS?",
+            "expected_keywords": ["styled-components", "modules", "scoping", "dynamic", "components"]
+        },
+        {
+            "id": "css_10",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Explain CSS Architecture and Methodologies.",
+            "expected_keywords": ["BEM", "SMACSS", "OOCSS", "organization", "maintainability"]
+        }
+    ]
+} 

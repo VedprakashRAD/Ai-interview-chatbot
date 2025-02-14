@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "id": "ml_1",
+            "category": "ml",
+            "difficulty": "beginner",
+            "question": "What is Machine Learning?",
+            "expected_keywords": ["algorithms", "data", "patterns", "predictions", "learning"]
+        },
+        {
+            "id": "ml_2",
+            "category": "ml",
+            "difficulty": "beginner",
+            "question": "What are the three main types of Machine Learning?",
+            "expected_keywords": ["supervised", "unsupervised", "reinforcement", "learning", "types"]
+        },
+        {
+            "id": "ml_3",
+            "category": "ml",
+            "difficulty": "intermediate",
+            "question": "Explain overfitting and underfitting.",
+            "expected_keywords": ["model", "training", "generalization", "complexity", "performance"]
+        },
+        {
+            "id": "ml_4",
+            "category": "ml",
+            "difficulty": "intermediate",
+            "question": "What is cross-validation?",
+            "expected_keywords": ["validation", "training", "testing", "model", "evaluation"]
+        },
+        {
+            "id": "ml_5",
+            "category": "ml",
+            "difficulty": "intermediate",
+            "question": "Explain the bias-variance tradeoff.",
+            "expected_keywords": ["overfitting", "underfitting", "complexity", "error", "model"]
+        },
+        {
+            "id": "ml_6",
+            "category": "ml",
+            "difficulty": "advanced",
+            "question": "What is feature selection and why is it important?",
+            "expected_keywords": ["relevance", "dimensionality", "reduction", "performance", "accuracy"]
+        },
+        {
+            "id": "ml_7",
+            "category": "ml",
+            "difficulty": "advanced",
+            "question": "Explain gradient descent algorithm.",
+            "expected_keywords": ["optimization", "learning rate", "minimum", "cost", "parameters"]
+        },
+        {
+            "id": "ml_8",
+            "category": "ml",
+            "difficulty": "advanced",
+            "question": "What are ensemble methods?",
+            "expected_keywords": ["bagging", "boosting", "random forest", "combination", "models"]
+        },
+        {
+            "id": "ml_9",
+            "category": "ml",
+            "difficulty": "expert",
+            "question": "Explain the concept of Support Vector Machines.",
+            "expected_keywords": ["hyperplane", "kernel", "margin", "classification", "vectors"]
+        },
+        {
+            "id": "ml_10",
+            "category": "ml",
+            "difficulty": "expert",
+            "question": "What is the difference between bagging and boosting?",
+            "expected_keywords": ["parallel", "sequential", "weighted", "voting", "ensemble"]
+        }
+    ]
+} 

@@ -1,0 +1,30 @@
+interview_chatbot/
+├── api/
+│   ├── __init__.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── resume_routes.py
+│   │   ├── question_routes.py
+│   │   └── evaluation_routes.py
+│   └── models/
+│       ├── __init__.py
+│       ├── resume.py
+│       ├── question.py
+│       └── evaluation.py
+├── data/
+│   ├── ai_ml/
+│   │   ├── ai_questions.json
+│   │   ├── ml_questions.json
+│   │   └── advanced_questions.json
+│   └── web_dev/
+│       ├── html_questions.json
+│       ├── css_questions.json
+│       └── javascript_questions.json
+├── services/
+│   ├── __init__.py
+│   ├── resume_service.py
+│   ├── question_service.py
+│   └── evaluation_service.py
+├── config.py
+├── requirements.txt
+└── app.py 
