@@ -29,6 +29,7 @@ An intelligent interview system that analyzes resumes and conducts domain-specif
 
 ## Project Structure
 
+```
 interview_chatbot/
 ├── api/
 │ ├── init.py
@@ -59,6 +60,7 @@ interview_chatbot/
 ├── config.py                # Configuration settings
 ├── requirements.txt         # Project dependencies
 └── app.py                   # Application entry point
+```
 
 ## Installation
 
@@ -221,17 +223,3 @@ Vedprakash - [@VedprakashRAD](https://github.com/VedprakashRAD)
 
 Project Link: [https://github.com/VedprakashRAD/Ai-interview-chatbot](https://github.com/VedprakashRAD/Ai-interview-chatbot)
 ```
-
-Key updates made:
-1. Updated project structure to match new format
-2. Added detailed API response examples
-3. Included configuration section
-4. Added directory details section
-5. Updated installation instructions
-6. Added development section
-7. Improved formatting throughout
-8. Added question categories section
-9. Included more detailed API documentation
-10. Updated all code examples to match current implementation
-
-Let me know if you need any modifications!
