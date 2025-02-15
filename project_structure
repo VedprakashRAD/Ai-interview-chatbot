@@ -1,30 +1,30 @@
 interview_chatbot/
 ├── api/
-│   ├── __init__.py
-│   ├── routes/
-│   │   ├── __init__.py
-│   │   ├── resume_routes.py
-│   │   ├── question_routes.py
-│   │   └── evaluation_routes.py
-│   └── models/
-│       ├── __init__.py
-│       ├── resume.py
-│       ├── question.py
-│       └── evaluation.py
+│ ├── init.py
+│ ├── routes/
+│ │ ├── init.py
+│ │ ├── resume_routes.py # Resume upload & parsing
+│ │ ├── question_routes.py # Question generation
+│ │ └── evaluation_routes.py # Answer evaluation
+│ └── models/
+│ ├── init.py
+│ ├── resume.py # Resume data models
+│ ├── question.py # Question models
+│ └── evaluation.py # Evaluation models
 ├── data/
-│   ├── ai_ml/
-│   │   ├── ai_questions.json
-│   │   ├── ml_questions.json
-│   │   └── advanced_questions.json
-│   └── web_dev/
-│       ├── html_questions.json
-│       ├── css_questions.json
-│       └── javascript_questions.json
+│ ├── ai_ml/ # AI/ML questions
+│ │ ├── ai_questions.json
+│ │ ├── ml_questions.json
+│ │ └── advanced_questions.json
+│ └── web_dev/ # Web Dev questions
+│ ├── html_questions.json
+│ ├── css_questions.json
+│ └── javascript_questions.json
 ├── services/
-│   ├── __init__.py
-│   ├── resume_service.py
-│   ├── question_service.py
-│   └── evaluation_service.py
-├── config.py
-├── requirements.txt
-└── app.py 
+│ ├── init.py
+│ ├── resume_service.py # Resume processing logic
+│ ├── question_service.py # Question management
+│ └── evaluation_service.py # Evaluation logic
+├── config.py # Configuration settings
+├── requirements.txt # Project dependencies
+└── app.py # Application entry point
