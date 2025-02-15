@@ -2,6 +2,8 @@
 import json
 import os
 from pathlib import Path
+import random
+from typing import List
 
 class QuestionService:
     def __init__(self):
@@ -49,4 +51,31 @@ class QuestionService:
             for i, q in enumerate(questions):
                 if q['id'] == previous_question_id and i + 1 < len(questions):
                     return questions[i + 1]
-        return None 
+        return None
+
+    def get_questions_for_interview(self, domain: str, skill_level: str) -> List[dict]:
+        """Get 15 questions (5 easy, 5 medium, 5 hard)"""
+        questions = []
+        
+        # Load questions based on domain
+        if domain == 'web_dev':
+            categories = ['html', 'css', 'javascript']
+        else:  # ai_ml
+            categories = ['ai', 'ml', 'advanced']
+
+        for category in categories:
+            category_questions = self.questions_cache.get(category, [])
+            
+            # Filter by difficulty
+            easy = [q for q in category_questions if q['difficulty'] == 'beginner']
+            medium = [q for q in category_questions if q['difficulty'] == 'intermediate']
+            hard = [q for q in category_questions if q['difficulty'] == 'expert']
+            
+            # Select questions
+            questions.extend(random.sample(easy, min(2, len(easy))))
+            questions.extend(random.sample(medium, min(2, len(medium))))
+            questions.extend(random.sample(hard, min(1, len(hard))))
+        
+        # Shuffle questions
+        random.shuffle(questions)
+        return questions[:15] 

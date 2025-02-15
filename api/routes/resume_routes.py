@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
-from fastapi import APIRouter, UploadFile, File, HTTPException, Form
+from fastapi import APIRouter, UploadFile, File, HTTPException
 from typing import Dict, List
-from pydantic import BaseModel
 import logging
+import os
+from api.models.resume import ResumeResponse
+from services.resume_service import ResumeService
 
 # Set up logging
 logger = logging.getLogger(__name__)
@@ -10,59 +12,107 @@ logger = logging.getLogger(__name__)
 # Create router
 router = APIRouter()
 
-# Define response models
-class ResumeResponse(BaseModel):
-    skills: List[str]
-    experience: List[str]
-    education: List[str]
-
-    model_config = {
-        "json_schema_extra": {
-            "example": {
-                "skills": ["Python", "FastAPI", "Machine Learning"],
-                "experience": ["Senior Developer", "Tech Lead"],
-                "education": ["Master in Computer Science"]
-            }
-        }
-    }
+# Define allowed file types
+ALLOWED_EXTENSIONS = {'.pdf', '.doc', '.docx'}
+ALLOWED_MIME_TYPES = {
+    'application/pdf': '.pdf',
+    'application/msword': '.doc',
+    'application/vnd.openxmlformats-officedocument.wordprocessingml.document': '.docx'
+}
 
 @router.post(
     "/resume/upload",
     response_model=ResumeResponse,
     status_code=200,
-    description="Upload and parse a resume file"
+    description="Upload and parse a resume file (PDF, DOC, or DOCX)"
 )
 async def upload_resume(
-    file: UploadFile = File(...)  # ... means required
+    resume: UploadFile = File(
+        ...,
+        description="Resume file (PDF, DOC, or DOCX)",
+        media_type="multipart/form-data"
+    )
 ):
-    """Upload and parse resume file"""
+    """
+    Upload and parse resume file
+    
+    - **file**: Resume file in PDF, DOC, or DOCX format
+    - Form field name must be 'file'
+    """
     try:
-        logger.info(f"Received file: {file.filename}")
-        
-        # Read file content
-        content = await file.read()
-        text = content.decode('utf-8')
-        
-        logger.debug(f"File content: {text[:100]}...")  # Log first 100 chars
+        # Check if file was uploaded
+        if not resume:
+            raise HTTPException(
+                status_code=400,
+                detail="No file uploaded. Please use 'file' as the form field name."
+            )
 
-        # Parse sections
-        sections = parse_resume_text(text)
+        # Validate file extension
+        file_ext = os.path.splitext(resume.filename.lower())[1]
+        if file_ext not in ALLOWED_EXTENSIONS:
+            raise HTTPException(
+                status_code=400,
+                detail=f"Invalid file type. Allowed types: {', '.join(ALLOWED_EXTENSIONS)}"
+            )
+
+        # Check file size (5MB limit)
+        content = await resume.read()
+        if len(content) > 5 * 1024 * 1024:  # 5MB
+            raise HTTPException(
+                status_code=400,
+                detail="File size too large. Maximum size is 5MB"
+            )
+
+        # Reset file pointer
+        await resume.seek(0)
         
-        logger.debug(f"Parsed sections: {sections}")
-        
-        # Create response
-        response = ResumeResponse(
-            skills=sections['skills'],
-            experience=sections['experience'],
-            education=sections['education']
-        )
-        
-        logger.info("Successfully processed resume")
-        return response
+        logger.info(f"Processing file: {resume.filename} ({file_ext})")
+
+        # Initialize resume service
+        resume_service = ResumeService()
+
+        try:
+            # Parse resume
+            parsed_data = resume_service.parse_resume(resume.file)
+            
+            # Determine domain based on skills
+            domain = resume_service.determine_domain(parsed_data['skills'])
+            
+            # Determine skill level based on experience and skills
+            skill_level = resume_service.determine_skill_level(
+                parsed_data['experience'],
+                parsed_data['skills']
+            )
+
+            # Create and validate response
+            response = ResumeResponse(
+                skills=parsed_data['skills'],
+                experience=parsed_data['experience'],
+                education=parsed_data['education'],
+                domain=domain,
+                skill_level=skill_level
+            )
+
+            logger.info(f"Successfully processed resume. Domain: {domain}, Level: {skill_level}")
+            return response
+
+        except Exception as e:
+            logger.error(f"Error processing resume content: {str(e)}")
+            raise HTTPException(
+                status_code=400,
+                detail=f"Error processing resume: {str(e)}"
+            )
 
     except Exception as e:
         logger.error(f"Upload error: {str(e)}")
-        raise HTTPException(status_code=400, detail=str(e))
+        raise HTTPException(
+            status_code=400,
+            detail=str(e)
+        )
+
+    finally:
+        # Clean up
+        await resume.close()
 
 def parse_resume_text(text: str) -> Dict[str, List[str]]:
     """Parse resume text into sections"""

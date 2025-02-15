@@ -1,21 +1,48 @@
 # -*- coding: utf-8 -*-
 import re
 from typing import BinaryIO, Dict, List
+import PyPDF2
+from docx import Document
+import magic
+import io
 
 class ResumeService:
     def __init__(self):
         self.nlp = None
+        self.web_dev_keywords = {
+            'html', 'css', 'javascript', 'react', 'angular', 'vue', 'node', 'frontend', 'backend'
+        }
+        self.ai_ml_keywords = {
+            'machine learning', 'ai', 'deep learning', 'neural networks', 'python', 'tensorflow', 'pytorch'
+        }
         try:
             import spacy
             self.nlp = spacy.load("en_core_web_sm")
         except Exception as e:
             print(f"Warning: spaCy not available, using basic parsing: {str(e)}")
+        self.allowed_mime_types = {
+            'application/pdf': '.pdf',
+            'application/msword': '.doc',
+            'application/vnd.openxmlformats-officedocument.wordprocessingml.document': '.docx'
+        }
 
     def parse_resume(self, file: BinaryIO) -> Dict[str, List[str]]:
         """Parse resume file and extract relevant information"""
         try:
-            # Read file content
-            text = file.read().decode('utf-8')
+            # Read file content and detect type
+            content = file.read()
+            mime_type = magic.from_buffer(content, mime=True)
+            
+            if mime_type not in self.allowed_mime_types:
+                raise ValueError(f"Unsupported file type: {mime_type}")
+            
+            # Extract text based on file type
+            if mime_type == 'application/pdf':
+                text = self._extract_text_from_pdf(content)
+            elif mime_type in ['application/msword', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document']:
+                text = self._extract_text_from_docx(content)
+            else:
+                raise ValueError("Unsupported file type")
             
             # Split text into sections
             sections = self._split_into_sections(text)
@@ -27,6 +54,34 @@ class ResumeService:
             }
         except Exception as e:
             raise Exception(f"Error parsing resume: {str(e)}")
+
+    def _extract_text_from_pdf(self, content: bytes) -> str:
+        """Extract text from PDF file"""
+        text = ""
+        try:
+            pdf_file = io.BytesIO(content)
+            pdf_reader = PyPDF2.PdfReader(pdf_file)
+            
+            for page in pdf_reader.pages:
+                text += page.extract_text() + "\n"
+                
+            return text
+        except Exception as e:
+            raise Exception(f"Error reading PDF: {str(e)}")
+
+    def _extract_text_from_docx(self, content: bytes) -> str:
+        """Extract text from DOCX file"""
+        text = ""
+        try:
+            doc_file = io.BytesIO(content)
+            doc = Document(doc_file)
+            
+            for paragraph in doc.paragraphs:
+                text += paragraph.text + "\n"
+                
+            return text
+        except Exception as e:
+            raise Exception(f"Error reading DOCX: {str(e)}")
 
     def _split_into_sections(self, text: str) -> Dict[str, List[str]]:
         """Split text into sections"""
@@ -104,4 +159,30 @@ class ResumeService:
         for line in lines:
             if any(word in line.lower() for word in ['degree', 'university', 'college', 'school']):
                 education.append(line.strip())
-        return education[:3] 
+        return education[:3]
+
+    def determine_domain(self, skills: List[str]) -> str:
+        """Determine if candidate is web dev or AI/ML"""
+        web_dev_count = sum(1 for skill in skills if skill.lower() in self.web_dev_keywords)
+        ai_ml_count = sum(1 for skill in skills if skill.lower() in self.ai_ml_keywords)
+        
+        return 'web_dev' if web_dev_count > ai_ml_count else 'ai_ml'
+
+    def determine_skill_level(self, experience: List[str], skills: List[str]) -> str:
+        """Determine candidate's skill level"""
+        # Count years of experience
+        years = 0
+        for exp in experience:
+            if 'year' in exp.lower():
+                try:
+                    years = max(years, int(exp.split()[0]))
+                except:
+                    continue
+
+        # Basic skill level determination
+        if years > 5 or len(skills) > 10:
+            return 'expert'
+        elif years > 2 or len(skills) > 5:
+            return 'intermediate'
+        else:
+            return 'beginner' 

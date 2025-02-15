@@ -24,18 +24,13 @@ class Question(BaseModel):
         }
     }
 
-@router.get("/questions/{category}", 
-           response_model=List[Question],
-           tags=["Questions"])
-async def get_questions(category: str):
-    """Get questions by category"""
-    # Mock response for now
-    return [
-        {
-            "id": "q1",
-            "category": category,
-            "difficulty": "intermediate",
-            "question": "Sample question",
-            "expected_keywords": ["keyword1", "keyword2"]
-        }
-    ] 
+@router.get("/questions/{domain}/{skill_level}",
+           response_model=List[Question])
+async def get_questions(domain: str, skill_level: str):
+    """Get 15 questions based on domain and skill level"""
+    try:
+        question_service = QuestionService()
+        questions = question_service.get_questions_for_interview(domain, skill_level)
+        return questions
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=str(e)) 

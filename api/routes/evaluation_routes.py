@@ -6,7 +6,7 @@ from pydantic import BaseModel
 router = APIRouter()
 
 class EvaluationResponse(BaseModel):
-    score: float
+    score: float  # Score out of 100
     feedback: str
     strengths: List[str]
     weaknesses: List[str]
@@ -24,16 +24,13 @@ class EvaluationResponse(BaseModel):
         }
     }
 
-@router.post("/evaluation/evaluate",
-            response_model=EvaluationResponse,
-            tags=["Evaluation"])
+@router.post("/evaluation/evaluate")
 async def evaluate_answers(answers: List[dict]):
-    """Evaluate interview answers"""
-    # Mock response for now
-    return {
-        "score": 8.5,
-        "feedback": "Good performance",
-        "strengths": ["Technical knowledge"],
-        "weaknesses": ["Need more examples"],
-        "recommendations": ["Practice more"]
-    } 
+    """Evaluate answers and return score out of 100"""
+    evaluation_service = EvaluationService()
+    result = evaluation_service.evaluate_answers(answers)
+    
+    # Convert score to 100-point scale
+    result['score'] = result['score'] * 100
+    
+    return result 
