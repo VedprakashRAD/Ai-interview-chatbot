@@ -59,7 +59,7 @@ interview_chatbot/
 │ └── evaluation_service.py  # Evaluation logic
 ├── config.py                # Configuration settings
 ├── requirements.txt         # Project dependencies
-└── app.py                   # Application entry point
+└── run.py                   # Application entry point
 ```
 
 ## Installation
