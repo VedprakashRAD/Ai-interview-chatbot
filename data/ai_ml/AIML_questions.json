@@ -1,74 +1,18 @@
 {
     "questions": [
         {
-            "id": "ai_1",
-            "category": "ai",
+            "id": "aiml_1",
+            "category": "machine_learning",
             "difficulty": "beginner",
-            "question": "What is artificial intelligence?",
-            "expected_keywords": ["machine", "intelligence", "human", "learning", "simulation"]
+            "question": "What is Machine Learning?",
+            "expected_keywords": ["algorithms", "data", "patterns", "predictions"]
         },
         {
-            "id": "ai_2",
-            "category": "ai",
-            "difficulty": "beginner",
-            "question": "What are the main types of AI?",
-            "expected_keywords": ["narrow", "general", "super", "weak", "strong"]
-        },
-        {
-            "id": "ai_3",
-            "category": "ai",
+            "id": "aiml_2",
+            "category": "machine_learning",
             "difficulty": "intermediate",
-            "question": "Explain the difference between AI, ML, and Deep Learning.",
-            "expected_keywords": ["subset", "neural", "networks", "algorithms", "specific"]
-        },
-        {
-            "id": "ai_4",
-            "category": "ai",
-            "difficulty": "intermediate",
-            "question": "What is Natural Language Processing?",
-            "expected_keywords": ["text", "language", "understanding", "processing", "communication"]
-        },
-        {
-            "id": "ai_5",
-            "category": "ai",
-            "difficulty": "intermediate",
-            "question": "What is Computer Vision?",
-            "expected_keywords": ["images", "visual", "recognition", "processing", "understanding"]
-        },
-        {
-            "id": "ai_6",
-            "category": "ai",
-            "difficulty": "advanced",
-            "question": "Explain the Turing Test.",
-            "expected_keywords": ["human", "machine", "intelligence", "test", "interaction"]
-        },
-        {
-            "id": "ai_7",
-            "category": "ai",
-            "difficulty": "advanced",
-            "question": "What are Expert Systems?",
-            "expected_keywords": ["knowledge", "rules", "inference", "domain", "reasoning"]
-        },
-        {
-            "id": "ai_8",
-            "category": "ai",
-            "difficulty": "advanced",
-            "question": "What is Reinforcement Learning?",
-            "expected_keywords": ["reward", "agent", "environment", "action", "state"]
-        },
-        {
-            "id": "ai_9",
-            "category": "ai",
-            "difficulty": "expert",
-            "question": "Explain the concept of GANs (Generative Adversarial Networks).",
-            "expected_keywords": ["generator", "discriminator", "adversarial", "training", "synthetic"]
-        },
-        {
-            "id": "ai_10",
-            "category": "ai",
-            "difficulty": "expert",
-            "question": "What are the ethical considerations in AI development?",
-            "expected_keywords": ["bias", "privacy", "transparency", "accountability", "safety"]
+            "question": "Explain the difference between supervised and unsupervised learning.",
+            "expected_keywords": ["labeled data", "unlabeled", "training", "clustering"]
         }
     ]
-} 
+}
