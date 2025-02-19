@@ -1,74 +1,4249 @@
 {
     "questions": [
+      {
+        "id": "css_1",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a background color to a webpage using CSS?",
+        "expected_keywords": ["background-color", "CSS", "property", "styling", "webpage"]
+      },
+      {
+        "id": "css_2",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of CSS?",
+        "expected_keywords": ["styling", "layout", "presentation", "design"]
+      },
+      {
+        "id": "css_3",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is a stylesheet?",
+        "expected_keywords": ["stylesheet", "css", "file", "design"]
+      },
+      {
+        "id": "css_4",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you include an external CSS file in an HTML document?",
+        "expected_keywords": ["link", "external", "stylesheet", "head"]
+      },
+      {
+        "id": "css_5",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is an inline style in CSS?",
+        "expected_keywords": ["inline", "style", "HTML", "attribute"]
+      },
+      {
+        "id": "css_6",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is an internal stylesheet?",
+        "expected_keywords": ["internal", "style", "head", "css"]
+      },
+      {
+        "id": "css_7",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the CSS box model?",
+        "expected_keywords": ["box", "margin", "border", "padding", "content"]
+      },
+      {
+        "id": "css_8",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does margin do in the CSS box model?",
+        "expected_keywords": ["margin", "spacing", "outside", "box"]
+      },
+      {
+        "id": "css_9",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does padding do in the CSS box model?",
+        "expected_keywords": ["padding", "spacing", "inside", "content"]
+      },
+      {
+        "id": "css_10",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does border do in the CSS box model?",
+        "expected_keywords": ["border", "outline", "box", "edge"]
+      },
+      {
+        "id": "css_11",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the content area in the box model?",
+        "expected_keywords": ["content", "text", "image", "display"]
+      },
+      {
+        "id": "css_12",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the text color in CSS?",
+        "expected_keywords": ["color", "text", "property", "css"]
+      },
+      {
+        "id": "css_13",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the background color of an element?",
+        "expected_keywords": ["background-color", "color", "element", "css"]
+      },
+      {
+        "id": "css_14",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is a CSS selector?",
+        "expected_keywords": ["selector", "pattern", "target", "elements"]
+      },
+      {
+        "id": "css_15",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is an element selector in CSS?",
+        "expected_keywords": ["element", "selector", "HTML", "tag"]
+      },
+      {
+        "id": "css_16",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is a class selector in CSS?",
+        "expected_keywords": ["class", "selector", "dot", "period"]
+      },
+      {
+        "id": "css_17",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is an ID selector in CSS?",
+        "expected_keywords": ["ID", "selector", "hash", "#"]
+      },
+      {
+        "id": "css_18",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you group selectors in CSS?",
+        "expected_keywords": ["grouping", "selectors", "comma", "multiple"]
+      },
+      {
+        "id": "css_19",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What are pseudo-classes in CSS?",
+        "expected_keywords": ["pseudo-class", "state", "hover", "active"]
+      },
+      {
+        "id": "css_20",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the :hover pseudo-class used for?",
+        "expected_keywords": ["hover", "mouse", "interactive", "pseudo-class"]
+      },
+      {
+        "id": "css_21",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What are pseudo-elements in CSS?",
+        "expected_keywords": ["pseudo-element", "first-letter", "first-line", "after", "before"]
+      },
+      {
+        "id": "css_22",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the ::before pseudo-element used for?",
+        "expected_keywords": ["before", "insert", "content", "css"]
+      },
+      {
+        "id": "css_23",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the ::after pseudo-element used for?",
+        "expected_keywords": ["after", "insert", "content", "css"]
+      },
+      {
+        "id": "css_24",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you set the font size in CSS?",
+        "expected_keywords": ["font-size", "text", "em", "px"]
+      },
+      {
+        "id": "css_25",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you set the font family in CSS?",
+        "expected_keywords": ["font-family", "typeface", "text", "css"]
+      },
+      {
+        "id": "css_26",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the font-weight property do?",
+        "expected_keywords": ["font-weight", "bold", "normal", "text"]
+      },
+      {
+        "id": "css_27",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you make text italic in CSS?",
+        "expected_keywords": ["font-style", "italic", "text", "css"]
+      },
+      {
+        "id": "css_28",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the text-align property?",
+        "expected_keywords": ["text-align", "alignment", "center", "left", "right"]
+      },
+      {
+        "id": "css_29",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you center text within an element?",
+        "expected_keywords": ["center", "text-align", "css", "alignment"]
+      },
+      {
+        "id": "css_30",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a text decoration in CSS?",
+        "expected_keywords": ["text-decoration", "underline", "line", "css"]
+      },
+      {
+        "id": "css_31",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you remove text decoration in CSS?",
+        "expected_keywords": ["text-decoration", "none", "remove", "css"]
+      },
+      {
+        "id": "css_32",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is line-height in CSS?",
+        "expected_keywords": ["line-height", "spacing", "text", "css"]
+      },
+      {
+        "id": "css_33",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you add a text shadow in CSS?",
+        "expected_keywords": ["text-shadow", "shadow", "css", "effect"]
+      },
+      {
+        "id": "css_34",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the letter-spacing property do?",
+        "expected_keywords": ["letter-spacing", "spacing", "text", "css"]
+      },
+      {
+        "id": "css_35",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the word-spacing property?",
+        "expected_keywords": ["word-spacing", "spacing", "text", "css"]
+      },
+      {
+        "id": "css_36",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the background image of an element?",
+        "expected_keywords": ["background-image", "url", "css", "image"]
+      },
+      {
+        "id": "css_37",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does background-repeat do in CSS?",
+        "expected_keywords": ["background-repeat", "image", "repeat", "css"]
+      },
+      {
+        "id": "css_38",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you set a background to not repeat?",
+        "expected_keywords": ["background-repeat", "no-repeat", "css", "image"]
+      },
+      {
+        "id": "css_39",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does background-size: cover do?",
+        "expected_keywords": ["background-size", "cover", "css", "image"]
+      },
+      {
+        "id": "css_40",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does background-size: contain do?",
+        "expected_keywords": ["background-size", "contain", "css", "image"]
+      },
+      {
+        "id": "css_41",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you set the position of a background image?",
+        "expected_keywords": ["background-position", "css", "image", "position"]
+      },
+      {
+        "id": "css_42",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the border-radius property?",
+        "expected_keywords": ["border-radius", "rounded", "corners", "css"]
+      },
+      {
+        "id": "css_43",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a circle using CSS?",
+        "expected_keywords": ["border-radius", "circle", "css", "shape"]
+      },
+      {
+        "id": "css_44",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the display property do?",
+        "expected_keywords": ["display", "css", "block", "inline"]
+      },
+      {
+        "id": "css_45",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the default display value for a div?",
+        "expected_keywords": ["div", "display", "block", "css"]
+      },
+      {
+        "id": "css_46",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the difference between inline and block elements?",
+        "expected_keywords": ["inline", "block", "elements", "css"]
+      },
+      {
+        "id": "css_47",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does display: none do in CSS?",
+        "expected_keywords": ["display", "none", "hide", "css"]
+      },
+      {
+        "id": "css_48",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does visibility: hidden do in CSS?",
+        "expected_keywords": ["visibility", "hidden", "css", "element"]
+      },
+      {
+        "id": "css_49",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the width of an element in CSS?",
+        "expected_keywords": ["width", "css", "dimension", "element"]
+      },
+      {
+        "id": "css_50",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the height of an element in CSS?",
+        "expected_keywords": ["height", "css", "dimension", "element"]
+      },
+      {
+        "id": "css_51",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the max-width property?",
+        "expected_keywords": ["max-width", "css", "limit", "element"]
+      },
+      {
+        "id": "css_52",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the min-width property?",
+        "expected_keywords": ["min-width", "css", "limit", "element"]
+      },
+      {
+        "id": "css_53",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you center an element horizontally using margin?",
+        "expected_keywords": ["margin", "auto", "center", "css"]
+      },
+      {
+        "id": "css_54",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the float property used for?",
+        "expected_keywords": ["float", "css", "layout", "image"]
+      },
+      {
+        "id": "css_55",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you clear floats in CSS?",
+        "expected_keywords": ["clear", "float", "css", "layout"]
+      },
+      {
+        "id": "css_56",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the position property do in CSS?",
+        "expected_keywords": ["position", "css", "layout", "relative", "absolute"]
+      },
+      {
+        "id": "css_57",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does position: static mean?",
+        "expected_keywords": ["static", "position", "css", "default"]
+      },
+      {
+        "id": "css_58",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does position: relative do?",
+        "expected_keywords": ["relative", "position", "offset", "css"]
+      },
+      {
+        "id": "css_59",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does position: absolute do?",
+        "expected_keywords": ["absolute", "position", "css", "offset"]
+      },
+      {
+        "id": "css_60",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does position: fixed do in CSS?",
+        "expected_keywords": ["fixed", "position", "css", "viewport"]
+      },
+      {
+        "id": "css_61",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a stacking order in CSS?",
+        "expected_keywords": ["z-index", "stacking", "order", "css"]
+      },
+      {
+        "id": "css_62",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the z-index property do?",
+        "expected_keywords": ["z-index", "stacking", "order", "css"]
+      },
+      {
+        "id": "css_63",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you set a transition in CSS?",
+        "expected_keywords": ["transition", "css", "animation", "effect"]
+      },
+      {
+        "id": "css_64",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the transition-duration property do?",
+        "expected_keywords": ["transition-duration", "time", "css", "animation"]
+      },
+      {
+        "id": "css_65",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the transition-timing-function property used for?",
+        "expected_keywords": ["transition-timing-function", "css", "animation", "easing"]
+      },
+      {
+        "id": "css_66",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does transition-delay do in CSS?",
+        "expected_keywords": ["transition-delay", "css", "animation", "time"]
+      },
+      {
+        "id": "css_67",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a transform in CSS?",
+        "expected_keywords": ["transform", "css", "rotate", "scale"]
+      },
+      {
+        "id": "css_68",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does transform: rotate() do?",
+        "expected_keywords": ["rotate", "transform", "css", "angle"]
+      },
+      {
+        "id": "css_69",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does transform: scale() do?",
+        "expected_keywords": ["scale", "transform", "css", "resize"]
+      },
+      {
+        "id": "css_70",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you translate an element using CSS?",
+        "expected_keywords": ["translate", "transform", "css", "move"]
+      },
+      {
+        "id": "css_71",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is a keyframe in CSS animations?",
+        "expected_keywords": ["keyframe", "animation", "css", "steps"]
+      },
+      {
+        "id": "css_72",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you define a CSS animation?",
+        "expected_keywords": ["animation", "keyframes", "css", "effect"]
+      },
+      {
+        "id": "css_73",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the animation-duration property specify?",
+        "expected_keywords": ["animation-duration", "time", "css", "animation"]
+      },
+      {
+        "id": "css_74",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the animation-delay property do?",
+        "expected_keywords": ["animation-delay", "css", "time", "animation"]
+      },
+      {
+        "id": "css_75",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the animation-iteration-count property do?",
+        "expected_keywords": ["animation-iteration-count", "repeat", "css", "animation"]
+      },
+      {
+        "id": "css_76",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the animation-direction property specify?",
+        "expected_keywords": ["animation-direction", "css", "animation", "reverse"]
+      },
+      {
+        "id": "css_77",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the animation-fill-mode property?",
+        "expected_keywords": ["animation-fill-mode", "css", "animation", "state"]
+      },
+      {
+        "id": "css_78",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a simple fade-in effect with CSS?",
+        "expected_keywords": ["fade-in", "animation", "css", "opacity"]
+      },
+      {
+        "id": "css_79",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the opacity property do in CSS?",
+        "expected_keywords": ["opacity", "transparency", "css", "visibility"]
+      },
+      {
+        "id": "css_80",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the cursor in CSS?",
+        "expected_keywords": ["cursor", "css", "pointer", "default"]
+      },
+      {
+        "id": "css_81",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does cursor: pointer indicate?",
+        "expected_keywords": ["cursor", "pointer", "css", "click"]
+      },
+      {
+        "id": "css_82",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a box shadow in CSS?",
+        "expected_keywords": ["box-shadow", "css", "shadow", "effect"]
+      },
+      {
+        "id": "css_83",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the text-shadow property do?",
+        "expected_keywords": ["text-shadow", "css", "shadow", "text"]
+      },
+      {
+        "id": "css_84",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a gradient background in CSS?",
+        "expected_keywords": ["gradient", "background", "css", "linear-gradient"]
+      },
+      {
+        "id": "css_85",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the linear-gradient function in CSS?",
+        "expected_keywords": ["linear-gradient", "gradient", "css", "background"]
+      },
+      {
+        "id": "css_86",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you define a radial gradient in CSS?",
+        "expected_keywords": ["radial-gradient", "gradient", "css", "background"]
+      },
+      {
+        "id": "css_87",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you specify multiple backgrounds in CSS?",
+        "expected_keywords": ["multiple", "backgrounds", "css", "layering"]
+      },
+      {
+        "id": "css_88",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the background-attachment property do?",
+        "expected_keywords": ["background-attachment", "fixed", "scroll", "css"]
+      },
+      {
+        "id": "css_89",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you make a background image fixed during scrolling?",
+        "expected_keywords": ["background-attachment", "fixed", "css", "scroll"]
+      },
+      {
+        "id": "css_90",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply styles to a visited link in CSS?",
+        "expected_keywords": ["visited", "link", "css", "pseudo-class"]
+      },
+      {
+        "id": "css_91",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style an active link in CSS?",
+        "expected_keywords": ["active", "link", "css", "pseudo-class"]
+      },
+      {
+        "id": "css_92",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the list style in CSS?",
+        "expected_keywords": ["list-style", "css", "bullet", "number"]
+      },
+      {
+        "id": "css_93",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the list-style-type property do?",
+        "expected_keywords": ["list-style-type", "css", "marker", "style"]
+      },
+      {
+        "id": "css_94",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you remove bullet points from a list in CSS?",
+        "expected_keywords": ["list-style", "none", "css", "bullet"]
+      },
+      {
+        "id": "css_95",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style table borders in CSS?",
+        "expected_keywords": ["table", "border", "css", "style"]
+      },
+      {
+        "id": "css_96",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the border-collapse property in CSS?",
+        "expected_keywords": ["border-collapse", "table", "css", "border"]
+      },
+      {
+        "id": "css_97",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you add spacing between table cells in CSS?",
+        "expected_keywords": ["border-spacing", "table", "css", "spacing"]
+      },
+      {
+        "id": "css_98",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the caption-side property do in CSS?",
+        "expected_keywords": ["caption-side", "table", "css", "caption"]
+      },
+      {
+        "id": "css_99",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style form elements in CSS?",
+        "expected_keywords": ["form", "input", "css", "style"]
+      },
+      {
+        "id": "css_100",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you remove the default styling of form elements?",
+        "expected_keywords": ["form", "reset", "css", "default"]
+      },
+      {
+        "id": "css_101",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the outline property in CSS?",
+        "expected_keywords": ["outline", "css", "border", "focus"]
+      },
+      {
+        "id": "css_102",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you remove the outline from an element in CSS?",
+        "expected_keywords": ["outline", "none", "css", "focus"]
+      },
+      {
+        "id": "css_103",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the visibility property in CSS?",
+        "expected_keywords": ["visibility", "css", "hidden", "display"]
+      },
+      {
+        "id": "css_104",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use the calc() function in CSS?",
+        "expected_keywords": ["calc()", "css", "calculation", "dynamic"]
+      },
+      {
+        "id": "css_105",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the min() function do in CSS?",
+        "expected_keywords": ["min()", "css", "value", "function"]
+      },
+      {
+        "id": "css_106",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the max() function do in CSS?",
+        "expected_keywords": ["max()", "css", "value", "function"]
+      },
+      {
+        "id": "css_107",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the clamp() function do in CSS?",
+        "expected_keywords": ["clamp()", "css", "responsive", "value"]
+      },
+      {
+        "id": "css_108",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you import a CSS file into another using CSS?",
+        "expected_keywords": ["@import", "css", "stylesheet", "external"]
+      },
+      {
+        "id": "css_109",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of media queries in CSS?",
+        "expected_keywords": ["media", "queries", "responsive", "css"]
+      },
+      {
+        "id": "css_110",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you write a media query for devices with a max-width of 600px?",
+        "expected_keywords": ["media", "query", "600px", "css"]
+      },
+      {
+        "id": "css_111",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the use of the @media rule in CSS?",
+        "expected_keywords": ["media", "query", "responsive", "css"]
+      },
+      {
+        "id": "css_112",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you target print styles in CSS?",
+        "expected_keywords": ["print", "media", "css", "stylesheet"]
+      },
+      {
+        "id": "css_113",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the @font-face rule do in CSS?",
+        "expected_keywords": ["@font-face", "css", "fonts", "custom"]
+      },
+      {
+        "id": "css_114",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you embed a custom font in CSS?",
+        "expected_keywords": ["font", "custom", "css", "embed"]
+      },
+      {
+        "id": "css_115",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the src property in @font-face?",
+        "expected_keywords": ["src", "css", "font", "url"]
+      },
+      {
+        "id": "css_116",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a hover effect for images in CSS?",
+        "expected_keywords": ["hover", "image", "css", "effect"]
+      },
+      {
+        "id": "css_117",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a simple animation using CSS?",
+        "expected_keywords": ["animation", "css", "keyframes", "effect"]
+      },
+      {
+        "id": "css_118",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the difference between CSS transitions and animations?",
+        "expected_keywords": ["transitions", "animations", "css", "difference"]
+      },
+      {
+        "id": "css_119",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a delay before an animation starts in CSS?",
+        "expected_keywords": ["animation-delay", "css", "animation", "delay"]
+      },
+      {
+        "id": "css_120",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a repeating animation in CSS?",
+        "expected_keywords": ["animation-iteration-count", "css", "animation", "repeat"]
+      },
+      {
+        "id": "css_121",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the use of the animation-fill-mode property?",
+        "expected_keywords": ["animation-fill-mode", "css", "animation", "state"]
+      },
+      {
+        "id": "css_122",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you pause a CSS animation?",
+        "expected_keywords": ["animation-play-state", "css", "animation", "pause"]
+      },
+      {
+        "id": "css_123",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the transform-origin property do in CSS?",
+        "expected_keywords": ["transform-origin", "css", "transform", "anchor"]
+      },
+      {
+        "id": "css_124",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a 3D transform in CSS?",
+        "expected_keywords": ["3D", "transform", "css", "rotate"]
+      },
+      {
+        "id": "css_125",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the perspective property do in CSS?",
+        "expected_keywords": ["perspective", "3D", "css", "depth"]
+      },
+      {
+        "id": "css_126",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a perspective to an element?",
+        "expected_keywords": ["perspective", "css", "3D", "depth"]
+      },
+      {
+        "id": "css_127",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the backface-visibility property do?",
+        "expected_keywords": ["backface-visibility", "css", "3D", "hidden"]
+      },
+      {
+        "id": "css_128",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a simple parallax effect using CSS?",
+        "expected_keywords": ["parallax", "css", "background", "scroll"]
+      },
+      {
+        "id": "css_129",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style a breadcrumb navigation in CSS?",
+        "expected_keywords": ["breadcrumb", "navigation", "css", "style"]
+      },
+      {
+        "id": "css_130",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a fixed header using CSS?",
+        "expected_keywords": ["fixed", "header", "css", "position"]
+      },
+      {
+        "id": "css_131",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you implement a sticky footer using CSS?",
+        "expected_keywords": ["sticky", "footer", "css", "layout"]
+      },
+      {
+        "id": "css_132",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the use of the overflow property in CSS?",
+        "expected_keywords": ["overflow", "css", "scroll", "hidden"]
+      },
+      {
+        "id": "css_133",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you hide an element using CSS?",
+        "expected_keywords": ["hide", "css", "display", "none"]
+      },
+      {
+        "id": "css_134",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you display an element as inline in CSS?",
+        "expected_keywords": ["display", "inline", "css", "element"]
+      },
+      {
+        "id": "css_135",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you display an element as block in CSS?",
+        "expected_keywords": ["display", "block", "css", "element"]
+      },
+      {
+        "id": "css_136",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the difference between inline and inline-block elements in CSS?",
+        "expected_keywords": ["inline", "inline-block", "css", "display"]
+      },
+      {
+        "id": "css_137",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you make an element responsive using CSS?",
+        "expected_keywords": ["responsive", "css", "media", "query"]
+      },
+      {
+        "id": "css_138",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you optimize CSS for faster page loads?",
+        "expected_keywords": ["optimize", "css", "minify", "performance"]
+      },
+      {
+        "id": "css_139",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use comments in CSS?",
+        "expected_keywords": ["comment", "css", "/*", "*/"]
+      },
+      {
+        "id": "css_140",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of a CSS reset?",
+        "expected_keywords": ["css", "reset", "normalize", "default"]
+      },
+      {
+        "id": "css_141",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you target specific browsers using CSS hacks?",
+        "expected_keywords": ["css", "hack", "browser", "target"]
+      },
+      {
+        "id": "css_142",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a style to all elements in CSS?",
+        "expected_keywords": ["universal", "*", "css", "selector"]
+      },
+      {
+        "id": "css_143",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the @keyframes rule do in CSS?",
+        "expected_keywords": ["@keyframes", "animation", "css", "frames"]
+      },
+      {
+        "id": "css_144",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you name an animation in CSS?",
+        "expected_keywords": ["animation", "css", "name", "keyframes"]
+      },
+      {
+        "id": "css_145",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you control the speed of a CSS animation?",
+        "expected_keywords": ["animation-duration", "css", "speed", "animation"]
+      },
+      {
+        "id": "css_146",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the timing function of a CSS transition?",
+        "expected_keywords": ["transition-timing-function", "css", "easing", "animation"]
+      },
+      {
+        "id": "css_147",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a delay in a CSS transition?",
+        "expected_keywords": ["transition-delay", "css", "delay", "animation"]
+      },
+      {
+        "id": "css_148",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What does the transform property allow you to do?",
+        "expected_keywords": ["transform", "css", "rotate", "scale"]
+      },
+      {
+        "id": "css_149",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you reset a CSS transform?",
+        "expected_keywords": ["transform", "reset", "css", "none"]
+      },
+      {
+        "id": "css_150",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a filter effect in CSS?",
+        "expected_keywords": ["filter", "css", "blur", "grayscale"]
+      },
+      {
+        "id": "css_151",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the purpose of the filter property in CSS?",
+        "expected_keywords": ["filter", "css", "effect", "image"]
+      },
+      {
+        "id": "css_152",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a drop shadow effect using the filter property?",
+        "expected_keywords": ["filter", "drop-shadow", "css", "shadow"]
+      },
+      {
+        "id": "css_153",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you set the saturation of an element using CSS?",
+        "expected_keywords": ["saturate", "filter", "css", "color"]
+      },
+      {
+        "id": "css_154",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a hue rotation effect with CSS filters?",
+        "expected_keywords": ["hue-rotate", "filter", "css", "color"]
+      },
+      {
+        "id": "css_155",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you disable text selection in CSS?",
+        "expected_keywords": ["user-select", "none", "css", "text"]
+      },
+      {
+        "id": "css_156",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a radial gradient as a background?",
+        "expected_keywords": ["radial-gradient", "css", "background", "gradient"]
+      },
+      {
+        "id": "css_157",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you align text vertically in a div?",
+        "expected_keywords": ["vertical-align", "css", "text", "div"]
+      },
+      {
+        "id": "css_158",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you set a minimum height for an element using CSS?",
+        "expected_keywords": ["min-height", "css", "height", "element"]
+      },
+      {
+        "id": "css_159",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you set a maximum height for an element using CSS?",
+        "expected_keywords": ["max-height", "css", "height", "element"]
+      },
+      {
+        "id": "css_160",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a background color to a pseudo-element?",
+        "expected_keywords": ["background-color", "::before", "::after", "css"]
+      },
+      {
+        "id": "css_161",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "What is the difference between the ::before and ::after pseudo-elements?",
+        "expected_keywords": ["before", "after", "pseudo-element", "css"]
+      },
+      {
+        "id": "css_162",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style a form input's placeholder text in CSS?",
+        "expected_keywords": ["placeholder", "css", "::placeholder", "style"]
+      },
+      {
+        "id": "css_163",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you remove the spinner from an HTML number input using CSS?",
+        "expected_keywords": ["number input", "spinner", "css", "remove"]
+      },
+      {
+        "id": "css_164",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style a checkbox using CSS?",
+        "expected_keywords": ["checkbox", "css", "style", "form"]
+      },
+      {
+        "id": "css_165",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style a radio button using CSS?",
+        "expected_keywords": ["radio", "css", "style", "form"]
+      },
+      {
+        "id": "css_166",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a custom select dropdown with CSS?",
+        "expected_keywords": ["select", "dropdown", "css", "custom"]
+      },
+      {
+        "id": "css_167",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a gradient border to an element using CSS?",
+        "expected_keywords": ["gradient", "border", "css", "style"]
+      },
+      {
+        "id": "css_168",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use the background-clip property in CSS?",
+        "expected_keywords": ["background-clip", "css", "border", "padding"]
+      },
+      {
+        "id": "css_169",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style an element based on its state using the :focus pseudo-class?",
+        "expected_keywords": ["focus", "css", "state", "pseudo-class"]
+      },
+      {
+        "id": "css_170",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style an element when it is active?",
+        "expected_keywords": ["active", "css", "state", "pseudo-class"]
+      },
+      {
+        "id": "css_171",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a custom font to a webpage using CSS?",
+        "expected_keywords": ["font", "custom", "css", "@font-face"]
+      },
+      {
+        "id": "css_172",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use the object-fit property in CSS?",
+        "expected_keywords": ["object-fit", "css", "image", "video"]
+      },
+      {
+        "id": "css_173",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use the object-position property in CSS?",
+        "expected_keywords": ["object-position", "css", "image", "alignment"]
+      },
+      {
+        "id": "css_174",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a CSS image gallery layout?",
+        "expected_keywords": ["gallery", "css", "layout", "images"]
+      },
+      {
+        "id": "css_175",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a simple CSS tooltip?",
+        "expected_keywords": ["tooltip", "css", "hover", "info"]
+      },
+      {
+        "id": "css_176",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style a modal window using CSS?",
+        "expected_keywords": ["modal", "css", "window", "popup"]
+      },
+      {
+        "id": "css_177",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a responsive navigation menu using CSS?",
+        "expected_keywords": ["responsive", "navigation", "css", "menu"]
+      },
+      {
+        "id": "css_178",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a hamburger menu icon using CSS?",
+        "expected_keywords": ["hamburger", "menu", "css", "icon"]
+      },
+      {
+        "id": "css_179",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style a progress bar using CSS?",
+        "expected_keywords": ["progress", "bar", "css", "style"]
+      },
+      {
+        "id": "css_180",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a simple CSS loading spinner?",
+        "expected_keywords": ["loading", "spinner", "css", "animation"]
+      },
+      {
+        "id": "css_181",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a filter to an image on hover using CSS?",
+        "expected_keywords": ["filter", "hover", "css", "image"]
+      },
+      {
+        "id": "css_182",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a card layout using CSS?",
+        "expected_keywords": ["card", "layout", "css", "design"]
+      },
+      {
+        "id": "css_183",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use flexbox to create a responsive layout?",
+        "expected_keywords": ["flexbox", "responsive", "css", "layout"]
+      },
+      {
+        "id": "css_184",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use CSS Grid to create a responsive layout?",
+        "expected_keywords": ["grid", "responsive", "css", "layout"]
+      },
+      {
+        "id": "css_185",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you implement a CSS reset in your stylesheet?",
+        "expected_keywords": ["css reset", "normalize", "css", "default"]
+      },
+      {
+        "id": "css_186",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you minify CSS for production?",
+        "expected_keywords": ["minify", "css", "production", "optimize"]
+      },
+      {
+        "id": "css_187",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a sticky navigation bar using CSS?",
+        "expected_keywords": ["sticky", "navigation", "css", "fixed"]
+      },
+      {
+        "id": "css_188",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply custom styles to visited links using CSS?",
+        "expected_keywords": ["visited", "link", "css", "style"]
+      },
+      {
+        "id": "css_189",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use CSS to create a fade-out effect?",
+        "expected_keywords": ["fade-out", "css", "animation", "opacity"]
+      },
+      {
+        "id": "css_190",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a responsive iframe container using CSS?",
+        "expected_keywords": ["responsive", "iframe", "css", "container"]
+      },
+      {
+        "id": "css_191",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you style a blockquote using CSS?",
+        "expected_keywords": ["blockquote", "css", "quote", "style"]
+      },
+      {
+        "id": "css_192",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a simple CSS carousel?",
+        "expected_keywords": ["carousel", "css", "slider", "responsive"]
+      },
+      {
+        "id": "css_193",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a transition effect to a CSS property?",
+        "expected_keywords": ["transition", "css", "effect", "animation"]
+      },
+      {
+        "id": "css_194",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a circular button using CSS?",
+        "expected_keywords": ["circular", "button", "css", "shape"]
+      },
+      {
+        "id": "css_195",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you apply a text gradient using CSS?",
+        "expected_keywords": ["text", "gradient", "css", "color"]
+      },
+      {
+        "id": "css_196",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create an underlined link effect using CSS?",
+        "expected_keywords": ["underline", "link", "css", "effect"]
+      },
+      {
+        "id": "css_197",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a multi-level dropdown menu using CSS?",
+        "expected_keywords": ["dropdown", "menu", "css", "navigation"]
+      },
+      {
+        "id": "css_198",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you use the calc() function to set dynamic widths in CSS?",
+        "expected_keywords": ["calc()", "css", "dynamic", "width"]
+      },
+      {
+        "id": "css_199",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you change the default cursor using CSS?",
+        "expected_keywords": ["cursor", "css", "pointer", "default"]
+      },
+      {
+        "id": "css_200",
+        "category": "css",
+        "difficulty": "beginner",
+        "question": "How do you create a responsive grid layout using CSS Grid?",
+        "expected_keywords": ["grid", "responsive", "css", "layout"]
+      },
+ 
+    {
+        "id": "css_201",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What are CSS preprocessors and how do they work?",
+        "expected_keywords": ["preprocessor", "variables", "nesting", "mixins", "compilation"]
+    },
+    {
+        "id": "css_202",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "How does the CSS box model work?",
+        "expected_keywords": ["box model", "content", "padding", "border", "margin"]
+    },
+    {
+        "id": "css_203",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What is the difference between position relative and absolute?",
+        "expected_keywords": ["positioning", "parent", "flow", "coordinates", "container"]
+    },
+    {
+        "id": "css_204",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "Explain CSS Flexbox.",
+        "expected_keywords": ["container", "items", "axis", "direction", "alignment"]
+    },
+    {
+        "id": "css_205",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What is CSS Grid?",
+        "expected_keywords": ["layout", "rows", "columns", "grid-template", "areas"]
+    },
+    {
+        "id": "css_206",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What are media queries and how are they used?",
+        "expected_keywords": ["responsive", "breakpoints", "viewport", "styles", "conditions"]
+    },
+    {
+        "id": "css_207",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What is the purpose of the z-index property?",
+        "expected_keywords": ["stacking", "context", "layers", "overlap", "positioning"]
+    },
+    {
+        "id": "css_208",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "How do CSS transitions work?",
+        "expected_keywords": ["transition", "duration", "timing-function", "property", "change"]
+    },
+    {
+        "id": "css_209",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What are CSS animations and how do they differ from transitions?",
+        "expected_keywords": ["keyframes", "animation", "duration", "timing", "transitions"]
+    },
+    {
+        "id": "css_210",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What is the difference between inline, block, and inline-block elements?",
+        "expected_keywords": ["display", "block", "inline", "inline-block", "flow"]
+    },
+    {
+        "id": "css_211",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "How can you create a responsive layout using CSS?",
+        "expected_keywords": ["responsive", "media queries", "flexbox", "grid", "viewport"]
+    },
+    {
+        "id": "css_212",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What is the purpose of the clearfix hack?",
+        "expected_keywords": ["clearfix", "float", "contain", "overflow", "layout"]
+    },
+    {
+        "id": "css_213",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "Explain the concept of specificity in CSS.",
+        "expected_keywords": ["specificity", "selectors", "importance", "cascade", "rules"]
+    },
+    {
+        "id": "css_214",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "What are CSS variables and how do you use them?",
+        "expected_keywords": ["variables", "custom properties", "scope", "inheritance", "declaration"]
+    },
+    {
+        "id": "css_215",
+        "category": "css",
+        "difficulty": "intermediate",
+        "question": "How do you center a block element horizontally?",
+        "expected_keywords": ["center", "margin", "auto", "width", "block"]
+    },
+    {
+      "id": "css_216",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "What is the difference between rem and em units?",
+      "expected_keywords": ["units", "font-size", "scaling", "root", "inheritance"]
+  },
+  {
+      "id": "css_217",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "How do you create a CSS grid layout?",
+      "expected_keywords": ["grid", "template", "rows", "columns", "areas"]
+  },
+  {
+      "id": "css_218",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "What is the purpose of the `display: flex;` property?",
+      "expected_keywords": ["flexbox", "layout", "direction", "alignment", "container"]
+  },
+  {
+      "id": "css_219",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "How can you create a responsive navigation menu?",
+      "expected_keywords": ["responsive", "media queries", "flexbox", "dropdown", "toggle"]
+  },
+  {
+      "id": "css_220",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "What are pseudo-classes in CSS?",
+      "expected_keywords": ["pseudo-classes", "state", "hover", "focus", "active"]
+  },
+  {
+      "id": "css_221",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "What are pseudo-elements in CSS?",
+      "expected_keywords": ["pseudo-elements", "content", "before", "after", "style"]
+  },
+  {
+      "id": "css_222",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "How do you implement a CSS reset?",
+      "expected_keywords": ["reset", "styles", "normalization", "browser", "consistency"]
+  },
+  {
+      "id": "css_223",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "What is the `overflow` property used for?",
+      "expected_keywords": ["overflow", "content", "scroll", "hidden", "visible"]
+  },
+  {
+      "id": "css_224",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "How do you create a CSS sprite?",
+      "expected_keywords": ["sprite", "image", "background", "position", "optimization"]
+  },
+  {
+      "id": "css_225",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "What is the `calc()` function in CSS?",
+      "expected_keywords": ["calc", "dynamic", "calculations", "length", "units"]
+  },
+  {
+      "id": "css_226",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "How do you use the `:nth-child()` selector?",
+      "expected_keywords": ["nth-child", "selector", "pattern", "elements", "style"]
+  },
+  {
+      "id": "css_227",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "What is the purpose of the `box-shadow` property?",
+      "expected_keywords": ["box-shadow", "shadow", "effect", "offset", "blur"]
+  },
+  {
+      "id": "css_228",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "How do you create a sticky footer using CSS?",
+      "expected_keywords": ["sticky", "footer", "position", "bottom", "layout"]
+  },
+  {
+      "id": "css_229",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "What is the `flex-grow` property?",
+      "expected_keywords": ["flex-grow", "flexbox", "space", "proportion", "items"]
+  },
+  {
+      "id": "css_230",
+      "category": "css",
+      "difficulty": "intermediate",
+      "question": "How do you create a CSS-only modal?",
+      "expected_keywords": ["modal", "overlay", "visibility", "position", "display"]
+  },
+  {
+    "id": "css_231",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "What is the `grid-template-areas` property?",
+    "expected_keywords": ["grid", "template", "areas", "layout", "design"]
+},
+{
+    "id": "css_232",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "How do you create a CSS triangle?",
+    "expected_keywords": ["triangle", "border", "transparent", "shape", "CSS"]
+},
+{
+    "id": "css_233",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "What is the `flex-direction` property?",
+    "expected_keywords": ["flexbox", "direction", "row", "column", "layout"]
+},
+{
+    "id": "css_234",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "How do you implement a CSS grid with responsive columns?",
+    "expected_keywords": ["grid", "responsive", "columns", "media queries", "layout"]
+},
+{
+    "id": "css_235",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "What is the `align-items` property in Flexbox?",
+    "expected_keywords": ["flexbox", "alignment", "items", "cross-axis", "container"]
+},
+{
+    "id": "css_236",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "How do you create a CSS animation that loops infinitely?",
+    "expected_keywords": ["animation", "infinite", "keyframes", "loop", "duration"]
+},
+{
+    "id": "css_237",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "What is the `justify-content` property in Flexbox?",
+    "expected_keywords": ["flexbox", "justification", "main-axis", "space", "alignment"]
+},
+{
+    "id": "css_238",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "How do you create a responsive image using CSS?",
+    "expected_keywords": ["responsive", "image", "max-width", "height", "container"]
+},
+{
+    "id": "css_239",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "What is the `object-fit` property?",
+    "expected_keywords": ["object-fit", "image", "contain", "cover", "aspect-ratio"]
+},
+{
+    "id": "css_240",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "How do you create a CSS grid with different column sizes?",
+    "expected_keywords": ["grid", "column", "sizes", "fr", "layout"]
+},
+{
+    "id": "css_241",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "What is the `transition-delay` property?",
+    "expected_keywords": ["transition", "delay", "timing", "effect", "animation"]
+},
+{
+    "id": "css_242",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "How do you create a CSS tooltip?",
+    "expected_keywords": ["tooltip", "hover", "position", "visibility", "text"]
+},
+{
+    "id": "css_243",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "What is the `filter` property in CSS?",
+    "expected_keywords": ["filter", "effects", "blur", "brightness", "contrast"]
+},
+{
+    "id": "css_244",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "How do you create a CSS grid with nested grids?",
+    "expected_keywords": ["nested", "grid", "layout", "template", "areas"]
+},
+{
+    "id": "css_245",
+    "category": "css",
+    "difficulty": "intermediate",
+    "question": "What is the `pointer-events` property?",
+    "expected_keywords": ["pointer-events", "interactivity", "click", "none", "visible"]
+},
+{
+  "id": "css_246",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS accordion?",
+  "expected_keywords": ["accordion", "toggle", "visibility", "content", "interaction"]
+},
+{
+  "id": "css_247",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `grid-auto-flow` property?",
+  "expected_keywords": ["grid", "auto-flow", "placement", "rows", "columns"]
+},
+{
+  "id": "css_248",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS sticky header?",
+  "expected_keywords": ["sticky", "header", "position", "scroll", "layout"]
+},
+{
+  "id": "css_249",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `aspect-ratio` property?",
+  "expected_keywords": ["aspect-ratio", "width", "height", "responsive", "layout"]
+},
+{
+  "id": "css_250",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS image gallery?",
+  "expected_keywords": ["gallery", "grid", "flexbox", "images", "layout"]
+},
+{
+  "id": "css_251",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `line-height` property?",
+  "expected_keywords": ["line-height", "spacing", "text", "vertical", "alignment"]
+},
+{
+  "id": "css_252",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS dropdown menu?",
+  "expected_keywords": ["dropdown", "menu", "hover", "visibility", "interaction"]
+},
+{
+  "id": "css_253",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `visibility` property?",
+  "expected_keywords": ["visibility", "hidden", "visible", "display", "layout"]
+},
+{
+  "id": "css_254",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS progress bar?",
+  "expected_keywords": ["progress", "bar", "width", "animation", "style"]
+},
+{
+  "id": "css_255",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `text-shadow` property?",
+  "expected_keywords": ["text-shadow", "shadow", "effect", "text", "style"]
+},
+{
+  "id": "css_256",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with equal height columns?",
+  "expected_keywords": ["grid", "equal height", "columns", "layout", "flexbox"]
+},
+{
+  "id": "css_257",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `transition-property`?",
+  "expected_keywords": ["transition", "property", "effect", "change", "style"]
+},
+{
+  "id": "css_258",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS card layout?",
+  "expected_keywords": ["card", "layout", "flexbox", "grid", "design"]
+},
+{
+  "id": "css_259",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `background-size` property?",
+  "expected_keywords": ["background-size", "image", "cover", "contain", "size"]
+},
+{
+  "id": "css_260",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS timeline?",
+  "expected_keywords": ["timeline", "layout", "flexbox", "design", "events"]
+},
+{
+  "id": "css_261",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `border-radius` property?",
+  "expected_keywords": ["border-radius", "corners", "round", "style", "design"]
+},
+{
+  "id": "css_262",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS loading spinner?",
+  "expected_keywords": ["spinner", "animation", "loading", "keyframes", "style"]
+},
+{
+  "id": "css_263",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `text-overflow` property?",
+  "expected_keywords": ["text-overflow", "ellipsis", "overflow", "hidden", "style"]
+},
+{
+  "id": "css_264",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS masonry layout?",
+  "expected_keywords": ["masonry", "layout", "grid", "flexbox", "responsive"]
+},
+{
+  "id": "css_265",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `opacity` property?",
+  "expected_keywords": ["opacity", "transparency", "visibility", "layer", "style"]
+},
+{
+  "id": "css_266",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS image slider?",
+  "expected_keywords": ["slider", "images", "transition", "animation", "style"]
+},
+{
+  "id": "css_267",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `max-width` property?",
+  "expected_keywords": ["max-width", "responsive", "layout", "width", "style"]
+},
+{
+  "id": "css_268",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS sticky sidebar?",
+  "expected_keywords": ["sticky", "sidebar", "position", "scroll", "layout"]
+},
+{
+  "id": "css_269",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `flex-basis` property?",
+  "expected_keywords": ["flex-basis", "flexbox", "size", "items", "layout"]
+},
+{
+  "id": "css_270",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS hover effect?",
+  "expected_keywords": ["hover", "effect", "transition", "style", "interaction"]
+},
+{
+  "id": "css_271",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `background-attachment` property?",
+  "expected_keywords": ["background-attachment", "scroll", "fixed", "background", "style"]
+},
+{
+  "id": "css_272",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS fixed header?",
+  "expected_keywords": ["fixed", "header", "position", "scroll", "layout"]
+},
+{
+  "id": "css_273",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `flex-shrink` property?",
+  "expected_keywords": ["flex-shrink", "flexbox", "shrink", "items", "layout"]
+},
+{
+  "id": "css_274",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS parallax effect?",
+  "expected_keywords": ["parallax", "scroll", "background", "effect", "layer"]
+},
+{
+  "id": "css_275",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `clip-path` property?",
+  "expected_keywords": ["clip-path", "shape", "mask", "design", "style"]
+},
+{
+  "id": "css_276",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with overlapping items?",
+  "expected_keywords": ["grid", "overlap", "layout", "position", "design"]
+},
+{
+  "id": "css_277",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `transition-timing-function` property?",
+  "expected_keywords": ["transition", "timing-function", "ease", "animation", "style"]
+},
+{
+  "id": "css_278",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with fixed and flexible columns?",
+  "expected_keywords": ["grid", "fixed", "flexible", "columns", "layout"]
+},
+{
+  "id": "css_279",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `background-blend-mode` property?",
+  "expected_keywords": ["background-blend-mode", "blending", "layers", "style", "effect"]
+},
+{
+  "id": "css_280",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS flip card?",
+  "expected_keywords": ["flip card", "animation", "transform", "hover", "style"]
+},
+{
+  "id": "css_281",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `grid-gap` property?",
+  "expected_keywords": ["grid-gap", "spacing", "grid", "layout", "design"]
+},
+{
+  "id": "css_282",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS countdown timer?",
+  "expected_keywords": ["countdown", "animation", "timer", "style", "JavaScript"]
+},
+{
+  "id": "css_283",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `filter` property used for in CSS?",
+  "expected_keywords": ["filter", "effects", "blur", "brightness", "contrast"]
+},
+{
+  "id": "css_284",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive table?",
+  "expected_keywords": ["responsive", "table", "media queries", "layout", "design"]
+},
+{
+  "id": "css_285",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `white-space` property?",
+  "expected_keywords": ["white-space", "text", "nowrap", "pre", "normal"]
+},
+{
+  "id": "css_286",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS breadcrumb navigation?",
+  "expected_keywords": ["breadcrumb", "navigation", "links", "layout", "design"]
+},
+{
+  "id": "css_287",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `resize` property?",
+  "expected_keywords": ["resize", "element", "user", "interaction", "style"]
+},
+{
+  "id": "css_288",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS notification toast?",
+  "expected_keywords": ["toast", "notification", "animation", "style", "position"]
+},
+{
+  "id": "css_289",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `outline` property?",
+  "expected_keywords": ["outline", "border", "style", "width", "color"]
+},
+{
+  "id": "css_290",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS sidebar that collapses?",
+  "expected_keywords": ["sidebar", "collapse", "toggle", "layout", "interaction"]
+},
+{
+  "id": "css_291",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `visibility` property?",
+  "expected_keywords": ["visibility", "hidden", "visible", "display", "layout"]
+},
+{
+  "id": "css_292",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS image overlay?",
+  "expected_keywords": ["overlay", "image", "position", "opacity", "style"]
+},
+{
+  "id": "css_293",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `text-indent` property?",
+  "expected_keywords": ["text-indent", "indentation", "text", "style", "alignment"]
+},
+{
+  "id": "css_294",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive font size?",
+  "expected_keywords": ["responsive", "font-size", "viewport", "media queries", "scaling"]
+},
+{
+  "id": "css_295",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `cursor` property?",
+  "expected_keywords": ["cursor", "pointer", "style", "interaction", "user"]
+},
+{
+  "id": "css_296",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with different row heights?",
+  "expected_keywords": ["grid", "row", "height", "layout", "design"]
+},
+{
+  "id": "css_297",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `display: none;` property?",
+  "expected_keywords": ["display", "none", "visibility", "layout", "style"]
+},
+{
+  "id": "css_298",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS countdown timer?",
+  "expected_keywords": ["countdown", "timer", "animation", "style", "JavaScript"]
+},
+{
+  "id": "css_299",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `position: sticky;` property?",
+  "expected_keywords": ["sticky", "position", "scroll", "layout", "behavior"]
+},
+{
+  "id": "css_300",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with implicit rows?",
+  "expected_keywords": ["grid", "implicit", "rows", "layout", "design"]
+},
+{
+  "id": "css_301",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `background-position` property?",
+  "expected_keywords": ["background-position", "image", "positioning", "style", "layout"]
+},
+{
+  "id": "css_302",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive navigation bar?",
+  "expected_keywords": ["responsive", "navigation", "bar", "media queries", "layout"]
+},
+{
+  "id": "css_303",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `border-collapse` property?",
+  "expected_keywords": ["border-collapse", "table", "collapse", "style", "design"]
+},
+{
+  "id": "css_304",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with auto-fit columns?",
+  "expected_keywords": ["grid", "auto-fit", "columns", "layout", "design"]
+},
+{
+  "id": "css_305",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `flex-wrap` property?",
+  "expected_keywords": ["flex-wrap", "flexbox", "wrap", "items", "layout"]
+},
+{
+  "id": "css_306",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS modal dialog?",
+  "expected_keywords": ["modal", "dialog", "overlay", "position", "interaction"]
+},
+{
+  "id": "css_307",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `background-repeat` property?",
+  "expected_keywords": ["background-repeat", "repeat", "no-repeat", "style", "image"]
+},
+{
+  "id": "css_308",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with named lines?",
+  "expected_keywords": ["grid", "named lines", "layout", "template", "design"]
+},
+{
+  "id": "css_309",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `text-transform` property?",
+  "expected_keywords": ["text-transform", "uppercase", "lowercase", "capitalize", "style"]
+},
+{
+  "id": "css_310",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive card layout?",
+  "expected_keywords": ["responsive", "card", "layout", "flexbox", "grid"]
+},
+{
+  "id": "css_311",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `visibility: hidden;` property?",
+  "expected_keywords": ["visibility", "hidden", "layout", "display", "style"]
+},
+{
+  "id": "css_312",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with fractional units?",
+  "expected_keywords": ["grid", "fractional units", "fr", "layout", "design"]
+},
+{
+  "id": "css_313",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `background-color` property?",
+  "expected_keywords": ["background-color", "color", "style", "design", "element"]
+},
+{
+  "id": "css_314",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive footer?",
+  "expected_keywords": ["responsive", "footer", "layout", "media queries", "design"]
+},
+{
+  "id": "css_315",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `border-style` property?",
+  "expected_keywords": ["border-style", "solid", "dashed", "dotted", "design"]
+},
+{
+  "id": "css_316",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with explicit rows?",
+  "expected_keywords": ["grid", "explicit rows", "layout", "template", "design"]
+},
+{
+  "id": "css_317",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `flex-direction` property?",
+  "expected_keywords": ["flex-direction", "flexbox", "row", "column", "layout"]
+},
+{
+  "id": "css_318",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive grid layout?",
+  "expected_keywords": ["responsive", "grid", "layout", "media queries", "design"]
+},
+{
+  "id": "css_319",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `border-width` property?",
+  "expected_keywords": ["border-width", "thickness", "style", "design", "element"]
+},
+{
+  "id": "css_320",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS sticky footer?",
+  "expected_keywords": ["sticky", "footer", "position", "layout", "design"]
+},
+{
+  "id": "css_321",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `flex-grow` property?",
+  "expected_keywords": ["flex-grow", "flexbox", "space", "items", "layout"]
+},
+{
+  "id": "css_322",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with auto-fill columns?",
+  "expected_keywords": ["grid", "auto-fill", "columns", "layout", "design"]
+},
+{
+  "id": "css_323",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `flex-basis` property?",
+  "expected_keywords": ["flex-basis", "flexbox", "size", "items", "layout"]
+},
+{
+  "id": "css_324",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with responsive images?",
+  "expected_keywords": ["grid", "responsive", "images", "layout", "design"]
+},
+{
+  "id": "css_325",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `border-radius` property?",
+  "expected_keywords": ["border-radius", "corners", "round", "style", "design"]
+},
+{
+  "id": "css_326",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with overlapping items?",
+  "expected_keywords": ["grid", "overlap", "layout", "position", "design"]
+},
+{
+  "id": "css_327",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `transition` property?",
+  "expected_keywords": ["transition", "animation", "effect", "duration", "style"]
+},
+{
+  "id": "css_328",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive layout using Flexbox?",
+  "expected_keywords": ["responsive", "flexbox", "layout", "media queries", "design"]
+},
+{
+  "id": "css_329",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `overflow` property?",
+  "expected_keywords": ["overflow", "content", "scroll", "hidden", "visible"]
+},
+{
+  "id": "css_330",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with different column sizes?",
+  "expected_keywords": ["grid", "column", "sizes", "fr", "layout"]
+},
+{
+  "id": "css_331",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `text-align` property?",
+  "expected_keywords": ["text-align", "alignment", "left", "right", "center"]
+},
+{
+  "id": "css_332",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive sidebar?",
+  "expected_keywords": ["responsive", "sidebar", "layout", "media queries", "design"]
+},
+{
+  "id": "css_333",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `display: flex;` property?",
+  "expected_keywords": ["flexbox", "layout", "direction", "alignment", "container"]
+},
+{
+  "id": "css_334",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with implicit rows?",
+  "expected_keywords": ["grid", "implicit", "rows", "layout", "design"]
+},
+{
+  "id": "css_335",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `box-shadow` property?",
+  "expected_keywords": ["box-shadow", "shadow", "effect", "offset", "blur"]
+},
+{
+  "id": "css_336",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive image gallery?",
+  "expected_keywords": ["responsive", "image", "gallery", "layout", "design"]
+},
+{
+  "id": "css_337",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `flex` shorthand property?",
+  "expected_keywords": ["flex", "shorthand", "flex-grow", "flex-shrink", "flex-basis"]
+},
+{
+  "id": "css_338",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive grid with media queries?",
+  "expected_keywords": ["responsive", "grid", "media queries", "layout", "design"]
+},
+{
+  "id": "css_339",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `background-image` property?",
+  "expected_keywords": ["background-image", "image", "url", "style", "design"]
+},
+{
+  "id": "css_340",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS sticky element?",
+  "expected_keywords": ["sticky", "element", "position", "scroll", "layout"]
+},
+{
+  "id": "css_341",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `grid-template-columns` property?",
+  "expected_keywords": ["grid-template-columns", "grid", "layout", "columns", "design"]
+},
+{
+  "id": "css_342",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive button?",
+  "expected_keywords": ["responsive", "button", "style", "media queries", "design"]
+},
+{
+  "id": "css_343",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `border-spacing` property?",
+  "expected_keywords": ["border-spacing", "table", "spacing", "style", "design"]
+},
+{
+  "id": "css_344",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with fixed and flexible items?",
+  "expected_keywords": ["grid", "fixed", "flexible", "items", "layout"]
+},
+{
+  "id": "css_345",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `text-decoration` property?",
+  "expected_keywords": ["text-decoration", "underline", "line-through", "style", "text"]
+},
+{
+  "id": "css_346",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive layout with CSS Grid?",
+  "expected_keywords": ["responsive", "grid", "layout", "media queries", "design"]
+},
+{
+  "id": "css_347",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `flex-align` property?",
+  "expected_keywords": ["flex-align", "alignment", "flexbox", "items", "layout"]
+},
+{
+  "id": "css_348",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS grid with auto rows?",
+  "expected_keywords": ["grid", "auto rows", "layout", "design", "template"]
+},
+{
+  "id": "css_349",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "What is the `outline-offset` property?",
+  "expected_keywords": ["outline-offset", "outline", "spacing", "style", "design"]
+},
+{
+  "id": "css_350",
+  "category": "css",
+  "difficulty": "intermediate",
+  "question": "How do you create a CSS responsive layout using media queries?",
+  "expected_keywords": ["responsive", "media queries", "layout", "breakpoints", "design"]
+},
+
+  {
+    "id": "css_351",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the CSS box model, and what are its components?",
+    "expected_keywords": ["content box", "padding box", "border box", "margin box", "layout"]
+  },
+  {
+    "id": "css_352",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the difference between `inline`, `block`, and `inline-block` elements in CSS.",
+    "expected_keywords": ["display property", "layout", "element flow", "width", "height"]
+  },
+  {
+    "id": "css_353",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the difference between `position: relative` and `position: absolute` in CSS?",
+    "expected_keywords": ["positioning", "document flow", "offset", "containing block", "stacking context"]
+  },
+  {
+    "id": "css_354",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does the CSS `z-index` property work, and what does its value represent?",
+    "expected_keywords": ["stacking order", "positioned elements", "stacking context", "layering", "rendering"]
+  },
+  {
+    "id": "css_355",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Describe the CSS `flexbox` layout model and its key properties.",
+    "expected_keywords": ["flex container", "flex items", "main axis", "cross axis", "flex-direction"]
+  },
+  {
+    "id": "css_356",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the CSS Grid layout system and its advantages over other layout methods.",
+    "expected_keywords": ["two-dimensional layout", "grid container", "grid items", "grid-template-areas", "responsive design"]
+  },
+  {
+    "id": "css_357",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What are CSS preprocessors, and what benefits do they offer?",
+    "expected_keywords": ["Sass", "LESS", "variables", "nesting", "mixins"]
+  },
+  {
+    "id": "css_358",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How do CSS custom properties (variables) differ from preprocessor variables?",
+    "expected_keywords": ["runtime", "cascading", "inheritance", "dynamic", "scope"]
+  },
+  {
+    "id": "css_359",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `calc()` function in CSS, and how is it used?",
+    "expected_keywords": ["dynamic calculations", "length units", "responsive design", "expressions", "property values"]
+  },
+  {
+    "id": "css_360",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the concept of CSS specificity and how conflicts between selectors are resolved.",
+    "expected_keywords": ["selector weight", "inline styles", "ID selectors", "class selectors", "cascading order"]
+  },
+  {
+    "id": "css_361",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How can you create a responsive design using CSS media queries?",
+    "expected_keywords": ["breakpoints", "viewport", "min-width", "max-width", "adaptive layout"]
+  },
+  {
+    "id": "css_362",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What are CSS pseudo-classes and pseudo-elements? Provide examples of each.",
+    "expected_keywords": [":hover", ":nth-child", "::before", "::after", "state-based styling"]
+  },
+  {
+    "id": "css_363",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Describe the difference between `rem` and `em` units in CSS.",
+    "expected_keywords": ["relative units", "font-size", "root element", "inheritance", "scaling"]
+  },
+  {
+    "id": "css_364",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does the `box-sizing` property affect the dimensions of an element?",
+    "expected_keywords": ["content-box", "border-box", "padding", "border", "element sizing"]
+  },
+  {
+    "id": "css_365",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `will-change` property in CSS?",
+    "expected_keywords": ["performance optimization", "rendering", "compositing", "hardware acceleration", "animation"]
+  },
+  {
+    "id": "css_366",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the concept of a CSS stacking context and how it is formed.",
+    "expected_keywords": ["z-index", "positioning", "opacity", "transform", "stacking order"]
+  },
+  {
+    "id": "css_367",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How can you create a CSS-only tooltip that appears on hover?",
+    "expected_keywords": ["pseudo-elements", ":hover", "positioning", "content", "visibility"]
+  },
+  {
+    "id": "css_368",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What are CSS transitions, and how do they differ from animations?",
+    "expected_keywords": ["state change", "timing function", "keyframes", "property change", "interactivity"]
+  },
+  {
+    "id": "css_369",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Describe the purpose and usage of the `clip-path` property in CSS.",
+    "expected_keywords": ["clipping", "shapes", "visibility", "SVG", "masking"]
+  },
+  {
+    "id": "css_370",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does the `object-fit` property affect media elements in CSS?",
+    "expected_keywords": ["images", "videos", "aspect ratio", "contain", "cover"]
+  },
+  {
+    "id": "css_371",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `:root` pseudo-class in CSS?",
+    "expected_keywords": ["document root", "variable scope", "custom properties", "inheritance", "global styles"]
+  },
+  {
+    "id": "css_372",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the difference between `min-width`, `max-width`, and `width` in CSS.",
+    "expected_keywords": ["responsive design", "scaling", "flexibility", "breakpoints", "fluid layout"]
+  },
+  {
+    "id": "css_373",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What are CSS masks, and how do they differ from clipping?",
+    "expected_keywords": ["mask-image", "clip-path", "opacity", "visibility", "SVG"]
+  },
+  {
+    "id": "css_374",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does the `contain` property improve CSS performance?",
+    "expected_keywords": ["layout containment", "paint containment", "style containment", "isolation", "rendering"]
+  },
+  {
+    "id": "css_375",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the difference between `visibility: hidden;` and `display: none;`?",
+    "expected_keywords": ["rendering", "layout", "space", "CSS visibility", "CSS display"]
+  },
+  {
+    "id": "css_376",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the `pointer-events` property in CSS.",
+    "expected_keywords": ["interaction", "click events", "mouse events", "disabled", "CSS behavior"]
+  },
+  {
+    "id": "css_377",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How can you use CSS to create a parallax scrolling effect?",
+    "expected_keywords": ["background", "scroll", "fixed", "layers", "depth"]
+  },
+  {
+    "id": "css_378",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is `mix-blend-mode`, and how does it work in CSS?",
+    "expected_keywords": ["blending", "layers", "opacity", "mixing colors", "rendering"]
+  },
+  {
+    "id": "css_379",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Describe how `backdrop-filter` works in CSS.",
+    "expected_keywords": ["blur", "transparency", "filter effects", "glassmorphism", "background processing"]
+  },
+  {
+    "id": "css_380",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How do CSS `aspect-ratio` and `object-fit` help with responsive media?",
+    "expected_keywords": ["scaling", "images", "videos", "contain", "cover"]
+  },
+  {
+    "id": "css_381",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the difference between `clip-path` and `mask` in CSS?",
+    "expected_keywords": ["clipping", "masking", "visibility", "shapes", "SVG"]
+  },
+  {
+    "id": "css_382",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does `will-change` property help in optimizing performance?",
+    "expected_keywords": ["rendering", "GPU acceleration", "animations", "paint", "composite"]
+  },
+  {
+    "id": "css_383",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the `font-display` property in CSS and its impact on web performance.",
+    "expected_keywords": ["FOUT", "FOIT", "loading", "swap", "block"]
+  },
+  {
+    "id": "css_384",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is CSS Houdini, and why is it important?",
+    "expected_keywords": ["APIs", "paint worklets", "custom styles", "performance", "low-level access"]
+  },
+  {
+    "id": "css_385",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does the `scroll-snap` property work in CSS?",
+    "expected_keywords": ["snap points", "scrolling", "UX", "snap alignment", "container"]
+  },
+  {
+    "id": "css_386",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `isolation` property in CSS?",
+    "expected_keywords": ["stacking context", "blending", "grouping", "compositing", "rendering"]
+  },
+  {
+    "id": "css_387",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How do CSS subgrids work, and how are they different from normal grids?",
+    "expected_keywords": ["nested grids", "inherit columns", "grid-container", "layout", "alignment"]
+  },
+  {
+    "id": "css_388",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the purpose of `contain-intrinsic-size` in CSS.",
+    "expected_keywords": ["layout", "intrinsic", "rendering", "performance", "sizing"]
+  },
+  {
+    "id": "css_389",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does `overscroll-behavior` improve user experience?",
+    "expected_keywords": ["scrolling", "snap", "bounce effect", "UX", "navigation"]
+  },
+  {
+    "id": "css_390",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the difference between `scroll-padding` and `scroll-margin`?",
+    "expected_keywords": ["scrolling", "offset", "container", "UX", "alignment"]
+  },
+  {
+    "id": "css_391",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `initial`, `inherit`, and `unset` values in CSS?",
+    "expected_keywords": ["default styles", "cascading", "inheritance", "reset", "global values"]
+  },
+  {
+    "id": "css_392",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does `aspect-ratio` affect layout in CSS?",
+    "expected_keywords": ["responsive", "scaling", "images", "videos", "height-width ratio"]
+  },
+  {
+    "id": "css_393",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the difference between `rem`, `em`, `vh`, and `vw` units?",
+    "expected_keywords": ["relative units", "viewport", "scaling", "flexibility", "typography"]
+  },
+  {
+    "id": "css_394",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How do `display: contents` and `display: none` differ?",
+    "expected_keywords": ["HTML structure", "visibility", "rendering", "CSS layout", "hidden elements"]
+  },
+  {
+    "id": "css_395",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the use of `grid-auto-flow` in CSS Grid.",
+    "expected_keywords": ["row", "column", "auto-placement", "implicit grid", "flow direction"]
+  },
+  {
+    "id": "css_396",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How do CSS variables (`--custom-property`) differ from SASS variables?",
+    "expected_keywords": ["scope", "runtime", "preprocessing", "dynamic styles", "global vs local"]
+  },
+  {
+    "id": "css_397",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "What is the difference between `nth-child()` and `nth-of-type()` selectors?",
+    "expected_keywords": ["CSS selectors", "element position", "child elements", "hierarchy", "targeting"]
+  },
+  {
+    "id": "css_398",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How does `hyphens` property affect text rendering?",
+    "expected_keywords": ["word breaks", "hyphenation", "text readability", "CSS typography", "overflow"]
+  },
+  {
+    "id": "css_399",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "Explain the difference between `object-fit: contain` and `object-fit: cover`.",
+    "expected_keywords": ["images", "scaling", "cropping", "responsive", "aspect ratio"]
+  },
+  {
+    "id": "css_400",
+    "category": "css",
+    "difficulty": "advanced",
+    "question": "How do you create a fluid typography system using CSS?",
+    "expected_keywords": ["font scaling", "clamp()", "min-max", "responsive design", "viewport"]
+  },
+
+
+    {
+      "id": "css_401",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "What is the purpose of the `contain` property in CSS?",
+      "expected_keywords": ["performance", "containment", "layout", "paint", "compositing"]
+    },
+    {
+      "id": "css_402",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "Explain how the `will-change` property works in CSS.",
+      "expected_keywords": ["performance", "GPU optimization", "animations", "rendering", "browser"]
+    },
+    {
+      "id": "css_403",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "How does `backface-visibility` affect 3D transforms?",
+      "expected_keywords": ["3D transforms", "flipping", "hidden side", "perspective", "animation"]
+    },
+    {
+      "id": "css_404",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "What is the difference between `mix-blend-mode` and `background-blend-mode`?",
+      "expected_keywords": ["blending", "compositing", "layers", "effects", "opacity"]
+    },
+    {
+      "id": "css_405",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "How do `clip-path` and `mask` differ in CSS?",
+      "expected_keywords": ["clipping", "masking", "SVG", "shapes", "visibility"]
+    },
+    {
+      "id": "css_406",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "What is the purpose of the `scroll-snap` property?",
+      "expected_keywords": ["scrolling", "snap points", "smooth", "containers", "interaction"]
+    },
+    {
+      "id": "css_407",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "How do CSS Houdini APIs extend styling capabilities?",
+      "expected_keywords": ["custom properties", "paint API", "layout API", "worklets", "performance"]
+    },
+    {
+      "id": "css_408",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "Explain the concept of subgrid in CSS Grid.",
+      "expected_keywords": ["grid", "nested", "inherit", "columns", "layout"]
+    },
+    {
+      "id": "css_409",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "How do `overscroll-behavior` and `scroll-behavior` differ?",
+      "expected_keywords": ["scrolling", "momentum", "boundaries", "snap", "user experience"]
+    },
+    {
+      "id": "css_410",
+      "category": "css",
+      "difficulty": "advanced",
+      "question": "What is the function of `image-set()` in CSS?",
+      "expected_keywords": ["responsive images", "retina", "resolution", "multiple sources", "media"]
+    },
+
+    
+      {
+        "id": "css_411",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "What is the purpose of the `aspect-ratio` property in CSS?",
+        "expected_keywords": ["responsive", "scaling", "ratio", "width", "height"]
+      },
+      {
+        "id": "css_412",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "How do logical properties in CSS improve internationalization?",
+        "expected_keywords": ["writing mode", "left-to-right", "top-to-bottom", "flow", "RTL"]
+      },
+      {
+        "id": "css_413",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "Explain the `:has()` pseudo-class and its use cases.",
+        "expected_keywords": ["parent selector", "complex selectors", "CSS4", "conditions", "dynamic"]
+      },
+      {
+        "id": "css_414",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "What is the difference between `hyphens: auto` and `hyphens: manual`?",
+        "expected_keywords": ["text wrapping", "word break", "typography", "hyphenation", "readability"]
+      },
+      {
+        "id": "css_415",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "How does `scroll-margin` and `scroll-padding` improve scrolling behavior?",
+        "expected_keywords": ["scroll", "margin", "padding", "snap", "offset"]
+      },
+      {
+        "id": "css_416",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "Explain how `motion-reduce` can be used for accessibility in CSS.",
+        "expected_keywords": ["animations", "reduce", "motion", "accessibility", "media query"]
+      },
+      {
+        "id": "css_417",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "What are CSS `conic-gradient()` and how is it different from `linear-gradient()`?",
+        "expected_keywords": ["gradients", "color stops", "conic", "radial", "angle"]
+      },
+      {
+        "id": "css_418",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "How does the `view-timeline` property work in CSS animations?",
+        "expected_keywords": ["scroll-driven animation", "timeline", "visibility", "motion", "interaction"]
+      },
+      {
+        "id": "css_419",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "Explain the concept of `anchor positioning` in CSS.",
+        "expected_keywords": ["absolute", "flexible", "popups", "positioning", "anchored"]
+      },
+      {
+        "id": "css_420",
+        "category": "css",
+        "difficulty": "advanced",
+        "question": "What is the purpose of `color-mix()` in CSS?",
+        "expected_keywords": ["color", "mixing", "blend", "contrast", "adjust"]
+      },
+
+    
         {
-            "id": "css_1",
-            "category": "css",
-            "difficulty": "beginner",
-            "question": "What is CSS and what are its different versions?",
-            "expected_keywords": ["styling", "cascading", "CSS3", "stylesheet", "presentation"]
+          "id": "css_421",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "What is the purpose of `@container` queries in CSS?",
+          "expected_keywords": ["container", "query", "responsive", "layout", "breakpoints"]
         },
         {
-            "id": "css_2",
-            "category": "css",
-            "difficulty": "beginner",
-            "question": "Explain the box model in CSS.",
-            "expected_keywords": ["margin", "border", "padding", "content", "box-sizing"]
+          "id": "css_422",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "Explain the use of `content-visibility` in CSS and its performance benefits.",
+          "expected_keywords": ["performance", "rendering", "visibility", "lazy loading", "optimization"]
         },
         {
-            "id": "css_3",
-            "category": "css",
-            "difficulty": "intermediate",
-            "question": "What is the difference between position relative and absolute?",
-            "expected_keywords": ["positioning", "parent", "flow", "coordinates", "container"]
+          "id": "css_423",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "How does the `will-change` property impact browser performance?",
+          "expected_keywords": ["optimization", "rendering", "performance", "GPU", "animations"]
         },
         {
-            "id": "css_4",
-            "category": "css",
-            "difficulty": "intermediate",
-            "question": "Explain CSS Flexbox.",
-            "expected_keywords": ["container", "items", "axis", "direction", "alignment"]
+          "id": "css_424",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "What are `accent-color` and its use cases in CSS?",
+          "expected_keywords": ["form controls", "theming", "styling", "checkbox", "radio"]
         },
         {
-            "id": "css_5",
-            "category": "css",
-            "difficulty": "intermediate",
-            "question": "What is CSS Grid?",
-            "expected_keywords": ["layout", "rows", "columns", "grid-template", "areas"]
+          "id": "css_425",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "How does `overflow-anchor` help with layout stability?",
+          "expected_keywords": ["scrolling", "layout shift", "stability", "CLS", "content shift"]
         },
         {
-            "id": "css_6",
+          "id": "css_426",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "Explain `font-display` property and its effect on web fonts.",
+          "expected_keywords": ["fonts", "loading", "FOIT", "FOUT", "performance"]
+        },
+        {
+          "id": "css_427",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "What are the differences between `inline-size` and `block-size` properties?",
+          "expected_keywords": ["logical properties", "width", "height", "flow", "adaptability"]
+        },
+        {
+          "id": "css_428",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "How does `line-clamp` work to limit text overflow?",
+          "expected_keywords": ["text truncation", "overflow", "ellipsis", "CSS", "clipping"]
+        },
+        {
+          "id": "css_429",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "What is `mix-blend-mode` in CSS and how does it work?",
+          "expected_keywords": ["blending", "color", "overlay", "effects", "transparency"]
+        },
+        {
+          "id": "css_430",
+          "category": "css",
+          "difficulty": "advanced",
+          "question": "What is the `contain` property in CSS and how does it improve performance?",
+          "expected_keywords": ["containment", "layout", "paint", "style", "optimization"]
+        },
+
+
+    
+          {
+            "id": "css_431",
             "category": "css",
             "difficulty": "advanced",
-            "question": "Explain CSS Preprocessors and their benefits.",
-            "expected_keywords": ["SASS", "LESS", "variables", "nesting", "mixins"]
-        },
-        {
-            "id": "css_7",
+            "question": "What are `ch`, `ex`, and `cap` units in CSS?",
+            "expected_keywords": ["font size", "measurement", "typography", "scaling", "relative units"]
+          },
+          {
+            "id": "css_432",
             "category": "css",
             "difficulty": "advanced",
-            "question": "What are CSS Custom Properties (Variables)?",
-            "expected_keywords": ["variables", "scope", "dynamic", "root", "reusable"]
-        },
-        {
-            "id": "css_8",
+            "question": "How does the `:has()` selector improve CSS specificity?",
+            "expected_keywords": ["parent selector", "conditional styling", "relationships", "selectors", "flexibility"]
+          },
+          {
+            "id": "css_433",
             "category": "css",
             "difficulty": "advanced",
-            "question": "Explain CSS Animations and Transitions.",
-            "expected_keywords": ["keyframes", "transform", "duration", "timing", "properties"]
-        },
+            "question": "Explain the difference between `contain-intrinsic-size` and `aspect-ratio`.",
+            "expected_keywords": ["sizing", "intrinsic", "ratio", "layout", "performance"]
+          },
+          {
+            "id": "css_434",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "How does `prefers-reduced-motion` media query improve accessibility?",
+            "expected_keywords": ["animation", "motion sensitivity", "user preference", "media query", "UX"]
+          },
+          {
+            "id": "css_435",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What are container queries and how do they differ from media queries?",
+            "expected_keywords": ["responsive design", "breakpoints", "element-based", "layout", "flexibility"]
+          },
+          {
+            "id": "css_436",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "Explain the `:focus-visible` pseudo-class and its advantages.",
+            "expected_keywords": ["focus", "keyboard navigation", "accessibility", "interactivity", "outline"]
+          },
+          {
+            "id": "css_437",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What is the `revert-layer` keyword and when should it be used?",
+            "expected_keywords": ["cascading layers", "reset", "inheritance", "override", "specificity"]
+          },
+          {
+            "id": "css_438",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "How does `scroll-snap` work in CSS?",
+            "expected_keywords": ["scrolling", "snap points", "UX", "interaction", "navigation"]
+          },
+          {
+            "id": "css_439",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What is the `text-wrap` property and how does it improve text handling?",
+            "expected_keywords": ["word wrapping", "line breaking", "readability", "layout", "overflow"]
+          },
+          {
+            "id": "css_440",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "Explain the difference between `overscroll-behavior` and `overflow`.",
+            "expected_keywords": ["scrolling", "containment", "interaction", "boundaries", "UX"]
+          },
+          {
+            "id": "css_441",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "How can `clip-path` be used for creative UI designs?",
+            "expected_keywords": ["clipping", "shapes", "custom designs", "SVG", "masking"]
+          },
+          {
+            "id": "css_442",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What are the `math functions` in CSS and how are they used?",
+            "expected_keywords": ["calc()", "min()", "max()", "clamp()", "responsive design"]
+          },
+          {
+            "id": "css_443",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "How does the `backdrop-filter` property create visual effects?",
+            "expected_keywords": ["blur", "transparency", "glassmorphism", "background", "visual effects"]
+          },
+          {
+            "id": "css_444",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What is `forced-colors` media query used for?",
+            "expected_keywords": ["accessibility", "high contrast", "user settings", "color scheme", "UI"]
+          },
+          {
+            "id": "css_445",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "Explain the use of the `view-transition` API in CSS.",
+            "expected_keywords": ["page transition", "smooth animation", "UX", "single-page app", "performance"]
+          },
+          {
+            "id": "css_446",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What are `dynamic viewport units` (e.g., `svh`, `lvh`, `dvh`)?",
+            "expected_keywords": ["viewport", "height", "scrolling", "adaptive", "layout"]
+          },
+          {
+            "id": "css_447",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What is the purpose of `scrollbar-gutter` in CSS?",
+            "expected_keywords": ["scrollbars", "layout shift", "prevent jump", "UX", "containment"]
+          },
+          {
+            "id": "css_448",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "How does `@supports` help with feature detection?",
+            "expected_keywords": ["CSS features", "fallback", "progressive enhancement", "browser compatibility", "conditional styling"]
+          },
+          {
+            "id": "css_449",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "How can CSS be used to create dark mode toggles?",
+            "expected_keywords": ["color scheme", "variables", "media query", "UI theme", "toggle"]
+          },
+          {
+            "id": "css_450",
+            "category": "css",
+            "difficulty": "advanced",
+            "question": "What is the difference between `env()` and `var()` in CSS?",
+            "expected_keywords": ["variables", "custom properties", "environment", "dynamic", "scoped values"]
+          },
+       
+              {
+                  "id": "css_451",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "What is CSS-in-JS?",
+                  "expected_keywords": ["styled-components", "modules", "scoping", "dynamic", "components"]
+              },
+              {
+                  "id": "css_452",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "Explain CSS Architecture and Methodologies.",
+                  "expected_keywords": ["BEM", "SMACSS", "OOCSS", "organization", "maintainability"]
+              },
+              {
+                  "id": "css_453",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "What are the advantages and disadvantages of using CSS-in-JS?",
+                  "expected_keywords": ["scalability", "performance", "JavaScript", "dynamic styling", "runtime"]
+              },
+              {
+                  "id": "css_454",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "How does Critical CSS improve page load speed?",
+                  "expected_keywords": ["performance", "above-the-fold", "rendering", "blocking", "optimization"]
+              },
+              {
+                  "id": "css_455",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "Explain the concept of Houdini CSS and its impact on web styling.",
+                  "expected_keywords": ["APIs", "low-level", "painting", "worklets", "browser rendering"]
+              },
+              {
+                  "id": "css_456",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "What are CSS Containment and its benefits?",
+                  "expected_keywords": ["performance", "contain", "isolation", "layout", "paint"]
+              },
+              {
+                  "id": "css_457",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "How does CSS Subgrid differ from standard Grid layout?",
+                  "expected_keywords": ["nested grids", "parent alignment", "inheritance", "grid-template", "layout"]
+              },
+              {
+                  "id": "css_458",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "What are the different types of CSS rendering engines?",
+                  "expected_keywords": ["Blink", "WebKit", "Gecko", "EdgeHTML", "layout processing"]
+              },
+              {
+                  "id": "css_459",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "How does CSS affect Time to First Paint (TTFP) and Time to Interactive (TTI)?",
+                  "expected_keywords": ["performance", "blocking resources", "rendering time", "critical path", "optimization"]
+              },
+              {
+                  "id": "css_460",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "Explain the concept of CSS `will-change` and its best practices.",
+                  "expected_keywords": ["performance", "GPU acceleration", "rendering hints", "optimize", "paint"]
+              },
+              {
+                  "id": "css_461",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "What are CSS Scoping techniques and how do they work?",
+                  "expected_keywords": ["Shadow DOM", "custom properties", "encapsulation", "scoped styles", "modularity"]
+              },
+              {
+                  "id": "css_462",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "How does CSS Object Model (CSSOM) interact with the DOM?",
+                  "expected_keywords": ["render tree", "style computation", "layout", "performance", "JavaScript manipulation"]
+              },
+              {
+                  "id": "css_463",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "What is the role of CSS Paint API in modern web development?",
+                  "expected_keywords": ["custom drawing", "worklets", "performance", "graphics", "browser rendering"]
+              },
+              {
+                  "id": "css_464",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "Explain the concept of CSS Custom Properties and their use cases.",
+                  "expected_keywords": ["variables", "reusability", "dynamic theming", "cascading", "inheritance"]
+              },
+              {
+                  "id": "css_465",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "How can CSS Grid and Flexbox be combined effectively?",
+                  "expected_keywords": ["layout design", "responsive design", "two-dimensional", "one-dimensional", "alignment"]
+              },
+              {
+                  "id": "css_466",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "What are the performance implications of using CSS animations?",
+                  "expected_keywords": ["GPU acceleration", "repaints", "compositing", "frame rate", "optimization"]
+              },
+              {
+                  "id": "css_467",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "Describe the process of creating a responsive design using CSS.",
+                  "expected_keywords": ["media queries", "flexible layouts", "viewport", "breakpoints", "fluid grids"]
+              },
+              {
+                  "id": "css_468",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "How does the CSS `contain` property enhance performance?",
+                  "expected_keywords": ["containment", "isolation", "layout", "paint", "memory management"]
+              },
+              {
+                  "id": "css_469",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "What is the purpose of CSS `mix-blend-mode` and how is it used?",
+                  "expected_keywords": ["blending", "compositing", "visual effects", "layers", "transparency"]
+              },
+              {
+                  "id": "css_470",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "Explain the concept of CSS `clip-path` and its practical applications.",
+                  "expected_keywords": ["clipping", "shapes", "masking", "SVG", "visual effects"]
+              },
+              {
+                  "id": "css_471",
+                  "category": "css",
+                  "difficulty": "expert",
+                  "question": "How can CSS `object-fit` and `object-position` properties be utilized?",
+                  "expected_keywords": ["media elements", "images", "videos", "aspect ratio", "alignment"]
+              },
+              {
+                "id": "css_472",
+                "category": "css",
+                "difficulty": "expert",
+                "question": "What are CSS Logical Properties and Values, and why are they important?",
+                "expected_keywords": ["internationalization", "writing modes", "flow-relative", "layout", "adaptability"]
+              },
+    
         {
-            "id": "css_9",
+            "id": "css_473",
             "category": "css",
             "difficulty": "expert",
-            "question": "What is CSS-in-JS?",
-            "expected_keywords": ["styled-components", "modules", "scoping", "dynamic", "components"]
+            "question": "How can CSS Grid be used to create complex layouts?",
+            "expected_keywords": ["grid-template-areas", "grid-template-columns", "grid-template-rows", "fr units", "responsive design"]
         },
         {
-            "id": "css_10",
+            "id": "css_474",
             "category": "css",
             "difficulty": "expert",
-            "question": "Explain CSS Architecture and Methodologies.",
-            "expected_keywords": ["BEM", "SMACSS", "OOCSS", "organization", "maintainability"]
-        }
-    ]
-} 
+            "question": "What is the purpose of the CSS `isolation` property?",
+            "expected_keywords": ["stacking context", "compositing", "z-index", "rendering", "visual effects"]
+        },
+        {
+            "id": "css_475",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Explain the difference between CSS Transitions and Animations.",
+            "expected_keywords": ["state change", "keyframes", "timing functions", "interactivity", "complex sequences"]
+        },
+        {
+            "id": "css_476",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How does the CSS `backdrop-filter` property work?",
+            "expected_keywords": ["blurring", "color shifting", "transparency", "background effects", "filter functions"]
+        },
+        {
+            "id": "css_477",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What are CSS Environment Variables (`env()`), and how are they used?",
+            "expected_keywords": ["dynamic values", "viewport", "safe area insets", "responsive design", "custom properties"]
+        },
+        {
+            "id": "css_478",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Describe the concept of CSS Scroll Snap and its practical applications.",
+            "expected_keywords": ["scroll-snap-type", "scroll-snap-align", "carousel", "user experience", "navigation"]
+        },
+        {
+            "id": "css_479",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How can the CSS `shape-outside` property be utilized in web design?",
+            "expected_keywords": ["float", "text wrapping", "custom shapes", "exclusion", "layout"]
+        },
+        {
+            "id": "css_480",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What is the CSS `:is()` pseudo-class, and how does it simplify selectors?",
+            "expected_keywords": ["grouping", "specificity", "selector list", "optimization", "readability"]
+        },
+        {
+            "id": "css_481",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Explain the use of CSS `accent-color` property in form controls.",
+            "expected_keywords": ["theming", "user interface", "input elements", "checkboxes", "radios"]
+        },
+        {
+            "id": "css_482",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How does the CSS `:focus-within` pseudo-class enhance accessibility?",
+            "expected_keywords": ["keyboard navigation", "parent elements", "focus management", "user experience", "forms"]
+        },
+        {
+            "id": "css_483",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What are CSS Custom Media Queries, and how do they improve maintainability?",
+            "expected_keywords": ["@custom-media", "responsive design", "reuse", "breakpoints", "consistency"]
+        },
+        {
+            "id": "css_484",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Describe the purpose of the CSS `scroll-behavior` property.",
+            "expected_keywords": ["smooth scrolling", "user experience", "navigation", "anchor links", "auto"]
+        },
+        {
+            "id": "css_485",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How can CSS `conic-gradient()` be used to create visual effects?",
+            "expected_keywords": ["pie charts", "color transitions", "backgrounds", "angles", "design"]
+        },
+        {
+            "id": "css_486",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What is the function of the CSS `image-rendering` property?",
+            "expected_keywords": ["pixelated", "crisp-edges", "scaling", "image quality", "optimization"]
+        },
+        {
+            "id": "css_487",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Explain the concept of CSS `aspect-ratio` property and its use cases.",
+            "expected_keywords": ["responsive images", "videos", "containers", "layout stability", "width-to-height ratio"]
+        },
+        {
+            "id": "css_488",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How does the CSS `minmax()` function work in Grid layouts?",
+            "expected_keywords": ["track sizing", "responsive design", "grid-template-columns", "flexibility", "auto-fill"]
+        },
+        {
+            "id": "css_489",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What are the benefits of using CSS `prefers-reduced-motion` media query?",
+            "expected_keywords": ["accessibility", "user preferences", "animations", "motion sickness", "media features"]
+        },
+        {
+            "id": "css_490",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Describe how CSS `object-fit` property affects replaced elements.",
+            "expected_keywords": ["images", "videos", "contain", "cover", "aspect ratio"]
+        },
+        {
+            "id": "css_491",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How can the CSS `:nth-child()` pseudo-class be utilized effectively?",
+            "expected_keywords": ["patterned selections", "odd/even", "sequences", "structural selectors", "dynamic styling"]
+        },
+        {
+            "id": "css_492",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What is the purpose of the CSS `writing-mode` property?",
+            "expected_keywords": ["vertical text", "internationalization", "layout", "top-to-bottom", "left-to-right"]
+        },
+        {
+            "id": "css_493",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Explain the use of CSS `counter-reset` and `counter-increment` properties.",
+            "expected_keywords": ["automatic numbering", "lists", "custom counters", "content generation", "pseudo-elements"]
+        },
+ 
+
+    
+        {
+            "id": "css_494",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What is the CSS `:has()` pseudo-class, and how can it be used to select elements based on their descendants?",
+            "expected_keywords": ["parent selector", "conditional selection", "complex selectors", "relationship-based styling", "dynamic styling"]
+        },
+        {
+            "id": "css_495",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Explain the concept of CSS `container queries` and their significance in responsive design.",
+            "expected_keywords": ["element-based media queries", "component responsiveness", "layout adjustments", "modular design", "adaptive styling"]
+        },
+        {
+            "id": "css_496",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How does the CSS `:where()` pseudo-class differ from `:is()`, and when would you use it?",
+            "expected_keywords": ["specificity", "selector grouping", "zero specificity", "optimization", "styling precedence"]
+        },
+        {
+            "id": "css_497",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What are CSS `ch` and `ex` units, and how do they relate to typography?",
+            "expected_keywords": ["relative units", "character width", "x-height", "font metrics", "scalable design"]
+        },
+        {
+            "id": "css_498",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Describe the purpose and usage of the CSS `scroll-timeline` property in creating scroll-linked animations.",
+            "expected_keywords": ["scroll-driven animations", "Web Animations API", "timeline control", "user interaction", "dynamic effects"]
+        },
+        {
+            "id": "css_499",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How can the CSS `:nth-of-type()` pseudo-class be utilized to style elements selectively?",
+            "expected_keywords": ["element type selection", "patterned styling", "structural selectors", "dynamic design", "index-based targeting"]
+        },
+        {
+            "id": "css_500",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What is the function of the CSS `mix-blend-mode` property, and how can it be applied in design?",
+            "expected_keywords": ["blending modes", "compositing", "visual effects", "layer interaction", "color blending"]
+        },
+        {
+            "id": "css_501",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Explain the concept of CSS `subgrid` and its advantages in grid layouts.",
+            "expected_keywords": ["nested grids", "inherit grid lines", "layout consistency", "complex designs", "grid hierarchy"]
+        },
+        {
+            "id": "css_502",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How does the CSS `:not()` pseudo-class enhance selector capabilities?",
+            "expected_keywords": ["negation", "exclude elements", "conditional styling", "complex selectors", "filtering"]
+        },
+        {
+            "id": "css_503",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What are CSS `system colors`, and how do they interact with user preferences?",
+            "expected_keywords": ["user agent styles", "platform-specific colors", "accessibility", "color schemes", "user settings"]
+        },
+        {
+            "id": "css_504",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Describe the use and benefits of the CSS `clamp()` function in responsive design.",
+            "expected_keywords": ["dynamic sizing", "value constraints", "fluid typography", "min/max values", "scalable layouts"]
+        },
+        {
+            "id": "css_505",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How can CSS `logical properties` be utilized to support internationalization?",
+            "expected_keywords": ["writing modes", "directionality", "layout adaptability", "inline/block dimensions", "locale-aware design"]
+        },
+        {
+            "id": "css_506",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What is the purpose of the CSS `overscroll-behavior` property?",
+            "expected_keywords": ["scroll chaining", "scroll boundaries", "user experience", "nested scrolling", "interaction control"]
+        },
+        {
+            "id": "css_507",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Explain how CSS `grid-template-areas` can simplify complex layouts.",
+            "expected_keywords": ["named areas", "visual mapping", "layout readability", "template strings", "grid positioning"]
+        },
+        {
+            "id": "css_508",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How does the CSS `:first-of-type` pseudo-class differ from `:first-child`?",
+            "expected_keywords": ["element type specificity", "sibling relationships", "structural selectors", "hierarchical styling", "DOM structure"]
+        },
+        {
+            "id": "css_509",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What are the implications of using CSS `contain` property for performance?",
+            "expected_keywords": ["containment context", "rendering optimization", "isolation", "layout thrashing", "paint performance"]
+        },
+        {
+            "id": "css_510",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "Describe the functionality of CSS `fit-content()` in grid and flex layouts.",
+            "expected_keywords": ["intrinsic sizing", "content-based sizing", "layout adjustment", "responsive design", "space distribution"]
+        },
+        {
+            "id": "css_511",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "How can the CSS `:only-child` pseudo-class be used to apply styles?",
+            "expected_keywords": ["single child selection", "conditional styling", "structural pseudo-class", "DOM manipulation", "exclusive targeting"]
+        },
+        {
+            "id": "css_512",
+            "category": "css",
+            "difficulty": "expert",
+            "question": "What is the purpose of the CSS `image-set()` function?",
+            "expected_keywords": ["responsive images", "resolution switching", "multiple sources", "high-DPI displays", "asset management"]
+        },
+        {
+          "id": "css_513",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Explain the use of CSS `scroll-padding` in enhancing scroll snapping.",
+          "expected_keywords": ["scroll snapping", "offset", "scroll container", "user experience", "alignment"]
+        },
+
+
+
+      {
+          "id": "css_514",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What is the CSS `:focus-within` pseudo-class, and how does it differ from `:focus`?",
+          "expected_keywords": ["parent element", "child focus", "user interaction", "form accessibility", "nested elements"]
+      },
+      {
+          "id": "css_515",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Explain the concept of CSS `aspect-ratio` property and its practical applications.",
+          "expected_keywords": ["responsive design", "media elements", "fixed proportions", "layout control", "image scaling"]
+      },
+      {
+          "id": "css_516",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How does the CSS `:target` pseudo-class function, and what are its common use cases?",
+          "expected_keywords": ["fragment identifiers", "in-page navigation", "interactive content", "URL hash", "dynamic styling"]
+      },
+      {
+          "id": "css_517",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What are CSS `environment variables` (env()), and how are they used in design?",
+          "expected_keywords": ["dynamic values", "viewport-inset", "safe areas", "responsive layouts", "design tokens"]
+      },
+      {
+          "id": "css_518",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Describe the purpose and usage of the CSS `scroll-snap-type` property.",
+          "expected_keywords": ["scroll snapping", "user experience", "carousel effects", "scroll containers", "alignment control"]
+      },
+      {
+          "id": "css_519",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How can the CSS `:nth-last-child()` pseudo-class be utilized in styling?",
+          "expected_keywords": ["reverse indexing", "element selection", "structural pseudo-class", "dynamic styling", "DOM manipulation"]
+      },
+      {
+          "id": "css_520",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What is the function of the CSS `backdrop-filter` property, and how is it applied?",
+          "expected_keywords": ["visual effects", "background blurring", "transparency", "overlay design", "filter functions"]
+      },
+      {
+          "id": "css_521",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Explain the concept of CSS `custom properties` (variables) and their benefits.",
+          "expected_keywords": ["reusability", "maintainability", "theming", "dynamic values", "cascading variables"]
+      },
+      {
+          "id": "css_522",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How does the CSS `:empty` pseudo-class assist in styling elements?",
+          "expected_keywords": ["content absence", "conditional styling", "structural selectors", "placeholder design", "UI feedback"]
+      },
+      {
+          "id": "css_523",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What are CSS `math functions` like `min()`, `max()`, and `clamp()`, and how do they enhance responsive design?",
+          "expected_keywords": ["dynamic calculations", "flexible layouts", "value constraints", "adaptive sizing", "design consistency"]
+      },
+      {
+          "id": "css_524",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Describe the use and advantages of the CSS `object-fit` property.",
+          "expected_keywords": ["media scaling", "aspect ratio", "image fitting", "responsive images", "container control"]
+      },
+      {
+          "id": "css_525",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How can the CSS `:checked` pseudo-class be used to style form elements?",
+          "expected_keywords": ["input states", "user interaction", "conditional styling", "checkboxes", "radio buttons"]
+      },
+      {
+          "id": "css_526",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What is the purpose of the CSS `writing-mode` property, and when is it useful?",
+          "expected_keywords": ["text orientation", "vertical writing", "internationalization", "layout adjustments", "language support"]
+      },
+      {
+          "id": "css_527",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Explain the concept of CSS `grid-auto-flow` property and its impact on grid layouts.",
+          "expected_keywords": ["implicit grid", "item placement", "layout direction", "dense packing", "flow control"]
+      },
+      {
+          "id": "css_528",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How does the CSS `:indeterminate` pseudo-class function, and where is it commonly used?",
+          "expected_keywords": ["form controls", "checkbox states", "user interaction", "partial selection", "dynamic styling"]
+      },
+      {
+          "id": "css_529",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What are CSS `counter` properties, and how can they be utilized in ordered lists?",
+          "expected_keywords": ["automatic numbering", "list styling", "content generation", "counter-increment", "counter-reset"]
+      },
+      {
+          "id": "css_530",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Describe the functionality and use cases of the CSS `resize` property.",
+          "expected_keywords": ["element resizing", "user interaction", "textarea control", "overflow management", "UI flexibility"]
+      },
+      {
+          "id": "css_531",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How can the CSS `:lang()` pseudo-class be used to apply language-specific styles?",
+          "expected_keywords": ["internationalization", "locale-specific styling", "attribute selectors", "content adaptation", "multilingual support"]
+      },
+      {
+          "id": "css_532",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What is the purpose of the CSS `all` property, and how does it affect element styling?",
+          "expected_keywords": ["property reset", "inheritance control", "initial values", "cascading rules", "style management"]
+      },
+      {
+        "id": "css_533",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain the use and benefits of the CSS `line-clamp` property.",
+        "expected_keywords": ["text truncation", "multiline", "ellipsis", "overflow", "clipping"]
+      },
+
+      {
+          "id": "css_534",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What is the CSS `:focus-within` pseudo-class, and how does it differ from `:focus`?",
+          "expected_keywords": ["parent element", "child focus", "user interaction", "form accessibility", "nested elements"]
+      },
+      {
+          "id": "css_535",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Explain the concept of CSS `aspect-ratio` property and its practical applications.",
+          "expected_keywords": ["responsive design", "media elements", "fixed proportions", "layout control", "image scaling"]
+      },
+      {
+          "id": "css_536",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How does the CSS `:target` pseudo-class function, and what are its common use cases?",
+          "expected_keywords": ["fragment identifiers", "in-page navigation", "interactive content", "URL hash", "dynamic styling"]
+      },
+      {
+          "id": "css_537",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What are CSS `environment variables` (env()), and how are they used in design?",
+          "expected_keywords": ["dynamic values", "viewport-inset", "safe areas", "responsive layouts", "design tokens"]
+      },
+      {
+          "id": "css_538",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Describe the purpose and usage of the CSS `scroll-snap-type` property.",
+          "expected_keywords": ["scroll snapping", "user experience", "carousel effects", "scroll containers", "alignment control"]
+      },
+      {
+          "id": "css_539",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How can the CSS `:nth-last-child()` pseudo-class be utilized in styling?",
+          "expected_keywords": ["reverse indexing", "element selection", "structural pseudo-class", "dynamic styling", "DOM manipulation"]
+      },
+      {
+          "id": "css_540",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What is the function of the CSS `backdrop-filter` property, and how is it applied?",
+          "expected_keywords": ["visual effects", "background blurring", "transparency", "overlay design", "filter functions"]
+      },
+      {
+          "id": "css_541",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Explain the concept of CSS `custom properties` (variables) and their benefits.",
+          "expected_keywords": ["reusability", "maintainability", "theming", "dynamic values", "cascading variables"]
+      },
+      {
+          "id": "css_542",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How does the CSS `:empty` pseudo-class assist in styling elements?",
+          "expected_keywords": ["content absence", "conditional styling", "structural selectors", "placeholder design", "UI feedback"]
+      },
+      {
+          "id": "css_543",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What are CSS `math functions` like `min()`, `max()`, and `clamp()`, and how do they enhance responsive design?",
+          "expected_keywords": ["dynamic calculations", "flexible layouts", "value constraints", "adaptive sizing", "design consistency"]
+      },
+      {
+          "id": "css_544",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Describe the use and advantages of the CSS `object-fit` property.",
+          "expected_keywords": ["media scaling", "aspect ratio", "image fitting", "responsive images", "container control"]
+      },
+      {
+          "id": "css_545",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How can the CSS `:checked` pseudo-class be used to style form elements?",
+          "expected_keywords": ["input states", "user interaction", "conditional styling", "checkboxes", "radio buttons"]
+      },
+      {
+          "id": "css_546",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What is the purpose of the CSS `writing-mode` property, and when is it useful?",
+          "expected_keywords": ["text orientation", "vertical writing", "internationalization", "layout adjustments", "language support"]
+      },
+      {
+          "id": "css_547",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Explain the concept of CSS `grid-auto-flow` property and its impact on grid layouts.",
+          "expected_keywords": ["implicit grid", "item placement", "layout direction", "dense packing", "flow control"]
+      },
+      {
+          "id": "css_548",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "How does the CSS `:indeterminate` pseudo-class function, and where is it commonly used?",
+          "expected_keywords": ["form controls", "checkbox states", "user interaction", "partial selection", "dynamic styling"]
+      },
+      {
+          "id": "css_549",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "What are CSS `counter` properties, and how can they be utilized in ordered lists?",
+          "expected_keywords": ["automatic numbering", "list styling", "content generation", "counter-increment", "counter-reset"]
+      },
+      {
+          "id": "css_550",
+          "category": "css",
+          "difficulty": "expert",
+          "question": "Describe the functionality and use cases of the CSS `resize` property.",
+          "expected_keywords": ["element resizing", "user interaction", "textarea control", "overflow management", "UI flexibility"]
+      },
+      {
+        "id": "css_551",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the CSS `scroll-snap-align` property, and how does it work?",
+        "expected_keywords": ["scroll-snap-align", "alignment", "snap positions", "scroll container", "user experience"]
+      },
+      {
+        "id": "css_552",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain the difference between `grid-gap` and `gap` in CSS Grid layouts.",
+        "expected_keywords": ["grid-gap", "gap", "spacing", "grid", "layout"]
+      },
+      {
+        "id": "css_553",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How do CSS blend modes affect overlapping elements?",
+        "expected_keywords": ["blend modes", "mix-blend-mode", "background-blend-mode", "compositing", "visual effects"]
+      },
+      {
+        "id": "css_554",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the purpose of the CSS `object-position` property when used with `object-fit`?",
+        "expected_keywords": ["object-position", "object-fit", "alignment", "media", "positioning"]
+      },
+      {
+        "id": "css_555",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can critical rendering path techniques be applied to optimize CSS performance?",
+        "expected_keywords": ["critical CSS", "rendering", "performance", "optimization", "above-the-fold"]
+      },
+      {
+        "id": "css_556",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What are the benefits of modular CSS in large-scale projects?",
+        "expected_keywords": ["modularity", "scalability", "maintenance", "components", "reusability"]
+      },
+      {
+        "id": "css_557",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How do CSS Modules differ from traditional global CSS?",
+        "expected_keywords": ["CSS Modules", "scoping", "encapsulation", "naming collisions", "maintenance"]
+      },
+      {
+        "id": "css_558",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain how the `@supports` rule is used for feature detection in CSS.",
+        "expected_keywords": ["feature queries", "fallback", "conditional", "progressive enhancement", "compatibility"]
+      },
+      {
+        "id": "css_559",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the CSS `@layer` rule, and how does it affect cascading?",
+        "expected_keywords": ["@layer", "cascading", "specificity", "ordering", "style organization"]
+      },
+      {
+        "id": "css_560",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can fluid typography be achieved using CSS `clamp()` and viewport units?",
+        "expected_keywords": ["fluid typography", "clamp()", "viewport units", "responsive", "scaling"]
+      },
+      {
+        "id": "css_561",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the role of the CSS `filter` property in creating visual effects?",
+        "expected_keywords": ["filter", "blur", "brightness", "contrast", "visual effects"]
+      },
+      {
+        "id": "css_562",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can `animation-play-state` be used to control CSS animations?",
+        "expected_keywords": ["animation-play-state", "pause", "play", "control", "animation"]
+      },
+      {
+        "id": "css_563",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the purpose of the CSS `@keyframes` rule in animation creation?",
+        "expected_keywords": ["@keyframes", "animation", "keyframes", "timing", "transitions"]
+      },
+      {
+        "id": "css_564",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can the `transition` property be leveraged to create smooth hover effects?",
+        "expected_keywords": ["transition", "hover", "smooth", "animation", "effect"]
+      },
+      {
+        "id": "css_565",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What role do vendor prefixes play in CSS development?",
+        "expected_keywords": ["vendor prefixes", "compatibility", "experimental", "browser support", "standards"]
+      },
+      {
+        "id": "css_566",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain the usage of the CSS `font-feature-settings` property.",
+        "expected_keywords": ["font-feature-settings", "typography", "ligatures", "stylistic sets", "advanced typography"]
+      },
+      {
+        "id": "css_567",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How does the CSS `text-rendering` property impact font display?",
+        "expected_keywords": ["text-rendering", "legibility", "anti-aliasing", "performance", "font display"]
+      },
+      {
+        "id": "css_568",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What are the key considerations for designing for high-density displays using CSS?",
+        "expected_keywords": ["retina", "high-density", "resolution", "scaling", "media queries"]
+      },
+      {
+        "id": "css_569",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can `position: sticky` be implemented for fixed headers in scrolling layouts?",
+        "expected_keywords": ["position: sticky", "fixed header", "scroll", "navigation", "layout"]
+      },
+      {
+        "id": "css_570",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain the benefits of CSS Logical Properties for supporting different writing modes.",
+        "expected_keywords": ["logical properties", "writing modes", "RTL", "internationalization", "flow-relative"]
+      },
+      {
+        "id": "css_571",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the CSS `grid` shorthand property, and how does it simplify grid definitions?",
+        "expected_keywords": ["grid shorthand", "grid-template", "layout", "concise", "simplify"]
+      },
+      {
+        "id": "css_572",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How does the `@font-face` rule work to load custom fonts in CSS?",
+        "expected_keywords": ["@font-face", "custom fonts", "font loading", "fallback", "web typography"]
+      },
+      {
+        "id": "css_573",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What are the performance benefits of using the `will-change` property on frequently updated elements?",
+        "expected_keywords": ["will-change", "performance", "GPU", "rendering", "optimization"]
+      },
+      {
+        "id": "css_574",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain the differences between CSS transitions and keyframe animations.",
+        "expected_keywords": ["transitions", "animations", "keyframes", "state change", "timing"]
+      },
+      {
+        "id": "css_575",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can scalable CSS architecture be achieved in large applications?",
+        "expected_keywords": ["scalability", "architecture", "modularity", "maintainability", "organization"]
+      },
+      {
+        "id": "css_576",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What are CSS custom media queries and how do they differ from standard media queries?",
+        "expected_keywords": ["custom media", "reuse", "variables", "responsive", "fallback"]
+      },
+      {
+        "id": "css_577",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Describe the process of minifying CSS and its impact on website performance.",
+        "expected_keywords": ["minification", "compression", "file size", "performance", "optimization"]
+      },
+      {
+        "id": "css_578",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How does the `display: contents` property affect the DOM and styling?",
+        "expected_keywords": ["display: contents", "layout", "DOM", "invisible", "styling"]
+      },
+      {
+        "id": "css_579",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain the function of the CSS `white-space` property in controlling text formatting.",
+        "expected_keywords": ["white-space", "text wrapping", "preserve", "collapse", "formatting"]
+      },
+      {
+        "id": "css_580",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What role do CSS list-style properties play in customizing list markers?",
+        "expected_keywords": ["list-style", "custom markers", "bullets", "numbers", "styling"]
+      },
+      {
+        "id": "css_581",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How do pseudo-elements like `::before` and `::after` facilitate content insertion?",
+        "expected_keywords": ["pseudo-elements", "content", "insertion", "decorative", "styling"]
+      },
+      {
+        "id": "css_582",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What are best practices for writing maintainable CSS comments?",
+        "expected_keywords": ["comments", "documentation", "readability", "clarity", "maintenance"]
+      },
+      {
+        "id": "css_583",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can CSS be utilized to create accessible user interfaces?",
+        "expected_keywords": ["accessibility", "ARIA", "contrast", "keyboard navigation", "semantic"]
+      },
+      {
+        "id": "css_584",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain how to animate the CSS `filter` property for dynamic visual effects.",
+        "expected_keywords": ["filter", "animation", "transitions", "visual effects", "dynamic"]
+      },
+      {
+        "id": "css_585",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the purpose of the CSS `pointer-events` property, and how can it be used?",
+        "expected_keywords": ["pointer-events", "interaction", "clickability", "disable", "transparent"]
+      },
+      {
+        "id": "css_586",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Describe the impact of `transition-delay` on CSS animations.",
+        "expected_keywords": ["transition-delay", "timing", "animation", "delay", "user experience"]
+      },
+      {
+        "id": "css_587",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can you style custom checkboxes and radio buttons using CSS?",
+        "expected_keywords": ["custom styling", "checkbox", "radio", "form controls", "appearance"]
+      },
+      {
+        "id": "css_588",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What advantages does `background-blend-mode` offer in CSS design?",
+        "expected_keywords": ["background-blend-mode", "blend mode", "compositing", "visual effects", "overlay"]
+      },
+      {
+        "id": "css_589",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain the relationship between `object-position` and `object-fit` in controlling media display.",
+        "expected_keywords": ["object-position", "object-fit", "alignment", "media", "positioning"]
+      },
+      {
+        "id": "css_590",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How do `@import` rules affect the loading sequence of CSS files?",
+        "expected_keywords": ["@import", "loading sequence", "cascading", "performance", "dependency"]
+      },
+      {
+        "id": "css_591",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What are CSS vendor prefixes, and how do they ensure cross-browser compatibility?",
+        "expected_keywords": ["vendor prefixes", "compatibility", "browser support", "experimental", "standards"]
+      },
+      {
+        "id": "css_592",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How does the `text-shadow` property enhance typography in CSS?",
+        "expected_keywords": ["text-shadow", "typography", "shadow", "readability", "visual effect"]
+      },
+      {
+        "id": "css_593",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "In what ways can `box-shadow` be used to add depth to UI elements?",
+        "expected_keywords": ["box-shadow", "depth", "elevation", "UI", "shadow"]
+      },
+      {
+        "id": "css_594",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the role of `transition-timing-function` in controlling animations?",
+        "expected_keywords": ["transition-timing-function", "easing", "animation", "timing", "smooth"]
+      },
+      {
+        "id": "css_595",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How does the `transform` property enable both 2D and 3D effects in CSS?",
+        "expected_keywords": ["transform", "2D", "3D", "rotate", "scale"]
+      },
+      {
+        "id": "css_596",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain how the CSS `perspective` property influences 3D transformations.",
+        "expected_keywords": ["perspective", "3D", "depth", "vanishing point", "transform"]
+      },
+      {
+        "id": "css_597",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What is the purpose of the `filter` property when applied to SVG elements?",
+        "expected_keywords": ["SVG", "filter", "visual effects", "blurring", "color adjustment"]
+      },
+      {
+        "id": "css_598",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "How can CSS custom properties be used to implement a dark mode theme?",
+        "expected_keywords": ["dark mode", "custom properties", "theming", "variables", "CSS"]
+      },
+      {
+        "id": "css_599",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "What are the benefits of animating background color changes using CSS transitions?",
+        "expected_keywords": ["transition", "background color", "animation", "hover effect", "smooth"]
+      },
+      {
+        "id": "css_600",
+        "category": "css",
+        "difficulty": "expert",
+        "question": "Explain the concept of CSS `view-transition` and its applications in modern web design.",
+        "expected_keywords": ["view-transition", "page transition", "smooth animation", "user experience", "single-page applications"]
+      }
+  ]
+}
+
+ 
+
+
+
+    
+      
+
+
+
+    
+
+
+
+
+
+
+
+  
+  
+
+ 
+
+
+

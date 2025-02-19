@@ -1,0 +1,2126 @@
+{
+  "questions": [
+        {
+          "id": "bus_1",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "Can you describe a time when you worked effectively under pressure?",
+          "expected_keywords": ["stress management", "performance under pressure", "time-sensitive tasks", "resilience", "adaptability", "composure"]
+        },
+        {
+          "id": "bus_2",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you define success in a business context?",
+          "expected_keywords": ["success", "business context", "achievement", "goals", "innovation", "value creation", "growth metrics"]
+        },
+        {
+          "id": "bus_3",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "Can you describe a time when you worked effectively in a team?",
+          "expected_keywords": ["teamwork", "collaboration", "effective communication", "cooperation", "collective problem-solving", "interpersonal skills"]
+        },
+        {
+          "id": "bus_4",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you prioritize tasks when managing multiple deadlines?",
+          "expected_keywords": ["prioritization", "time management", "deadlines", "organization", "scheduling", "task management", "multitasking"]
+        },
+        {
+          "id": "bus_5",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What strategies would you use to handle a difficult customer?",
+          "expected_keywords": ["customer service", "conflict resolution", "communication", "empathy", "problem-solving", "patience", "active listening"]
+        },
+        {
+          "id": "bus_6",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "Why do you want to work for our company?",
+          "expected_keywords": ["company interest", "alignment with values", "career goals", "research", "cultural fit", "motivation"]
+        },
+        {
+          "id": "bus_7",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you stay informed about industry trends?",
+          "expected_keywords": ["industry trends", "continuous learning", "professional development", "newsletters", "market research", "networking"]
+        },
+        {
+          "id": "bus_8",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "Describe a situation where you had to solve a problem creatively.",
+          "expected_keywords": ["problem-solving", "creativity", "innovation", "out-of-the-box thinking", "resourcefulness", "adaptability"]
+        },
+        {
+          "id": "bus_9",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What are your strengths and how do they apply to this role?",
+          "expected_keywords": ["strengths", "self-assessment", "role alignment", "skill matching", "personal attributes", "capabilities"]
+        },
+        {
+          "id": "bus_10",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What methods do you use to stay updated with industry trends?",
+          "expected_keywords": ["industry knowledge", "professional development", "research", "training", "webinars", "industry events"]
+        },
+        {
+          "id": "bus_11",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What do you know about our company's mission and values?",
+          "expected_keywords": ["company mission", "values", "research", "corporate culture", "vision", "brand identity"]
+        },
+        {
+          "id": "bus_12",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "Can you provide an example of a goal you set and how you achieved it?",
+          "expected_keywords": ["goal setting", "achievement", "planning", "execution", "milestones", "results", "follow-through"]
+        },
+        {
+          "id": "bus_13",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you manage stress in a fast-paced work environment?",
+          "expected_keywords": ["stress management", "coping strategies", "work environment", "resilience", "mindfulness", "self-care", "adaptability"]
+        },
+        {
+          "id": "bus_14",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What role does ethics play in business decision-making?",
+          "expected_keywords": ["ethics", "decision-making", "integrity", "corporate responsibility", "transparency", "moral values", "accountability"]
+        },
+        {
+          "id": "bus_15",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How would you handle a disagreement with a coworker?",
+          "expected_keywords": ["conflict resolution", "communication", "professionalism", "active listening", "negotiation", "empathy", "collaboration"]
+        },
+        {
+          "id": "bus_16",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What are your long-term career goals?",
+          "expected_keywords": ["career goals", "future plans", "professional development", "aspirations", "growth", "vision"]
+        },
+        {
+          "id": "bus_17",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you approach learning a new skill relevant to your job?",
+          "expected_keywords": ["learning", "skill development", "adaptability", "training", "continuous improvement", "self-motivation", "innovation"]
+        },
+        {
+          "id": "bus_18",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What is your understanding of our target market?",
+          "expected_keywords": ["target market", "market research", "customer demographics", "consumer behavior", "market segmentation", "audience analysis"]
+        },
+        {
+          "id": "bus_19",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "Describe a time when you had to adapt to a significant change at work.",
+          "expected_keywords": ["adaptability", "change management", "flexibility", "transition", "resilience", "learning curve"]
+        },
+        {
+          "id": "bus_20",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you ensure accuracy in your work?",
+          "expected_keywords": ["attention to detail", "accuracy", "quality assurance", "precision", "error-checking", "consistency"]
+        },
+        {
+          "id": "bus_21",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What motivates you to perform well in your job?",
+          "expected_keywords": ["motivation", "job performance", "drive", "inspiration", "ambition", "commitment", "work ethic"]
+        },
+        {
+          "id": "bus_22",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you handle tight deadlines?",
+          "expected_keywords": ["time management", "deadlines", "efficiency", "prioritization", "planning", "stress management", "productivity"]
+        },
+        {
+          "id": "bus_23",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What experience do you have with customer service?",
+          "expected_keywords": ["customer service", "experience", "client interaction", "customer relations", "support", "communication", "problem resolution"]
+        },
+        {
+          "id": "bus_24",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you handle failure or setbacks?",
+          "expected_keywords": ["resilience", "setbacks", "learning from failure", "adaptability", "growth mindset", "perseverance", "reflection"]
+        },
+        {
+          "id": "bus_25",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "Can you discuss a time when you had to solve an unexpected problem?",
+          "expected_keywords": ["problem-solving", "critical thinking", "initiative", "adaptability", "resourcefulness", "innovation", "quick thinking"]
+        },
+        {
+          "id": "bus_25",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you handle situations where you have multiple deadlines at the same time?",
+          "expected_keywords": ["prioritization", "time management", "communication", "delegation", "stress management", "flexibility", "organization", "planning", "proactivity", "resource allocation", "multitasking", "scheduling"]
+        },
+        {
+          "id": "bus_26",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What strategies do you use to motivate your team?",
+          "expected_keywords": ["incentives", "recognition", "communication", "team building", "goal setting", "support", "feedback", "empowerment", "trust", "engagement", "leadership", "inspiration"]
+        },
+        {
+          "id": "bus_27",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you approach conflict resolution within a team?",
+          "expected_keywords": ["communication", "active listening", "mediation", "collaboration", "empathy", "problem-solving", "negotiation", "respect", "understanding", "compromise", "diplomacy", "interpersonal skills"]
+        },
+        {
+          "id": "bus_28",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What methods do you use to assess the performance of your team?",
+          "expected_keywords": ["KPIs", "feedback", "reviews", "metrics", "goal achievement", "self-assessment", "peer review", "data analysis", "continuous improvement", "coaching", "performance evaluation", "benchmarking"]
+        },
+        {
+          "id": "bus_29",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "How do you ensure effective communication in a remote work environment?",
+          "expected_keywords": ["tools", "clarity", "regular check-ins", "transparency", "collaboration", "feedback", "technology", "team culture", "responsiveness", "engagement", "virtual meetings", "remote collaboration"]
+        },
+        {
+          "id": "bus_30",
+          "category": "business",
+          "difficulty": "beginner",
+          "question": "What steps do you take to develop a successful business plan?",
+          "expected_keywords": ["research", "market analysis", "goals", "strategy", "financial projections", "SWOT analysis", "target audience", "marketing plan", "execution", "review", "risk assessment", "feasibility study", "resource planning", "budgeting", "implementation roadmap"]
+    },
+
+  {
+    "id": "bus_31",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "What are the key components of a successful business plan?",
+    "expected_keywords": ["executive summary", "market analysis", "financial projections", "marketing strategy", "operational plan"]
+  },
+  {
+    "id": "bus_32",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "Can you describe a time when you successfully negotiated a contract or deal for your company?",
+    "expected_keywords": ["negotiation", "agreement", "stakeholders", "win-win", "cost savings", "terms and conditions", "contract management", "communication", "persuasion", "compromise"]
+  },
+  {
+    "id": "bus_33",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "What is the importance of market research before launching a product?",
+    "expected_keywords": ["customer needs", "competitor analysis", "market trends", "target audience", "product positioning"]
+  },
+  {
+    "id": "bus_34",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How can a company ensure customer satisfaction?",
+    "expected_keywords": ["quality service", "feedback", "customer support", "expectations", "loyalty"]
+  },
+  {
+    "id": "bus_35",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "What are the benefits of teamwork in achieving business objectives?",
+    "expected_keywords": ["collaboration", "diverse skills", "innovation", "efficiency", "shared goals"]
+  },
+  {
+    "id": "bus_36",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How does financial management contribute to business success?",
+    "expected_keywords": ["budgeting", "cash flow", "investment", "profitability", "financial planning"]
+  },
+  {
+    "id": "bus_37",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How have you handled a situation where a team member wasn’t meeting their goals?",
+    "expected_keywords": ["performance review", "feedback", "coaching", "goal setting", "motivation", "accountability", "training", "communication", "support", "performance improvement plan"]
+  },
+  {
+    "id": "bus_38",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How can businesses adapt to changing market conditions?",
+    "expected_keywords": ["flexibility", "innovation", "market research", "customer feedback", "strategic planning"]
+  },
+  {
+    "id": "bus_39",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "What are the advantages of digital marketing over traditional marketing?",
+    "expected_keywords": ["cost-effectiveness", "reach", "measurable results", "targeting", "engagement"]
+  },
+  {
+    "id": "bus_40",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How does corporate social responsibility (CSR) impact a company's reputation?",
+    "expected_keywords": ["ethics", "community engagement", "sustainability", "brand image", "customer trust"]
+  },
+  {
+    "id": "bus_41",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How do you ensure that projects are completed on time and within budget?",
+    "expected_keywords": ["project management", "timeline", "budgeting", "resource allocation", "risk management", "deadlines", "efficiency", "cost control", "planning", "monitoring"]
+  },
+  {
+    "id": "bus_42",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "Describe your experience with developing and implementing business strategies.",
+    "expected_keywords": ["strategy", "planning", "execution", "market analysis", "goal setting", "performance metrics", "competitive advantage", "innovation", "scalability", "adaptability"]
+  },
+  {
+    "id": "bus_43",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How do you evaluate the success of a new product or service launch?",
+    "expected_keywords": ["KPIs", "market response", "customer feedback", "sales performance", "ROI", "brand awareness", "user engagement", "conversion rates", "competitive analysis", "customer retention"]
+  }
+  ,
+  {
+    "id": "bus_44",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "What methods do you use to monitor the performance of your team members?",
+    "expected_keywords": ["performance tracking", "KPIs", "feedback", "evaluation", "productivity", "goal setting", "360-degree review", "engagement", "coaching", "improvement"]
+  },
+  {
+    "id": "bus_45",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "What strategies can businesses use to manage risks effectively?",
+    "expected_keywords": ["risk assessment", "mitigation plans", "insurance", "diversification", "contingency planning"]
+  },
+  {
+    "id": "bus_46",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How would you manage a situation where a client is not satisfied with our product or service?",
+    "expected_keywords": ["customer feedback", "active listening", "empathy", "resolution", "communication", "service recovery", "follow-up", "compensation", "problem-solving", "customer retention"]
+  }
+  ,
+  {
+    "id": "bus_47",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How can businesses effectively manage supply chain operations?",
+    "expected_keywords": ["logistics", "supplier relationships", "inventory management", "cost control", "efficiency"]
+  },
+  {
+    "id": "bus_48",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How do you evaluate the success of a new product or service launch?",
+    "expected_keywords": ["KPIs", "market response", "customer feedback", "sales performance", "ROI", "brand awareness", "user engagement", "conversion rates", "competitive analysis", "customer retention"]
+  },
+  {
+    "id": "bus_49",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How does innovation drive competitive advantage?",
+    "expected_keywords": ["differentiation", "market leadership", "customer satisfaction", "adaptability", "growth"]
+  },
+  {
+    "id": "bus_50",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "What is the role of ethics in business decision-making?",
+    "expected_keywords": ["integrity", "trust", "compliance", "corporate governance", "social responsibility"]
+  },
+  {
+    "id": "bus_51",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "How can businesses enhance their brand identity?",
+    "expected_keywords": ["branding", "consistency", "value proposition", "customer perception", "marketing"]
+  },
+  {
+    "id": "bus_52",
+    "category": "business",
+    "difficulty": "beginner",
+    "question": "What are the key factors in selecting a target market?",
+    "expected_keywords": ["demographics", "psychographics", "market size", "profitability", "accessibility"]
+  },
+ {
+   "id": "bus_53",
+   "category": "business",
+   "difficulty": "beginner",
+   "question": "How do you identify and analyze your target market?",
+   "expected_keywords": ["market research", "demographics", "surveys", "competitor analysis", "customer feedback", "segmentation", "trends", "data analysis", "personas", "needs assessment"]
+   },
+ {
+   "id": "bus_54",
+   "category": "business",
+   "difficulty": "beginner",
+   "question": "What role does customer feedback play in your business strategy?",
+   "expected_keywords": ["improvement", "satisfaction", "surveys", "reviews", "engagement", "adaptation", "loyalty", "communication", "data analysis", "product development"]
+   },
+
+  {
+   "id": "bus_55",
+   "category": "business",
+   "difficulty": "beginner",
+   "question": "How do you manage your business finances effectively?",
+   "expected_keywords": ["budgeting", "cash flow", "expenses", "financial statements", "forecasting", "record keeping", "cost control", "investments", "profitability", "accounting"]
+   },
+ {
+   "id": "bus_56",
+   "category": "business",
+   "difficulty": "beginner",
+   "question": "What techniques do you use for effective networking?",
+   "expected_keywords": ["relationships", "communication", "events", "follow-up", "social media", "collaboration", "value exchange", "referrals", "professionalism", "engagement"]
+   },
+  {
+   "id": "bus_57",
+   "category": "business",
+   "difficulty": "beginner",
+   "question": "How do you stay updated with industry trends and changes?",
+   "expected_keywords": ["research", "news", "conferences", "webinars", "networking", "subscriptions", "social media", "professional development", "competitor analysis", "innovation"]
+   },
+ {
+   "id": "bus_58",
+   "category": "business",
+   "difficulty": "beginner",
+   "question": "What is your approach to setting and achieving business goals?",
+   "expected_keywords": ["SMART goals", "planning", "monitoring", "evaluation", "prioritization", "team involvement", "flexibility", "motivation", "accountability", "review"]
+   },
+  {
+   "id": "bus_59",
+   "category": "business",
+   "difficulty": "beginner",
+   "question": "How do you handle customer complaints effectively?",
+   "expected_keywords": ["listening", "empathy", "resolution", "follow-up", "communication", "feedback", "service recovery", "documentation", "training", "improvement"]
+   },
+  {
+   "id": "bus_60",
+   "category": "business",
+   "difficulty": "beginner",
+   "question": "What strategies do you use for effective team collaboration?",
+   "expected_keywords": ["communication", "tools", "trust", "roles", "meetings", "goal alignment", "feedback", "conflict resolution", "engagement", "support"]
+   },
+    {
+      "id": "bus_60",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What factors should be considered when selecting an international market for expansion?",
+      "expected_keywords": ["market research", "economic factors", "cultural considerations", "competition", "regulatory environment"]
+    },
+    {
+      "id": "bus_61",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses evaluate and mitigate risks in new product development?",
+      "expected_keywords": ["risk management", "product lifecycle", "market trends", "feasibility analysis", "contingency planning"]
+    },
+    {
+      "id": "bus_62",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can companies implement to drive digital transformation?",
+      "expected_keywords": ["technology adoption", "innovation", "process optimization", "change management", "competitive advantage"]
+    },
+    {
+      "id": "bus_63",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How does data analytics contribute to strategic decision-making in business?",
+      "expected_keywords": ["data analytics", "business intelligence", "decision-making", "performance metrics", "ROI"]
+    },
+    {
+      "id": "bus_64",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role does corporate governance play in ensuring ethical business practices?",
+      "expected_keywords": ["corporate governance", "ethics", "transparency", "accountability", "stakeholder trust"]
+    },
+    {
+      "id": "bus_65",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses leverage social media to build brand loyalty?",
+      "expected_keywords": ["social media strategy", "customer engagement", "brand loyalty", "content marketing", "influencer marketing"]
+    },
+    {
+      "id": "bus_66",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the challenges and benefits of adopting an agile methodology in business operations?",
+      "expected_keywords": ["agile methodology", "flexibility", "iterative development", "project management", "collaboration"]
+    },
+    {
+      "id": "bus_67",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do mergers and acquisitions affect market competition and business growth?",
+      "expected_keywords": ["mergers", "acquisitions", "market competition", "synergies", "growth strategy"]
+    },
+    {
+      "id": "bus_68",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What factors contribute to a successful leadership transition within an organization?",
+      "expected_keywords": ["leadership transition", "succession planning", "organizational culture", "communication", "strategic planning"]
+    },
+    {
+      "id": "bus_69",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can a company effectively measure the return on investment (ROI) for marketing campaigns?",
+      "expected_keywords": ["ROI", "marketing metrics", "performance analysis", "cost-benefit", "campaign effectiveness"]
+    },
+    {
+      "id": "bus_70",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the key elements of an effective crisis management strategy?",
+      "expected_keywords": ["crisis management", "communication", "risk mitigation", "preparedness", "response planning"]
+    },
+    {
+      "id": "bus_71",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How does globalization influence a company's competitive strategy?",
+      "expected_keywords": ["globalization", "competitive strategy", "market expansion", "cultural adaptation", "economic factors"]
+    },
+    {
+      "id": "bus_72",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the potential impacts of emerging technologies on traditional business models?",
+      "expected_keywords": ["emerging technologies", "disruption", "innovation", "business models", "competitive landscape"]
+    },
+    {
+      "id": "bus_73",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do companies balance cost control with quality improvement initiatives?",
+      "expected_keywords": ["cost control", "quality improvement", "efficiency", "investment", "process optimization"]
+    },
+    {
+      "id": "bus_74",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can businesses adopt to improve employee engagement and retention?",
+      "expected_keywords": ["employee engagement", "retention", "incentives", "organizational culture", "HR practices"]
+    },
+    {
+      "id": "bus_75",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do sustainable business practices influence long-term profitability?",
+      "expected_keywords": ["sustainability", "profitability", "corporate social responsibility", "environmental impact", "stakeholder value"]
+    },
+    {
+      "id": "bus_76",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role does market segmentation play in developing targeted marketing strategies?",
+      "expected_keywords": ["market segmentation", "targeted marketing", "customer analysis", "consumer behavior", "personalization"]
+    },
+    {
+      "id": "bus_77",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do companies assess the effectiveness of their supply chain management?",
+      "expected_keywords": ["supply chain management", "efficiency", "performance metrics", "logistics", "inventory management"]
+    },
+    {
+      "id": "bus_78",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the benefits and challenges of implementing lean management principles?",
+      "expected_keywords": ["lean management", "efficiency", "waste reduction", "continuous improvement", "operational excellence"]
+    },
+    {
+      "id": "bus_79",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can data-driven insights improve operational efficiency in businesses?",
+      "expected_keywords": ["data-driven", "operational efficiency", "analytics", "process optimization", "business intelligence"]
+    },
+    {
+      "id": "bus_80",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What factors should be considered when evaluating a potential business acquisition?",
+      "expected_keywords": ["acquisition", "due diligence", "valuation", "synergies", "strategic fit"]
+    },
+    {
+      "id": "bus_81",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses navigate regulatory challenges in highly regulated industries?",
+      "expected_keywords": ["regulatory challenges", "compliance", "industry standards", "risk management", "legal considerations"]
+    },
+    {
+      "id": "bus_82",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies are effective for managing cross-cultural teams in a global organization?",
+      "expected_keywords": ["cross-cultural management", "communication", "diversity", "teamwork", "global leadership"]
+    },
+    {
+      "id": "bus_83",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses harness the power of big data to gain competitive advantage?",
+      "expected_keywords": ["big data", "competitive advantage", "analytics", "customer insights", "data management"]
+    },
+    {
+      "id": "bus_84",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role do strategic alliances play in business growth and market expansion?",
+      "expected_keywords": ["strategic alliances", "partnerships", "collaboration", "market expansion", "synergy"]
+    },
+    {
+      "id": "bus_85",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do companies adapt their business models in response to disruptive innovations?",
+      "expected_keywords": ["disruptive innovation", "business model adaptation", "market disruption", "innovation management", "competitive strategy"]
+    },
+    {
+      "id": "bus_86",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the key performance indicators (KPIs) that businesses use to evaluate project success?",
+      "expected_keywords": ["KPIs", "project success", "performance metrics", "evaluation", "ROI"]
+    },
+    {
+      "id": "bus_87",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How does corporate culture impact innovation and business performance?",
+      "expected_keywords": ["corporate culture", "innovation", "employee engagement", "performance", "organizational behavior"]
+    },
+    {
+      "id": "bus_88",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What factors influence the decision to outsource business functions?",
+      "expected_keywords": ["outsourcing", "cost savings", "efficiency", "risk management", "core competencies"]
+    },
+    {
+      "id": "bus_89",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses effectively manage change during periods of rapid growth?",
+      "expected_keywords": ["change management", "growth", "adaptability", "communication", "leadership"]
+    },
+    {
+      "id": "bus_90",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What is the role of customer feedback in driving business innovation?",
+      "expected_keywords": ["customer feedback", "innovation", "product development", "improvement", "engagement"]
+    },
+    {
+      "id": "bus_91",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do companies evaluate the success of their corporate social responsibility initiatives?",
+      "expected_keywords": ["CSR", "impact measurement", "community engagement", "sustainability", "brand image"]
+    },
+    {
+      "id": "bus_92",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can businesses use to optimize their operational costs?",
+      "expected_keywords": ["operational costs", "efficiency", "budgeting", "cost reduction", "process improvement"]
+    },
+    {
+      "id": "bus_93",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses balance growth and risk in their investment strategies?",
+      "expected_keywords": ["investment strategies", "growth", "risk management", "portfolio diversification", "financial planning"]
+    },
+    {
+      "id": "bus_94",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the best practices for integrating new technology into existing business processes?",
+      "expected_keywords": ["technology integration", "business processes", "change management", "automation", "innovation"]
+    },
+    {
+      "id": "bus_95",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How does leadership style influence employee productivity and company culture?",
+      "expected_keywords": ["leadership style", "productivity", "company culture", "management", "motivation"]
+    },
+    {
+      "id": "bus_96",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What methods can companies use to forecast market trends and consumer behavior?",
+      "expected_keywords": ["market forecasting", "consumer behavior", "trend analysis", "predictive analytics", "data analysis"]
+    },
+    {
+      "id": "bus_97",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses approach rebranding to remain competitive in a changing market?",
+      "expected_keywords": ["rebranding", "competitive strategy", "brand identity", "market research", "innovation"]
+    },
+    {
+      "id": "bus_98",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the implications of digital disruption for traditional business models?",
+      "expected_keywords": ["digital disruption", "traditional business models", "innovation", "competitive landscape", "technology adoption"]
+    },
+    {
+      "id": "bus_99",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can companies effectively measure and improve customer satisfaction?",
+      "expected_keywords": ["customer satisfaction", "feedback", "net promoter score", "loyalty", "service improvement"]
+    },
+    {
+      "id": "bus_100",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can organizations employ to foster a culture of continuous learning?",
+      "expected_keywords": ["continuous learning", "training", "employee development", "innovation", "organizational growth"]
+    },
+    {
+      "id": "bus_101",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses determine the appropriate balance between centralized and decentralized management?",
+      "expected_keywords": ["management structure", "centralization", "decentralization", "decision-making", "organizational design"]
+    },
+    {
+      "id": "bus_102",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role does strategic planning play in navigating economic downturns?",
+      "expected_keywords": ["strategic planning", "economic downturn", "risk management", "resilience", "contingency planning"]
+    },
+    {
+      "id": "bus_103",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses use scenario planning to prepare for future uncertainties?",
+      "expected_keywords": ["scenario planning", "uncertainties", "strategic foresight", "risk management", "contingency planning"]
+    },
+    {
+      "id": "bus_104",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What factors should be considered when developing a competitive pricing strategy in a saturated market?",
+      "expected_keywords": ["competitive pricing", "market saturation", "differentiation", "value proposition", "profitability"]
+    },
+    {
+      "id": "bus_105",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do international trade policies impact business expansion strategies?",
+      "expected_keywords": ["international trade", "expansion strategies", "regulations", "tariffs", "global market"]
+    },
+    {
+      "id": "bus_106",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the challenges of implementing enterprise resource planning (ERP) systems in large organizations?",
+      "expected_keywords": ["ERP", "implementation challenges", "integration", "cost", "training", "change management"]
+    },
+    {
+      "id": "bus_107",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses foster innovation through cross-functional collaboration?",
+      "expected_keywords": ["cross-functional", "innovation", "collaboration", "diverse perspectives", "problem-solving"]
+    },
+    {
+      "id": "bus_108",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What impact does customer segmentation have on product development strategies?",
+      "expected_keywords": ["customer segmentation", "product development", "target market", "customization", "innovation"]
+    },
+    {
+      "id": "bus_109",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses assess the long-term value of strategic investments?",
+      "expected_keywords": ["strategic investments", "long-term value", "ROI", "financial analysis", "risk assessment"]
+    },
+    {
+      "id": "bus_110",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses implement agile methodologies in large organizations?",
+      "expected_keywords": ["agile", "methodology", "adaptability", "team collaboration", "project management"]
+    },
+    {
+      "id": "bus_111",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can companies use to optimize customer acquisition costs?",
+      "expected_keywords": ["customer acquisition", "marketing ROI", "cost optimization", "digital marketing", "sales funnel"]
+    },
+    {
+      "id": "bus_112",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses utilize artificial intelligence to enhance decision-making?",
+      "expected_keywords": ["artificial intelligence", "decision-making", "data analytics", "automation", "machine learning"]
+    },
+    {
+      "id": "bus_113",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role does innovation play in maintaining a competitive edge?",
+      "expected_keywords": ["innovation", "competitive advantage", "R&D", "technology", "market trends"]
+    },
+    {
+      "id": "bus_114",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses measure the effectiveness of their digital transformation initiatives?",
+      "expected_keywords": ["digital transformation", "KPIs", "performance measurement", "technology adoption", "change management"]
+    },
+    {
+      "id": "bus_115",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the key considerations when developing a multi-channel marketing strategy?",
+      "expected_keywords": ["multi-channel", "marketing strategy", "customer engagement", "brand consistency", "channel integration"]
+    },
+    {
+      "id": "bus_116",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses balance growth and profitability in emerging markets?",
+      "expected_keywords": ["emerging markets", "growth", "profitability", "market expansion", "investment"]
+    },
+    {
+      "id": "bus_117",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What impact does corporate culture have on innovation and employee satisfaction?",
+      "expected_keywords": ["corporate culture", "innovation", "employee satisfaction", "organizational behavior", "leadership"]
+    },
+    {
+      "id": "bus_118",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can companies improve operational efficiency through process automation?",
+      "expected_keywords": ["process automation", "operational efficiency", "technology", "cost reduction", "workflow optimization"]
+    },
+    {
+      "id": "bus_119",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the benefits and challenges of remote work in a global business environment?",
+      "expected_keywords": ["remote work", "global business", "productivity", "communication", "technology"]
+    },
+    {
+      "id": "bus_120",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses effectively manage cross-border supply chain complexities?",
+      "expected_keywords": ["supply chain", "cross-border", "logistics", "risk management", "global trade"]
+    },
+    {
+      "id": "bus_121",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role does market segmentation play in targeted advertising?",
+      "expected_keywords": ["market segmentation", "targeted advertising", "consumer behavior", "digital marketing", "personalization"]
+    },
+    {
+      "id": "bus_122",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses ensure compliance with international trade regulations?",
+      "expected_keywords": ["compliance", "international trade", "regulations", "risk management", "legal requirements"]
+    },
+    {
+      "id": "bus_123",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can organizations employ to mitigate cybersecurity risks?",
+      "expected_keywords": ["cybersecurity", "risk mitigation", "data protection", "technology", "compliance"]
+    },
+    {
+      "id": "bus_124",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do companies leverage big data for strategic planning?",
+      "expected_keywords": ["big data", "strategic planning", "analytics", "data insights", "business intelligence"]
+    },
+    {
+      "id": "bus_125",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What factors influence investment decisions in volatile markets?",
+      "expected_keywords": ["investment decisions", "volatile markets", "risk management", "market analysis", "financial strategy"]
+    },
+    {
+      "id": "bus_126",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses build resilient supply chains in uncertain times?",
+      "expected_keywords": ["resilient supply chains", "uncertainty", "risk management", "global trade", "contingency planning"]
+    },
+    {
+      "id": "bus_127",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the key trends shaping the future of business leadership?",
+      "expected_keywords": ["business leadership", "trends", "innovation", "management", "future workforce"]
+    },
+    {
+      "id": "bus_128",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do companies integrate sustainability into their core business strategies?",
+      "expected_keywords": ["sustainability", "core business", "CSR", "environmental impact", "long-term strategy"]
+    },
+    {
+      "id": "bus_129",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What methods can businesses use to foster a culture of innovation?",
+      "expected_keywords": ["culture of innovation", "employee engagement", "creativity", "R&D", "leadership"]
+    },
+    {
+      "id": "bus_130",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses determine the feasibility of entering a new market?",
+      "expected_keywords": ["market feasibility", "market analysis", "risk assessment", "competitive analysis", "strategy"]
+    },
+    {
+      "id": "bus_131",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role does digital marketing play in modern business growth?",
+      "expected_keywords": ["digital marketing", "business growth", "online presence", "social media", "analytics"]
+    },
+    {
+      "id": "bus_132",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can companies improve internal communication to boost productivity?",
+      "expected_keywords": ["internal communication", "productivity", "collaboration", "technology", "leadership"]
+    },
+    {
+      "id": "bus_133",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the challenges of integrating legacy systems with new technologies?",
+      "expected_keywords": ["legacy systems", "technology integration", "modernization", "IT infrastructure", "cost"]
+    },
+    {
+      "id": "bus_134",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses evaluate the impact of strategic partnerships on growth?",
+      "expected_keywords": ["strategic partnerships", "growth", "synergy", "collaboration", "business expansion"]
+    },
+    {
+      "id": "bus_135",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the best practices for managing a diverse workforce?",
+      "expected_keywords": ["diversity", "workforce management", "inclusion", "HR practices", "leadership"]
+    },
+    {
+      "id": "bus_136",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can companies utilize customer data to personalize their marketing efforts?",
+      "expected_keywords": ["customer data", "personalization", "marketing", "data analytics", "CRM"]
+    },
+    {
+      "id": "bus_137",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What impact do economic indicators have on business strategy?",
+      "expected_keywords": ["economic indicators", "business strategy", "market trends", "forecasting", "financial analysis"]
+    },
+    {
+      "id": "bus_138",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses adapt their strategies during economic downturns?",
+      "expected_keywords": ["economic downturns", "adaptation", "risk management", "strategic planning", "resilience"]
+    },
+    {
+      "id": "bus_139",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the key challenges in managing a global workforce?",
+      "expected_keywords": ["global workforce", "challenges", "cultural differences", "communication", "management"]
+    },
+    {
+      "id": "bus_140",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can organizations drive innovation through strategic R&D investments?",
+      "expected_keywords": ["R&D", "innovation", "investment", "technology", "competitive advantage"]
+    },
+    {
+      "id": "bus_141",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What factors should companies consider when implementing cloud-based solutions?",
+      "expected_keywords": ["cloud solutions", "scalability", "security", "cost efficiency", "technology"]
+    },
+    {
+      "id": "bus_142",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses measure the effectiveness of their corporate branding efforts?",
+      "expected_keywords": ["corporate branding", "brand metrics", "customer perception", "marketing", "ROI"]
+    },
+    {
+      "id": "bus_143",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can companies use to improve employee performance through training?",
+      "expected_keywords": ["employee training", "performance improvement", "skill development", "HR", "continuous learning"]
+    },
+    {
+      "id": "bus_144",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses use predictive analytics to forecast market trends?",
+      "expected_keywords": ["predictive analytics", "market trends", "data analysis", "forecasting", "business intelligence"]
+    },
+    {
+      "id": "bus_145",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the implications of blockchain technology on supply chain transparency?",
+      "expected_keywords": ["blockchain", "supply chain", "transparency", "technology", "security"]
+    },
+    {
+      "id": "bus_146",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do companies adapt their customer service strategies in the digital era?",
+      "expected_keywords": ["customer service", "digital era", "technology", "customer engagement", "omnichannel"]
+    },
+    {
+      "id": "bus_147",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role does mobile marketing play in reaching modern consumers?",
+      "expected_keywords": ["mobile marketing", "modern consumers", "digital strategy", "engagement", "technology"]
+    },
+    {
+      "id": "bus_148",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses optimize their product lifecycle management processes?",
+      "expected_keywords": ["product lifecycle", "management", "innovation", "efficiency", "quality control"]
+    },
+    {
+      "id": "bus_149",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the key considerations for businesses when developing a pricing strategy?",
+      "expected_keywords": ["pricing strategy", "market research", "cost analysis", "competition", "value proposition"]
+    },
+    {
+      "id": "bus_150",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses navigate the challenges of regulatory compliance in multiple regions?",
+      "expected_keywords": ["regulatory compliance", "multi-region", "legal", "risk management", "standards"]
+    },
+    {
+      "id": "bus_151",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can companies adopt to drive sustainable competitive advantage?",
+      "expected_keywords": ["sustainable advantage", "innovation", "differentiation", "strategy", "market positioning"]
+    },
+    {
+      "id": "bus_152",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can businesses leverage influencer marketing to boost brand credibility?",
+      "expected_keywords": ["influencer marketing", "brand credibility", "social media", "engagement", "marketing strategy"]
+    },
+    {
+      "id": "bus_153",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What are the best practices for measuring and improving employee productivity?",
+      "expected_keywords": ["employee productivity", "measurement", "performance", "efficiency", "management"]
+    },
+    {
+      "id": "bus_154",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses balance short-term financial goals with long-term strategic planning?",
+      "expected_keywords": ["short-term goals", "long-term planning", "financial management", "strategy", "investment"]
+    },
+    {
+      "id": "bus_155",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What impact does corporate social responsibility have on investor perceptions?",
+      "expected_keywords": ["CSR", "investor perceptions", "sustainability", "brand image", "corporate ethics"]
+    },
+    {
+      "id": "bus_156",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How can companies integrate customer insights into product innovation processes?",
+      "expected_keywords": ["customer insights", "product innovation", "market research", "feedback", "design thinking"]
+    },
+    {
+      "id": "bus_157",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What role does leadership development play in organizational success?",
+      "expected_keywords": ["leadership development", "organizational success", "training", "mentorship", "growth"]
+    },
+    {
+      "id": "bus_158",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "How do businesses assess the effectiveness of their cross-functional teams?",
+      "expected_keywords": ["cross-functional teams", "effectiveness", "collaboration", "performance metrics", "communication"]
+    },
+    {
+      "id": "bus_159",
+      "category": "business",
+      "difficulty": "intermediate",
+      "question": "What strategies can organizations use to manage digital transformation challenges?",
+      "expected_keywords": ["digital transformation", "challenges", "strategy", "technology", "change management"]
+    },
+    {
+        "id": "bus_160",
+        "category": "business",
+        "difficulty": "intermediate",
+        "question": "How do you foster innovation within your team?",
+        "expected_keywords": ["creativity", "brainstorming", "support", "resources", "feedback", "collaboration", "risk-taking", "training", "diversity", "recognition"]
+    },
+
+    {
+      "id": "bus_161",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies integrate machine learning algorithms into strategic decision-making processes?",
+      "expected_keywords": ["machine learning", "strategic decision-making", "data analysis", "automation", "predictive modeling"]
+    },
+    {
+      "id": "bus_162",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced risk management frameworks can multinational corporations implement to mitigate global market volatility?",
+      "expected_keywords": ["risk management", "multinational", "volatility", "frameworks", "global market"]
+    },
+    {
+      "id": "bus_163",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do advanced financial derivatives influence corporate hedging strategies?",
+      "expected_keywords": ["financial derivatives", "hedging", "risk management", "corporate finance", "derivative instruments"]
+    },
+    {
+      "id": "bus_164",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the implications of quantum computing on data security and business intelligence?",
+      "expected_keywords": ["quantum computing", "data security", "business intelligence", "encryption", "technological disruption"]
+    },
+    {
+      "id": "bus_165",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can businesses leverage blockchain technology to create decentralized business models?",
+      "expected_keywords": ["blockchain", "decentralization", "business models", "distributed ledger", "innovation"]
+    },
+    {
+      "id": "bus_166",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced metrics can be used to evaluate the efficiency of a firm's innovation ecosystem?",
+      "expected_keywords": ["innovation ecosystem", "advanced metrics", "efficiency", "R&D", "performance measurement"]
+    },
+    {
+      "id": "bus_167",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How does behavioral economics inform advanced corporate pricing strategies in competitive markets?",
+      "expected_keywords": ["behavioral economics", "pricing strategies", "competitive markets", "consumer behavior", "psychology"]
+    },
+    {
+      "id": "bus_168",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role do dynamic capabilities play in sustaining competitive advantage in rapidly evolving industries?",
+      "expected_keywords": ["dynamic capabilities", "competitive advantage", "sustainability", "innovation", "strategic management"]
+    },
+    {
+      "id": "bus_169",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can organizations implement advanced digital transformation frameworks to drive long-term growth?",
+      "expected_keywords": ["digital transformation", "advanced frameworks", "growth", "technology integration", "strategic planning"]
+    },
+    {
+      "id": "bus_170",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the strategic challenges of integrating artificial intelligence into legacy enterprise systems?",
+      "expected_keywords": ["artificial intelligence", "legacy systems", "integration", "strategic challenges", "modernization"]
+    },
+    {
+      "id": "bus_171",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies use advanced scenario analysis to forecast and mitigate future business risks?",
+      "expected_keywords": ["scenario analysis", "forecasting", "risk mitigation", "advanced planning", "strategic foresight"]
+    },
+    {
+      "id": "bus_172",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What is the role of advanced data visualization in transforming business intelligence practices?",
+      "expected_keywords": ["data visualization", "business intelligence", "advanced analytics", "data storytelling", "technology"]
+    },
+    {
+      "id": "bus_173",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do multinational corporations address complex tax optimization challenges in diverse regulatory environments?",
+      "expected_keywords": ["tax optimization", "multinational corporations", "regulatory compliance", "complex taxation", "advanced finance"]
+    },
+    {
+      "id": "bus_174",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced methodologies are employed in strategic mergers and acquisitions to maximize synergies?",
+      "expected_keywords": ["mergers and acquisitions", "synergies", "advanced methodologies", "strategic planning", "valuation"]
+    },
+    {
+      "id": "bus_175",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can companies implement integrated reporting to enhance transparency and stakeholder trust?",
+      "expected_keywords": ["integrated reporting", "transparency", "stakeholder trust", "corporate governance", "advanced metrics"]
+    },
+    {
+      "id": "bus_176",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced techniques in predictive analytics are most effective for revenue forecasting?",
+      "expected_keywords": ["predictive analytics", "revenue forecasting", "advanced techniques", "data science", "business modeling"]
+    },
+    {
+      "id": "bus_177",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How does the convergence of IoT and AI create opportunities and challenges for modern businesses?",
+      "expected_keywords": ["IoT", "AI", "convergence", "business opportunities", "technology challenges"]
+    },
+    {
+      "id": "bus_178",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the strategic implications of adopting a platform business model in the digital economy?",
+      "expected_keywords": ["platform business model", "digital economy", "strategic implications", "network effects", "business transformation"]
+    },
+    {
+      "id": "bus_179",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced machine learning models improve the accuracy of market segmentation?",
+      "expected_keywords": ["machine learning", "market segmentation", "data analysis", "advanced models", "consumer insights"]
+    },
+    {
+      "id": "bus_180",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the challenges of managing a hyper-connected supply chain in an era of digital disruption?",
+      "expected_keywords": ["supply chain", "digital disruption", "hyper-connected", "advanced management", "technology integration"]
+    },
+    {
+      "id": "bus_181",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies use sentiment analysis to inform advanced marketing and branding strategies?",
+      "expected_keywords": ["sentiment analysis", "marketing", "branding", "advanced analytics", "consumer insights"]
+    },
+    {
+      "id": "bus_182",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced strategies can companies use to integrate environmental, social, and governance (ESG) factors into their core operations?",
+      "expected_keywords": ["ESG", "advanced strategies", "sustainability", "corporate responsibility", "operational integration"]
+    },
+    {
+      "id": "bus_183",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do businesses evaluate the long-term impacts of disruptive innovations on market structures?",
+      "expected_keywords": ["disruptive innovations", "long-term impacts", "market structures", "advanced analysis", "innovation strategy"]
+    },
+    {
+      "id": "bus_184",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the emerging trends in advanced supply chain analytics and their impact on operational efficiency?",
+      "expected_keywords": ["supply chain analytics", "emerging trends", "operational efficiency", "advanced analytics", "data-driven decisions"]
+    },
+    {
+      "id": "bus_185",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can companies utilize real-time data streams to enhance decision-making in dynamic markets?",
+      "expected_keywords": ["real-time data", "dynamic markets", "advanced analytics", "decision-making", "data streaming"]
+    },
+    {
+      "id": "bus_186",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role do advanced financial modeling techniques play in evaluating large-scale capital investments?",
+      "expected_keywords": ["financial modeling", "capital investments", "advanced techniques", "valuation", "risk assessment"]
+    },
+    {
+      "id": "bus_187",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How does the integration of augmented reality (AR) impact advanced retail strategies?",
+      "expected_keywords": ["augmented reality", "retail strategies", "technology integration", "advanced marketing", "customer experience"]
+    },
+    {
+      "id": "bus_188",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced risk assessment models are used to predict market downturns and guide investment strategies?",
+      "expected_keywords": ["risk assessment", "market downturns", "investment strategies", "advanced models", "predictive analytics"]
+    },
+    {
+      "id": "bus_189",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can companies apply game theory to design competitive strategies in oligopolistic markets?",
+      "expected_keywords": ["game theory", "competitive strategies", "oligopoly", "advanced analysis", "strategic decision-making"]
+    },
+    {
+      "id": "bus_190",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the key challenges and benefits of implementing a global enterprise resource planning (ERP) system?",
+      "expected_keywords": ["global ERP", "challenges", "benefits", "implementation", "advanced systems"]
+    },
+    {
+      "id": "bus_191",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do businesses leverage advanced robotics and automation to optimize manufacturing processes?",
+      "expected_keywords": ["robotics", "automation", "manufacturing", "advanced technology", "process optimization"]
+    },
+    {
+      "id": "bus_192",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the implications of advanced cybersecurity measures on business continuity planning?",
+      "expected_keywords": ["cybersecurity", "business continuity", "advanced measures", "risk management", "technology"]
+    },
+    {
+      "id": "bus_193",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can companies harness advanced analytics to drive customer-centric innovation?",
+      "expected_keywords": ["advanced analytics", "customer-centric", "innovation", "data insights", "strategy"]
+    },
+    {
+      "id": "bus_194",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced frameworks are used to evaluate the strategic impact of mergers and acquisitions in technology sectors?",
+      "expected_keywords": ["mergers and acquisitions", "technology", "strategic impact", "advanced frameworks", "valuation"]
+    },
+    {
+      "id": "bus_195",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies balance shareholder value with stakeholder interests using advanced corporate governance models?",
+      "expected_keywords": ["shareholder value", "stakeholder interests", "advanced corporate governance", "ethical considerations", "strategic management"]
+    },
+    {
+      "id": "bus_196",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role does advanced econometric modeling play in forecasting industry trends?",
+      "expected_keywords": ["econometric modeling", "industry trends", "forecasting", "advanced analytics", "data analysis"]
+    },
+    {
+      "id": "bus_197",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can businesses integrate advanced customer experience management strategies to drive loyalty?",
+      "expected_keywords": ["customer experience", "loyalty", "advanced strategies", "CRM", "innovation"]
+    },
+    {
+      "id": "bus_198",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the advanced techniques used to optimize capital structure in large enterprises?",
+      "expected_keywords": ["capital structure", "optimization", "advanced techniques", "finance", "debt equity"]
+    },
+    {
+      "id": "bus_199",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies incorporate advanced sustainability metrics into their financial reporting frameworks?",
+      "expected_keywords": ["sustainability metrics", "financial reporting", "advanced integration", "ESG", "corporate reporting"]
+    },
+    {
+      "id": "bus_200",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced strategies can organizations implement to navigate geopolitical risks and uncertainties?",
+      "expected_keywords": ["geopolitical risks", "advanced strategies", "uncertainties", "risk management", "global operations"]
+    },
+    {
+      "id": "bus_201",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How does advanced process mining contribute to operational excellence in complex organizations?",
+      "expected_keywords": ["process mining", "operational excellence", "advanced analytics", "workflow optimization", "technology"]
+    },
+    {
+      "id": "bus_202",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the emerging trends in advanced digital ecosystem strategies for business transformation?",
+      "expected_keywords": ["digital ecosystem", "business transformation", "advanced trends", "platforms", "innovation"]
+    },
+    {
+      "id": "bus_203",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can businesses leverage advanced scenario planning to prepare for disruptive market changes?",
+      "expected_keywords": ["scenario planning", "advanced strategies", "disruptive changes", "risk management", "forecasting"]
+    },
+    {
+      "id": "bus_204",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role does advanced behavioral finance play in shaping corporate investment strategies?",
+      "expected_keywords": ["behavioral finance", "investment strategies", "advanced analysis", "psychology", "market behavior"]
+    },
+    {
+      "id": "bus_205",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies use advanced competitive intelligence to gain insights into market dynamics?",
+      "expected_keywords": ["competitive intelligence", "advanced analytics", "market dynamics", "strategy", "data analysis"]
+    },
+    {
+      "id": "bus_206",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced methodologies can be applied to optimize the performance of multi-national supply chains?",
+      "expected_keywords": ["supply chain performance", "advanced methodologies", "optimization", "global logistics", "data analytics"]
+    },
+    {
+      "id": "bus_207",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do organizations utilize advanced lean Six Sigma techniques to drive continuous improvement?",
+      "expected_keywords": ["lean Six Sigma", "continuous improvement", "advanced techniques", "efficiency", "quality control"]
+    },
+    {
+      "id": "bus_208",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the strategic implications of advanced market consolidation trends in the digital era?",
+      "expected_keywords": ["market consolidation", "digital era", "strategic implications", "advanced analysis", "competition"]
+    },
+    {
+      "id": "bus_209",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can companies apply advanced value chain analysis to identify competitive advantages?",
+      "expected_keywords": ["value chain analysis", "advanced techniques", "competitive advantage", "strategic management", "efficiency"]
+    },
+    {
+      "id": "bus_210",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role does advanced cloud computing play in reshaping business scalability and innovation?",
+      "expected_keywords": ["cloud computing", "business scalability", "innovation", "advanced technology", "digital transformation"]
+    },
+    {
+      "id": "bus_211",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced methodologies can be applied for dynamic pricing optimization in digital marketplaces?",
+      "expected_keywords": ["dynamic pricing", "digital marketplaces", "advanced algorithms", "revenue management", "price elasticity"]
+    },
+    {
+      "id": "bus_212",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies use advanced econometric techniques to forecast demand in volatile markets?",
+      "expected_keywords": ["econometric techniques", "demand forecasting", "volatile markets", "advanced modeling", "statistical analysis"]
+    },
+    {
+      "id": "bus_213",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the implications of advanced cybersecurity frameworks on global e-commerce operations?",
+      "expected_keywords": ["cybersecurity", "global e-commerce", "advanced frameworks", "data protection", "risk mitigation"]
+    },
+    {
+      "id": "bus_214",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced digital twin technologies enhance operational efficiency in manufacturing?",
+      "expected_keywords": ["digital twin", "operational efficiency", "manufacturing", "advanced simulation", "technology integration"]
+    },
+    {
+      "id": "bus_215",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role do advanced machine learning models play in optimizing supply chain logistics?",
+      "expected_keywords": ["machine learning", "supply chain", "logistics optimization", "advanced analytics", "predictive modeling"]
+    },
+    {
+      "id": "bus_216",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do advanced risk assessment tools transform strategic investment decisions in multinational firms?",
+      "expected_keywords": ["risk assessment", "investment decisions", "multinational", "advanced tools", "strategic management"]
+    },
+    {
+      "id": "bus_217",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the strategic challenges of implementing advanced IoT solutions in industrial settings?",
+      "expected_keywords": ["IoT", "industrial solutions", "advanced implementation", "strategic challenges", "technology integration"]
+    },
+    {
+      "id": "bus_218",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced behavioral analytics drive innovation in customer engagement strategies?",
+      "expected_keywords": ["behavioral analytics", "customer engagement", "innovation", "advanced data", "marketing strategy"]
+    },
+    {
+      "id": "bus_219",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the benefits of integrating advanced augmented reality experiences into retail operations?",
+      "expected_keywords": ["augmented reality", "retail operations", "advanced integration", "customer experience", "innovation"]
+    },
+    {
+      "id": "bus_220",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do advanced financial instruments influence capital structure decisions in large corporations?",
+      "expected_keywords": ["financial instruments", "capital structure", "advanced finance", "corporate finance", "risk management"]
+    },
+    {
+      "id": "bus_221",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced strategies can businesses adopt to optimize cross-border e-commerce logistics?",
+      "expected_keywords": ["cross-border", "e-commerce logistics", "advanced strategies", "global trade", "supply chain optimization"]
+    },
+    {
+      "id": "bus_222",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How does advanced data mining contribute to competitive intelligence in technology sectors?",
+      "expected_keywords": ["data mining", "competitive intelligence", "advanced analytics", "technology sectors", "information extraction"]
+    },
+    {
+      "id": "bus_223",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role do advanced simulation models play in strategic scenario planning for global crises?",
+      "expected_keywords": ["simulation models", "scenario planning", "global crises", "advanced analytics", "risk management"]
+    },
+    {
+      "id": "bus_224",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced customer sentiment analysis improve product development and market positioning?",
+      "expected_keywords": ["sentiment analysis", "product development", "market positioning", "advanced techniques", "customer insights"]
+    },
+    {
+      "id": "bus_225",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced digital marketing metrics are most effective in measuring ROI for large-scale campaigns?",
+      "expected_keywords": ["digital marketing", "advanced metrics", "ROI", "campaign analysis", "performance measurement"]
+    },
+    {
+      "id": "bus_226",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies integrate advanced blockchain-based solutions for enhanced supply chain traceability?",
+      "expected_keywords": ["blockchain", "supply chain traceability", "advanced integration", "distributed ledger", "transparency"]
+    },
+    {
+      "id": "bus_227",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced financial risk modeling techniques are essential for managing credit risk in volatile economies?",
+      "expected_keywords": ["financial risk", "credit risk", "advanced modeling", "volatile economies", "risk management"]
+    },
+    {
+      "id": "bus_228",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced natural language processing (NLP) tools improve business intelligence and decision-making?",
+      "expected_keywords": ["NLP", "business intelligence", "advanced analytics", "decision-making", "data processing"]
+    },
+    {
+      "id": "bus_229",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the challenges of deploying advanced edge computing solutions in real-time business operations?",
+      "expected_keywords": ["edge computing", "real-time operations", "advanced deployment", "technology", "data processing"]
+    },
+    {
+      "id": "bus_230",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies apply advanced optimization algorithms to streamline resource allocation in complex projects?",
+      "expected_keywords": ["optimization algorithms", "resource allocation", "advanced methods", "project management", "efficiency"]
+    },
+    {
+      "id": "bus_231",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced strategic frameworks are used to navigate disruptive innovations in legacy industries?",
+      "expected_keywords": ["disruptive innovation", "strategic frameworks", "legacy industries", "advanced strategies", "transformation"]
+    },
+    {
+      "id": "bus_232",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced analytics enhance the accuracy of financial forecasting in uncertain markets?",
+      "expected_keywords": ["advanced analytics", "financial forecasting", "uncertain markets", "predictive models", "data analysis"]
+    },
+    {
+      "id": "bus_233",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role does advanced customer lifecycle analysis play in optimizing retention strategies?",
+      "expected_keywords": ["customer lifecycle", "advanced analysis", "retention strategies", "customer analytics", "business intelligence"]
+    },
+    {
+      "id": "bus_234",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do advanced revenue management systems optimize pricing and inventory for airlines?",
+      "expected_keywords": ["revenue management", "airlines", "advanced systems", "pricing optimization", "inventory management"]
+    },
+    {
+      "id": "bus_235",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced data integration techniques can improve real-time decision-making in dynamic business environments?",
+      "expected_keywords": ["data integration", "real-time decision-making", "advanced techniques", "business intelligence", "technology"]
+    },
+    {
+      "id": "bus_236",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced process automation impact organizational agility in competitive markets?",
+      "expected_keywords": ["process automation", "organizational agility", "advanced technology", "efficiency", "competitive markets"]
+    },
+    {
+      "id": "bus_237",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the implications of advanced network security protocols on protecting corporate digital assets?",
+      "expected_keywords": ["network security", "advanced protocols", "digital assets", "risk mitigation", "cybersecurity"]
+    },
+    {
+      "id": "bus_238",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced predictive maintenance strategies reduce downtime in manufacturing environments?",
+      "expected_keywords": ["predictive maintenance", "manufacturing", "advanced strategies", "downtime reduction", "asset management"]
+    },
+    {
+      "id": "bus_239",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced market segmentation methods help optimize targeted marketing campaigns?",
+      "expected_keywords": ["market segmentation", "targeted marketing", "advanced techniques", "consumer data", "campaign optimization"]
+    },
+    {
+      "id": "bus_240",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do advanced econometric models improve the evaluation of investment portfolio performance?",
+      "expected_keywords": ["econometric models", "investment portfolio", "advanced evaluation", "performance metrics", "statistical analysis"]
+    },
+    {
+      "id": "bus_241",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the advanced challenges of integrating AI-powered chatbots in customer service platforms?",
+      "expected_keywords": ["AI-powered chatbots", "customer service", "advanced integration", "automation", "user experience"]
+    },
+    {
+      "id": "bus_242",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced simulation and modeling techniques improve logistics efficiency?",
+      "expected_keywords": ["simulation", "modeling techniques", "logistics efficiency", "advanced analytics", "supply chain"]
+    },
+    {
+      "id": "bus_243",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role do advanced decision support systems play in strategic corporate governance?",
+      "expected_keywords": ["decision support systems", "corporate governance", "advanced technology", "strategic planning", "data analytics"]
+    },
+    {
+      "id": "bus_244",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies implement advanced cloud-native architectures to enhance scalability?",
+      "expected_keywords": ["cloud-native", "advanced architectures", "scalability", "technology integration", "IT strategy"]
+    },
+    {
+      "id": "bus_245",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced analytical techniques are used to measure the impact of social media campaigns?",
+      "expected_keywords": ["social media", "advanced analytics", "campaign impact", "performance measurement", "data analysis"]
+    },
+    {
+      "id": "bus_246",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced risk-adjusted performance metrics improve financial decision-making?",
+      "expected_keywords": ["risk-adjusted metrics", "financial decision-making", "advanced analytics", "performance measurement", "investment"]
+    },
+    {
+      "id": "bus_247",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the advanced challenges in integrating augmented analytics into business processes?",
+      "expected_keywords": ["augmented analytics", "business processes", "advanced integration", "data insights", "technology"]
+    },
+    {
+      "id": "bus_248",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies leverage advanced geospatial analytics for market expansion strategies?",
+      "expected_keywords": ["geospatial analytics", "market expansion", "advanced techniques", "location data", "strategic planning"]
+    },
+    {
+      "id": "bus_249",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced methods are used to optimize dynamic resource allocation in IT operations?",
+      "expected_keywords": ["resource allocation", "IT operations", "advanced methods", "optimization", "automation"]
+    },
+    {
+      "id": "bus_250",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do advanced AI-driven customer insights transform product lifecycle management?",
+      "expected_keywords": ["AI-driven insights", "product lifecycle", "advanced analytics", "innovation", "customer data"]
+    },
+    {
+      "id": "bus_251",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What role do advanced digital forensics play in corporate cybersecurity incident response?",
+      "expected_keywords": ["digital forensics", "cybersecurity", "advanced techniques", "incident response", "risk management"]
+    },
+    {
+      "id": "bus_252",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced process re-engineering improve efficiency in complex organizational structures?",
+      "expected_keywords": ["process re-engineering", "organizational efficiency", "advanced strategies", "workflow optimization", "innovation"]
+    },
+    {
+      "id": "bus_253",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced techniques are used to model and predict consumer behavior in digital markets?",
+      "expected_keywords": ["consumer behavior", "digital markets", "advanced modeling", "predictive analytics", "data analysis"]
+    },
+    {
+      "id": "bus_254",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies apply advanced financial derivatives to hedge against currency risks?",
+      "expected_keywords": ["financial derivatives", "currency risk", "advanced hedging", "finance", "risk management"]
+    },
+    {
+      "id": "bus_255",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What are the advanced strategies for implementing continuous delivery in large enterprises?",
+      "expected_keywords": ["continuous delivery", "advanced strategies", "software deployment", "IT operations", "agility"]
+    },
+    {
+      "id": "bus_256",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How can advanced network analytics optimize communication infrastructures in global corporations?",
+      "expected_keywords": ["network analytics", "communication infrastructure", "advanced optimization", "global corporations", "IT strategy"]
+    },
+    {
+      "id": "bus_257",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced methods are used to quantify the impact of corporate social responsibility initiatives?",
+      "expected_keywords": ["CSR", "advanced methods", "impact quantification", "sustainability", "performance metrics"]
+    },
+    {
+      "id": "bus_258",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do advanced sentiment analysis tools refine brand reputation management strategies?",
+      "expected_keywords": ["sentiment analysis", "brand reputation", "advanced tools", "data insights", "marketing strategy"]
+    },
+    {
+      "id": "bus_259",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "What advanced models are employed to forecast long-term market trends in technology sectors?",
+      "expected_keywords": ["market forecasting", "technology sectors", "advanced models", "trend analysis", "predictive analytics"]
+    },
+    {
+      "id": "bus_260",
+      "category": "business",
+      "difficulty": "advanced",
+      "question": "How do companies integrate advanced virtualization technologies to optimize IT resource utilization?",
+      "expected_keywords": ["virtualization", "IT resource utilization", "advanced integration", "technology optimization", "data center"]
+    },
+        
+  
+        {
+            "id": "bus_261",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do advanced predictive analytics models enhance supply chain resilience?",
+            "expected_keywords": ["predictive analytics", "supply chain resilience", "advanced models", "risk management", "data analysis"]
+        },
+        {
+            "id": "bus_262",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What are the strategic benefits of implementing advanced robotic process automation (RPA) in business operations?",
+            "expected_keywords": ["robotic process automation", "RPA", "strategic benefits", "business operations", "efficiency"]
+        },
+        {
+            "id": "bus_263",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How can advanced machine learning techniques improve fraud detection in financial services?",
+            "expected_keywords": ["machine learning", "fraud detection", "financial services", "advanced techniques", "data analysis"]
+        },
+        {
+            "id": "bus_264",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What role do advanced data governance frameworks play in ensuring data integrity and compliance?",
+            "expected_keywords": ["data governance", "data integrity", "compliance", "advanced frameworks", "data management"]
+        },
+        {
+            "id": "bus_265",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do advanced customer journey analytics transform marketing strategies?",
+            "expected_keywords": ["customer journey analytics", "marketing strategies", "advanced analytics", "customer insights", "data-driven"]
+        },
+        {
+            "id": "bus_266",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What advanced techniques are used to optimize energy consumption in large-scale manufacturing?",
+            "expected_keywords": ["energy optimization", "manufacturing", "advanced techniques", "sustainability", "efficiency"]
+        },
+        {
+            "id": "bus_267",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How can advanced financial engineering models improve investment portfolio diversification?",
+            "expected_keywords": ["financial engineering", "investment portfolio", "diversification", "advanced models", "risk management"]
+        },
+        {
+            "id": "bus_268",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What are the implications of advanced AI-driven personalization on e-commerce customer experience?",
+            "expected_keywords": ["AI-driven personalization", "e-commerce", "customer experience", "advanced technology", "consumer behavior"]
+        },
+        {
+            "id": "bus_269",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do advanced simulation models enhance disaster recovery planning in businesses?",
+            "expected_keywords": ["simulation models", "disaster recovery", "advanced planning", "risk management", "business continuity"]
+        },
+        {
+            "id": "bus_270",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What advanced methodologies are used to assess the impact of digital transformation on organizational performance?",
+            "expected_keywords": ["digital transformation", "organizational performance", "advanced methodologies", "impact assessment", "technology"]
+        },
+        {
+            "id": "bus_271",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How can advanced blockchain solutions enhance transparency and security in financial transactions?",
+            "expected_keywords": ["blockchain", "transparency", "security", "financial transactions", "advanced solutions"]
+        },
+        {
+            "id": "bus_272",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What role do advanced econometric models play in evaluating the economic impact of policy changes?",
+            "expected_keywords": ["econometric models", "economic impact", "policy changes", "advanced analysis", "data modeling"]
+        },
+        {
+            "id": "bus_273",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do advanced AI algorithms improve predictive maintenance in industrial settings?",
+            "expected_keywords": ["AI algorithms", "predictive maintenance", "industrial settings", "advanced technology", "efficiency"]
+        },
+        {
+            "id": "bus_274",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What advanced strategies can companies use to enhance customer loyalty through data-driven insights?",
+            "expected_keywords": ["customer loyalty", "data-driven insights", "advanced strategies", "customer retention", "analytics"]
+        },
+        {
+            "id": "bus_275",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do advanced financial risk management models mitigate the impact of market volatility?",
+            "expected_keywords": ["financial risk management", "market volatility", "advanced models", "risk mitigation", "finance"]
+        },
+        {
+            "id": "bus_276",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What are the advanced challenges of integrating AI and IoT in smart manufacturing?",
+            "expected_keywords": ["AI", "IoT", "smart manufacturing", "advanced integration", "technology challenges"]
+        },
+        {
+            "id": "bus_277",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How can advanced sentiment analysis tools improve brand reputation management?",
+            "expected_keywords": ["sentiment analysis", "brand reputation", "advanced tools", "data insights", "marketing strategy"]
+        },
+        {
+            "id": "bus_278",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What advanced techniques are used to optimize dynamic pricing strategies in e-commerce?",
+            "expected_keywords": ["dynamic pricing", "e-commerce", "advanced techniques", "revenue management", "price optimization"]
+        },
+        {
+            "id": "bus_279",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do advanced data visualization tools enhance business intelligence and decision-making?",
+            "expected_keywords": ["data visualization", "business intelligence", "decision-making", "advanced tools", "analytics"]
+        },
+        {
+            "id": "bus_280",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What role do advanced econometric models play in forecasting industry trends?",
+            "expected_keywords": ["econometric models", "industry trends", "forecasting", "advanced analytics", "data analysis"]
+        },
+        {
+            "id": "bus_281",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How can advanced machine learning models improve the accuracy of market segmentation?",
+            "expected_keywords": ["machine learning", "market segmentation", "data analysis", "advanced models", "consumer insights"]
+        },
+        {
+            "id": "bus_282",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What are the strategic implications of adopting a platform business model in the digital economy?",
+            "expected_keywords": ["platform business model", "digital economy", "strategic implications", "network effects", "business transformation"]
+        },
+        {
+            "id": "bus_283",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do advanced financial derivatives influence corporate hedging strategies?",
+            "expected_keywords": ["financial derivatives", "hedging", "risk management", "corporate finance", "derivative instruments"]
+        },
+        {
+            "id": "bus_284",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What advanced techniques are used to optimize capital structure in large enterprises?",
+            "expected_keywords": ["capital structure", "optimization", "advanced techniques", "finance", "debt equity"]
+        },
+        {
+            "id": "bus_285",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do companies incorporate advanced sustainability metrics into their financial reporting frameworks?",
+            "expected_keywords": ["sustainability metrics", "financial reporting", "advanced integration", "ESG", "corporate reporting"]
+        },
+        {
+            "id": "bus_286",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What advanced strategies can organizations implement to navigate geopolitical risks and uncertainties?",
+            "expected_keywords": ["geopolitical risks", "advanced strategies", "uncertainties", "risk management", "global operations"]
+        },
+        {
+            "id": "bus_287",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How does advanced process mining contribute to operational excellence in complex organizations?",
+            "expected_keywords": ["process mining", "operational excellence", "advanced analytics", "workflow optimization", "technology"]
+        },
+        {
+            "id": "bus_288",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What are the emerging trends in advanced digital ecosystem strategies for business transformation?",
+            "expected_keywords": ["digital ecosystem", "business transformation", "advanced trends", "platforms", "innovation"]
+        },
+        {
+            "id": "bus_289",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How can businesses leverage advanced scenario planning to prepare for disruptive market changes?",
+            "expected_keywords": ["scenario planning", "advanced strategies", "disruptive changes", "risk management", "forecasting"]
+        },
+        {
+            "id": "bus_290",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What role does advanced behavioral finance play in shaping corporate investment strategies?",
+            "expected_keywords": ["behavioral finance", "investment strategies", "advanced analysis", "psychology", "market behavior"]
+        },
+        {
+            "id": "bus_291",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do companies use advanced competitive intelligence to gain insights into market dynamics?",
+            "expected_keywords": ["competitive intelligence", "advanced analytics", "market dynamics", "strategy", "data analysis"]
+        },
+        {
+            "id": "bus_292",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What advanced methodologies can be applied to optimize the performance of multi-national supply chains?",
+            "expected_keywords": ["supply chain performance", "advanced methodologies", "optimization", "global logistics", "data analytics"]
+        },
+        {
+            "id": "bus_293",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do organizations utilize advanced lean Six Sigma techniques to drive continuous improvement?",
+            "expected_keywords": ["lean Six Sigma", "continuous improvement", "advanced techniques", "efficiency", "quality control"]
+        },
+        {
+            "id": "bus_294",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What are the strategic implications of advanced market consolidation trends in the digital era?",
+            "expected_keywords": ["market consolidation", "digital era", "strategic implications", "advanced analysis", "competition"]
+        },
+        {
+            "id": "bus_295",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How can companies apply advanced value chain analysis to identify competitive advantages?",
+            "expected_keywords": ["value chain analysis", "advanced techniques", "competitive advantage", "strategic management", "efficiency"]
+        },
+        {
+            "id": "bus_296",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What role does advanced cloud computing play in reshaping business scalability and innovation?",
+            "expected_keywords": ["cloud computing", "business scalability", "innovation", "advanced technology", "digital transformation"]
+        },
+        {
+            "id": "bus_297",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What advanced methodologies can be applied for dynamic pricing optimization in digital marketplaces?",
+            "expected_keywords": ["dynamic pricing", "digital marketplaces", "advanced algorithms", "revenue management", "price elasticity"]
+        },
+        {
+            "id": "bus_298",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How do companies use advanced econometric techniques to forecast demand in volatile markets?",
+            "expected_keywords": ["econometric techniques", "demand forecasting", "volatile markets", "advanced modeling", "statistical analysis"]
+        },
+        {
+            "id": "bus_299",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "What are the implications of advanced cybersecurity frameworks on global e-commerce operations?",
+            "expected_keywords": ["cybersecurity", "global e-commerce", "advanced frameworks", "data protection", "risk mitigation"]
+        },
+        {
+            "id": "bus_300",
+            "category": "business",
+            "difficulty": "advanced",
+            "question": "How can advanced digital twin technologies enhance operational efficiency in manufacturing?",
+            "expected_keywords": ["digital twin", "operational efficiency", "manufacturing", "advanced simulation", "technology integration"]
+        }
+    ]
+
+  } 

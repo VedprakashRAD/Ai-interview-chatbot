@@ -1,0 +1,1488 @@
+{
+    "questions":
+[
+    {
+      "id": "HR_01",
+      "question": "Tell me something about yourself in brief.",
+      "category": "HR",
+      "expected_keywords": ["background", "experience", "skills", "strengths", "qualifications", "education", "career goals","Accuracy"]
+    },
+    {
+      "id": "HR_02",
+      "question": "Describe who you are.",
+      "category": "HR",
+      "expected_keywords": ["background", "personality", "values", "experience", "strengths", "qualifications"]
+    },
+    {
+      "id": "HR_03",
+      "question": "What are your strengths and weaknesses?",
+      "category": "HR",
+      "expected_keywords": ["strengths", "weaknesses", "self-awareness", "improvement", "skills", "attributes"]
+    },
+    {
+      "id": "HR_04",
+      "question": "You have not done your PG yet. This is not a drawback, but don’t you think you should get a PG degree asap?",
+      "category": "HR",
+      "expected_keywords": ["education", "post-graduation", "career development", "plans", "qualifications"]
+    },
+    {
+      "id": "HR_05",
+      "question": "What are your strong points?",
+      "category": "HR",
+      "expected_keywords": ["strengths", "skills", "attributes", "competencies"]
+    },
+    {
+      "id": "HR_06",
+      "question": "What is your greatest fear?",
+      "category": "HR",
+      "expected_keywords": ["fears", "challenges", "overcoming", "personal development"]
+    },
+    {
+      "id": "HR_07",
+      "question": "If I call up your current or previous reporting manager now, what will be their opinion about you? What will they say that you need to work on?",
+      "category": "HR",
+      "expected_keywords": ["feedback", "performance", "areas of improvement", "strengths", "manager's perspective"]
+    },
+    {
+      "id": "HR_08",
+      "question": "Do you have any serious medical issues?",
+      "category": "HR",
+      "expected_keywords": ["health", "medical conditions", "work impact", "accommodations"]
+    },
+    {
+      "id": "HR_09",
+      "question": "Did you ever have a conflict with your current/previous boss or professor?",
+      "category": "HR",
+      "expected_keywords": ["conflict resolution", "professional relationships", "communication", "examples"]
+    },
+    {
+      "id": "HR_10",
+      "question": "What do your friends/co-workers say about you?",
+      "category": "HR",
+      "expected_keywords": ["perception", "feedback", "strengths", "personality", "team dynamics"]
+    },
+    {
+      "id": "HR_11",
+      "question": "What did you do in the last year to improve your knowledge?",
+      "category": "HR",
+      "expected_keywords": ["learning", "professional development", "courses", "skills enhancement", "training"]
+    },
+    {
+      "id": "HR_12",
+      "question": "Explain the difference between group and team. Are you a team player?",
+      "category": "HR",
+      "expected_keywords": ["group vs team", "collaboration", "teamwork", "roles", "examples"]
+    },
+    {
+      "id": "HR_13",
+      "question": "What is in your opinion a ideal company or workplace?",
+      "category": "HR",
+      "expected_keywords": ["work environment", "company culture", "values", "preferences", "expectations"]
+    },
+    {
+      "id": "HR_14",
+      "question": "What is the most difficult thing that you’ve ever accomplished?",
+      "category": "HR",
+      "expected_keywords": ["challenges", "achievements", "perseverance", "examples", "skills utilized"]
+    },
+    {
+      "id": "HR_15",
+      "question": "What is the difference between hard work and smart work?",
+      "category": "HR",
+      "expected_keywords": ["hard work", "smart work", "efficiency", "productivity", "examples"]
+    },
+    {
+      "id": "HR_16",
+      "question": "How do you feel about working weekends and night shifts?",
+      "category": "HR",
+      "expected_keywords": ["availability", "flexibility", "work schedule", "preferences"]
+    },
+    {
+      "id": "HR_17",
+      "question": "Where do you see yourself 3 years from now?",
+      "category": "HR",
+      "expected_keywords": ["career goals", "aspirations", "plans", "professional development"]
+    },
+    {
+      "id": "HR_18",
+      "question": "Give an example of a time you had to respond to an unhappy manager/customer/colleague/professor/friend.",
+      "category": "HR",
+      "expected_keywords": ["conflict resolution", "communication", "empathy", "examples", "problem-solving"]
+    },
+    {
+      "id": "HR_19",
+      "question": "How quickly do you adapt to new technology?",
+      "category": "HR",
+      "expected_keywords": ["adaptability", "technology", "learning curve", "examples", "skills"]
+    },
+    {
+      "id": "HR_20",
+      "question": "On a scale of 1 to 10 how would you rate yourself as a leader?",
+      "category": "HR",
+      "expected_keywords": ["leadership", "self-assessment", "examples", "skills", "experience"]
+    },
+    {
+      "id": "HR_21",
+      "question": "What makes you angry?",
+      "category": "HR",
+      "expected_keywords": ["triggers", "emotional intelligence", "management", "examples", "self-awareness"]
+    },
+    {
+      "id": "HR_22",
+      "question": "Are you open to take risks? Do you like experimenting?",
+      "category": "HR",
+      "expected_keywords": ["risk-taking", "innovation", "examples", "decision-making", "comfort zone"]
+    },
+    {
+        "id": "HR_23",
+        "question": "Can you describe a time when you had to handle a conflict within your team? How did you resolve it?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "communication", "teamwork", "problem-solving", "empathy"]
+      },
+      {
+        "id": "HR_24",
+        "question": "How do you prioritize tasks when you have multiple deadlines to meet?",
+        "category": "HR",
+        "expected_keywords": ["time management", "prioritization", "organization", "deadlines", "stress management"]
+      },
+      {
+        "id": "HR_25",
+        "question": "Tell me about a time when you received constructive criticism. How did you respond?",
+        "category": "HR",
+        "expected_keywords": ["feedback", "self-improvement", "adaptability", "emotional intelligence", "growth mindset"]
+      },
+      {
+        "id": "HR_26",
+        "question": "How do you ensure effective communication within a diverse team?",
+        "category": "HR",
+        "expected_keywords": ["diversity", "inclusion", "communication skills", "cultural awareness", "collaboration"]
+      },
+      {
+        "id": "HR_27",
+        "question": "Describe a situation where you had to take initiative without being asked. What was the outcome?",
+        "category": "HR",
+        "expected_keywords": ["initiative", "proactiveness", "leadership", "problem-solving", "results-oriented"]
+      },
+      {
+        "id": "HR_28",
+        "question": "How do you handle working under pressure? Can you provide an example?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "resilience", "focus", "adaptability", "performance under pressure"]
+      },
+      {
+        "id": "HR_29",
+        "question": "What strategies do you use to build trust with your colleagues or team members?",
+        "category": "HR",
+        "expected_keywords": ["trust-building", "relationship management", "communication", "integrity", "team cohesion"]
+      },
+      {
+        "id": "HR_30",
+        "question": "Can you share an example of a time when you had to adapt to a significant change at work?",
+        "category": "HR",
+        "expected_keywords": ["adaptability", "change management", "resilience", "flexibility", "positive attitude"]
+      },
+      {
+        "id": "HR_31",
+        "question": "How do you approach setting and achieving long-term career goals?",
+        "category": "HR",
+        "expected_keywords": ["goal-setting", "self-motivation", "career planning", "persistence", "personal development"]
+      },
+      {
+        "id": "HR_32",
+        "question": "Describe a time when you had to work with a difficult colleague. How did you manage the situation?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "patience", "communication", "emotional intelligence", "teamwork"]
+      },
+      {
+        "id": "HR_33",
+        "question": "How do you ensure you stay motivated during repetitive or mundane tasks?",
+        "category": "HR",
+        "expected_keywords": ["self-motivation", "focus", "productivity", "mindset", "task management"]
+      },
+      {
+        "id": "HR_34",
+        "question": "Tell me about a time when you had to make a difficult decision. What was your thought process?",
+        "category": "HR",
+        "expected_keywords": ["decision-making", "critical thinking", "problem-solving", "judgment", "accountability"]
+      },
+      {
+        "id": "HR_35",
+        "question": "How do you handle situations where you disagree with your manager or supervisor?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "professionalism", "communication", "respect", "constructive feedback"]
+      },
+      {
+        "id": "HR_36",
+        "question": "What steps do you take to ensure continuous learning and development in your role?",
+        "category": "HR",
+        "expected_keywords": ["learning mindset", "skill development", "self-improvement", "training", "adaptability"]
+      },
+      {
+        "id": "HR_37",
+        "question": "Describe a time when you had to lead a team through a challenging project. What was your approach?",
+        "category": "HR",
+        "expected_keywords": ["leadership", "team management", "problem-solving", "motivation", "project management"]
+      },
+      {
+        "id": "HR_38",
+        "question": "How do you ensure accountability within your team?",
+        "category": "HR",
+        "expected_keywords": ["accountability", "responsibility", "teamwork", "performance management", "trust"]
+      },
+      {
+        "id": "HR_39",
+        "question": "Can you share an example of a time when you went above and beyond to meet a client's expectations?",
+        "category": "HR",
+        "expected_keywords": ["customer focus", "dedication", "problem-solving", "exceeding expectations", "client satisfaction"]
+      },
+      {
+        "id": "HR_40",
+        "question": "How do you handle failure or setbacks in your work?",
+        "category": "HR",
+        "expected_keywords": ["resilience", "learning from failure", "adaptability", "positive attitude", "growth mindset"]
+      },
+      {
+        "id": "HR_41",
+        "question": "What methods do you use to manage and resolve conflicts between team members?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "mediation", "communication", "team cohesion", "emotional intelligence"]
+      },
+      {
+        "id": "HR_42",
+        "question": "How do you balance teamwork and individual responsibilities?",
+        "category": "HR",
+        "expected_keywords": ["teamwork", "individual contribution", "time management", "collaboration", "prioritization"]
+      },
+      {
+        "id": "HR_43",
+        "question": "Describe a time when you had to manage a project with limited resources. How did you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["resource management", "problem-solving", "creativity", "efficiency", "project management"]
+      },
+      {
+        "id": "HR_44",
+        "question": "How do you ensure that your team remains motivated during challenging times?",
+        "category": "HR",
+        "expected_keywords": ["motivation", "leadership", "team morale", "communication", "support"]
+      },
+      {
+        "id": "HR_45",
+        "question": "What is your approach to giving constructive feedback to a colleague or team member?",
+        "category": "HR",
+        "expected_keywords": ["feedback", "communication", "emotional intelligence", "constructive criticism", "professionalism"]
+      },
+      {
+        "id": "HR_46",
+        "question": "How do you handle situations where you have to meet tight deadlines?",
+        "category": "HR",
+        "expected_keywords": ["time management", "stress management", "prioritization", "focus", "efficiency"]
+      },
+      {
+        "id": "HR_47",
+        "question": "Describe a time when you had to persuade a team to adopt a new idea or process. How did you approach it?",
+        "category": "HR",
+        "expected_keywords": ["persuasion", "communication", "change management", "leadership", "influence"]
+      },
+      {
+        "id": "HR_48",
+        "question": "How do you ensure that you remain organized and productive in a fast-paced environment?",
+        "category": "HR",
+        "expected_keywords": ["organization", "time management", "productivity", "adaptability", "focus"]
+      },
+      {
+        "id": "HR_49",
+        "question": "Can you share an example of a time when you had to deal with an underperforming team member?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "communication", "coaching", "problem-solving", "accountability"]
+      },
+      {
+        "id": "HR_50",
+        "question": "How do you approach building relationships with stakeholders or clients?",
+        "category": "HR",
+        "expected_keywords": ["relationship building", "communication", "trust", "client management", "stakeholder engagement"]
+      },
+      {
+        "id": "HR_51",
+        "question": "Describe a time when you had to manage competing priorities. How did you handle it?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "time management", "decision-making", "organization", "stress management"]
+      },
+      {
+        "id": "HR_52",
+        "question": "How do you ensure that your team remains aligned with the organization's goals?",
+        "category": "HR",
+        "expected_keywords": ["goal alignment", "communication", "leadership", "team cohesion", "performance management"]
+      },
+      {
+        "id": "HR_53",
+        "question": "What steps do you take to ensure effective collaboration in a remote or hybrid work environment?",
+        "category": "HR",
+        "expected_keywords": ["remote work", "collaboration", "communication", "technology", "teamwork"]
+      },
+      {
+        "id": "HR_54",
+        "question": "Describe a time when you had to handle a crisis or emergency at work. How did you manage it?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "problem-solving", "decision-making", "calmness", "leadership"]
+      },
+      {
+        "id": "HR_55",
+        "question": "How do you ensure that you remain adaptable in a constantly changing work environment?",
+        "category": "HR",
+        "expected_keywords": ["adaptability", "flexibility", "resilience", "change management", "positive attitude"]
+      },
+      {
+        "id": "HR_56",
+        "question": "Can you share an example of a time when you had to manage a cross-functional team?",
+        "category": "HR",
+        "expected_keywords": ["cross-functional collaboration", "leadership", "communication", "teamwork", "project management"]
+      },
+      {
+        "id": "HR_57",
+        "question": "How do you approach mentoring or coaching junior team members?",
+        "category": "HR",
+        "expected_keywords": ["mentoring", "coaching", "leadership", "knowledge sharing", "professional development"]
+      },
+      {
+        "id": "HR_58",
+        "question": "Describe a time when you had to implement a new process or system. How did you ensure its success?",
+        "category": "HR",
+        "expected_keywords": ["change management", "implementation", "communication", "problem-solving", "adaptability"]
+      },
+      {
+        "id": "HR_59",
+        "question": "How do you handle situations where you have to work with limited information or resources?",
+        "category": "HR",
+        "expected_keywords": ["resourcefulness", "problem-solving", "creativity", "adaptability", "decision-making"]
+      },
+      {
+        "id": "HR_60",
+        "question": "What strategies do you use to maintain a healthy work-life balance?",
+        "category": "HR",
+        "expected_keywords": ["work-life balance", "time management", "self-care", "stress management", "prioritization"]
+      },
+      {
+        "id": "HR_61",
+        "question": "Describe a time when you had to manage a project with a tight budget. How did you ensure its success?",
+        "category": "HR",
+        "expected_keywords": ["budget management", "resourcefulness", "cost efficiency", "project management", "problem-solving"]
+      },
+      {
+        "id": "HR_62",
+        "question": "How do you ensure that your team remains innovative and creative?",
+        "category": "HR",
+        "expected_keywords": ["innovation", "creativity", "team motivation", "idea generation", "leadership"]
+      },
+      {
+        "id": "HR_63",
+        "question": "Can you share an example of a time when you had to manage a high-stakes negotiation?",
+        "category": "HR",
+        "expected_keywords": ["negotiation", "communication", "persuasion", "problem-solving", "decision-making"]
+      },
+      {
+        "id": "HR_64",
+        "question": "How do you approach building a positive and inclusive team culture?",
+        "category": "HR",
+        "expected_keywords": ["inclusion", "team culture", "diversity", "communication", "leadership"]
+      },
+      {
+        "id": "HR_65",
+        "question": "Describe a time when you had to manage a team through a period of uncertainty. How did you handle it?",
+        "category": "HR",
+        "expected_keywords": ["uncertainty", "leadership", "communication", "team morale", "adaptability"]
+      },
+      {
+        "id": "HR_66",
+        "question": "How do you ensure that your team remains focused on achieving its goals?",
+        "category": "HR",
+        "expected_keywords": ["goal alignment", "focus", "motivation", "performance management", "communication"]
+      },
+      {
+        "id": "HR_67",
+        "question": "What steps do you take to ensure effective decision-making in a team setting?",
+        "category": "HR",
+        "expected_keywords": ["decision-making", "collaboration", "communication", "critical thinking", "consensus-building"]
+      },
+      {
+        "id": "HR_68",
+        "question": "Describe a time when you had to manage a team with diverse skill sets. How did you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["diverse skills", "team management", "collaboration", "leadership", "resource allocation"]
+      },
+      {
+        "id": "HR_69",
+        "question": "How do you approach managing conflicts between team members and external stakeholders?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "stakeholder management", "communication", "mediation", "professionalism"]
+      },
+      {
+        "id": "HR_70",
+        "question": "Can you share an example of a time when you had to manage a project with a tight deadline?",
+        "category": "HR",
+        "expected_keywords": ["deadline management", "time management", "stress management", "team coordination", "efficiency"]
+      },
+      {
+        "id": "HR_71",
+        "question": "How do you ensure that your team remains engaged and motivated during long-term projects?",
+        "category": "HR",
+        "expected_keywords": ["team motivation", "engagement", "leadership", "communication", "project management"]
+      },
+      {
+        "id": "HR_72",
+        "question": "Describe a time when you had to manage a team through a significant organizational change. How did you handle it?",
+        "category": "HR",
+        "expected_keywords": ["change management", "leadership", "communication", "team morale", "adaptability"]
+      },
+      {
+        "id": "HR_73",
+        "question": "How do you approach managing a team with conflicting priorities?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "prioritization", "communication", "team management", "decision-making"]
+      },
+      {
+        "id": "HR_74",
+        "question": "What strategies do you use to ensure effective communication within a remote team?",
+        "category": "HR",
+        "expected_keywords": ["remote communication", "collaboration", "technology", "clarity", "team cohesion"]
+      },
+      {
+        "id": "HR_75",
+        "question": "Describe a time when you had to manage a team through a crisis. How did you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "leadership", "communication", "team morale", "problem-solving"]
+      },
+      {
+        "id": "HR_76",
+        "question": "How do you ensure that your team remains aligned with the organization's mission and values?",
+        "category": "HR",
+        "expected_keywords": ["mission alignment", "values", "communication", "leadership", "team cohesion"]
+      },
+      {
+        "id": "HR_77",
+        "question": "Can you share an example of a time when you had to manage a team with limited resources?",
+        "category": "HR",
+        "expected_keywords": ["resource management", "problem-solving", "creativity", "efficiency", "team coordination"]
+      },
+      {
+        "id": "HR_78",
+        "question": "How do you approach managing a team with diverse cultural backgrounds?",
+        "category": "HR",
+        "expected_keywords": ["cultural diversity", "inclusion", "communication", "team cohesion", "cultural awareness"]
+      },
+      {
+        "id": "HR_79",
+        "question": "Describe a time when you had to manage a team through a period of high stress. How did you handle it?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "team morale", "communication", "leadership", "support"]
+      },
+      {
+        "id": "HR_80",
+        "question": "How do you ensure that your team remains innovative and open to new ideas?",
+        "category": "HR",
+        "expected_keywords": ["innovation", "creativity", "idea generation", "team motivation", "leadership"]
+      },
+      {
+        "id": "HR_81",
+        "question": "What steps do you take to ensure effective collaboration between different departments?",
+        "category": "HR",
+        "expected_keywords": ["cross-department collaboration", "communication", "teamwork", "problem-solving", "leadership"]
+      },
+      {
+        "id": "HR_82",
+        "question": "You are leading a project, and two of your team members are constantly in conflict, affecting productivity. How would you handle this situation?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "active listening", "mediation", "collaboration", "team dynamics", "communication", "compromise", "fairness", "neutrality", "problem-solving"]
+      },
+      {
+        "id": "HR_83",
+        "question": "You are assigned a project with an extremely tight deadline, and your team is already overwhelmed. How do you ensure successful completion without causing burnout?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "time management", "delegation", "workload distribution", "stress management", "motivation", "realistic goal setting", "support", "resource allocation", "efficiency"]
+      },
+      {
+        "id": "HR_84",
+        "question": "A junior team member has made a critical mistake in a client presentation. How would you handle the situation while maintaining team morale?",
+        "category": "HR",
+        "expected_keywords": ["constructive feedback", "learning opportunity", "accountability", "support", "coaching", "growth mindset", "damage control", "client communication", "responsibility", "team morale"]
+      },
+      {
+        "id": "HR_85",
+        "question": "Your manager assigns you additional responsibilities beyond your current role, which may affect your core tasks. How do you handle this?",
+        "category": "HR",
+        "expected_keywords": ["time management", "prioritization", "work-life balance", "expectation setting", "communication", "negotiation", "responsibility delegation", "efficiency", "strategic planning", "self-advocacy"]
+      },
+      {
+        "id": "HR_86",
+        "question": "You receive a critical piece of feedback from your supervisor that you strongly disagree with. How do you respond?",
+        "category": "HR",
+        "expected_keywords": ["active listening", "open-mindedness", "professionalism", "constructive response", "feedback acceptance", "self-improvement", "emotional intelligence", "clarification", "perspective", "growth mindset"]
+      },
+      {
+        "id": "HR_87",
+        "question": "A key project you're working on is suddenly canceled, and you feel demotivated. How do you regain your focus and motivate your team?",
+        "category": "HR",
+        "expected_keywords": ["resilience", "team motivation", "adaptability", "positive reinforcement", "goal setting", "strategic refocusing", "engagement", "career growth", "learning mindset", "emotional intelligence"]
+      },
+      {
+        "id": "HR_88",
+        "question": "A colleague consistently takes credit for your work in front of leadership. How would you address this situation?",
+        "category": "HR",
+        "expected_keywords": ["assertiveness", "professional confrontation", "communication", "self-advocacy", "conflict resolution", "evidence-based discussion", "teamwork", "ethical behavior", "relationship management", "accountability"]
+      },
+      {
+        "id": "HR_89",
+        "question": "Your team is hesitant to adopt a new technology that could improve efficiency. How do you drive change effectively?",
+        "category": "HR",
+        "expected_keywords": ["change management", "persuasion", "communication", "training", "incentives", "stakeholder engagement", "benefits demonstration", "leadership", "collaboration", "problem-solving"]
+      },
+      {
+        "id": "HR_90",
+        "question": "A customer or client is extremely dissatisfied and is demanding an immediate resolution. How do you handle this professionally?",
+        "category": "HR",
+        "expected_keywords": ["customer service", "problem-solving", "active listening", "empathy", "communication", "negotiation", "conflict resolution", "calmness", "solution orientation", "relationship management"]
+      },
+      {
+        "id": "HR_91",
+        "question": "Imagine you are leading a team, and one of your team members consistently misses deadlines. How would you address this situation?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "communication", "accountability", "problem-solving", "coaching"]
+      },
+      {
+        "id": "HR_92",
+        "question": "You are assigned to a high-priority project with a tight deadline, but your team is already overloaded. How would you approach this situation?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "resource management", "stress management", "team coordination", "problem-solving"]
+      },
+      {
+        "id": "HR_93",
+        "question": "Describe a time when you had to deliver bad news to a team or stakeholder. How did you handle it?",
+        "category": "HR",
+        "expected_keywords": ["communication", "emotional intelligence", "transparency", "professionalism", "empathy"]
+      },
+      {
+        "id": "HR_94",
+        "question": "You notice a conflict between two team members that is affecting team productivity. What steps would you take to resolve it?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "mediation", "communication", "team cohesion", "problem-solving"]
+      },
+      {
+        "id": "HR_95",
+        "question": "Imagine you are asked to implement a new policy that your team strongly disagrees with. How would you handle their resistance?",
+        "category": "HR",
+        "expected_keywords": ["change management", "communication", "persuasion", "team alignment", "leadership"]
+      },
+      {
+        "id": "HR_96",
+        "question": "You are working on a project, and a key stakeholder suddenly changes their requirements. How would you manage this situation?",
+        "category": "HR",
+        "expected_keywords": ["adaptability", "stakeholder management", "communication", "problem-solving", "flexibility"]
+      },
+      {
+        "id": "HR_97",
+        "question": "Describe a time when you had to manage a team member who was not meeting expectations. What steps did you take?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "coaching", "communication", "accountability", "problem-solving"]
+      },
+      {
+        "id": "HR_98",
+        "question": "You are leading a team, and a critical project is at risk of failing due to unforeseen challenges. How would you handle this situation?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "problem-solving", "leadership", "team motivation", "decision-making"]
+      },
+      {
+        "id": "HR_99",
+        "question": "Imagine you are asked to take over a struggling team. What would be your first steps to turn things around?",
+        "category": "HR",
+        "expected_keywords": ["team management", "leadership", "problem-solving", "communication", "motivation"]
+      },
+      {
+        "id": "HR_100",
+        "question": "You are working on a cross-functional project, and there is a lack of alignment between teams. How would you ensure collaboration and success?",
+        "category": "HR",
+        "expected_keywords": ["cross-functional collaboration", "communication", "team alignment", "problem-solving", "leadership"]
+      },
+      {
+        "id": "HR_101",
+        "question": "Describe a situation where you had to implement a significant change in your organization. How did you manage the transition, and what was the outcome?",
+        "category": "HR",
+        "expected_keywords": ["change management", "leadership", "communication", "resistance", "strategy", "outcome", "transition", "implementation", "stakeholders", "adaptability"]
+      },
+      {
+        "id": "HR_102",
+        "question": "Can you provide an example of a time when you had to address a performance issue with an employee? What approach did you take, and what was the result?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "feedback", "coaching", "communication", "improvement plan", "employee development", "conflict resolution", "outcome", "leadership", "evaluation"]
+      },
+      {
+        "id": "HR_103",
+        "question": "Tell me about a time when you had to make a difficult decision that affected your team. How did you approach the decision-making process?",
+        "category": "HR",
+        "expected_keywords": ["decision-making", "leadership", "team impact", "analysis", "stakeholder consultation", "risk assessment", "communication", "problem-solving", "critical thinking", "outcome"]
+      },
+      {
+        "id": "HR_104",
+        "question": "Describe an instance where you had to mediate a conflict between two employees. What steps did you take to resolve the issue?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "mediation", "communication", "neutrality", "problem-solving", "empathy", "negotiation", "outcome", "relationship building", "interpersonal skills"]
+      },
+      {
+        "id": "HR_105",
+        "question": "Have you ever had to enforce a policy that you personally disagreed with? How did you handle the situation?",
+        "category": "HR",
+        "expected_keywords": ["policy enforcement", "professionalism", "personal values", "objectivity", "communication", "compliance", "integrity", "leadership", "organizational alignment", "ethical dilemma"]
+      },
+      {
+        "id": "HR_106",
+        "question": "Can you share an experience where you had to lead a project outside of your expertise? How did you ensure its success?",
+        "category": "HR",
+        "expected_keywords": ["project management", "leadership", "adaptability", "learning agility", "resourcefulness", "team collaboration", "problem-solving", "stakeholder engagement", "planning", "outcome"]
+      },
+      {
+        "id": "HR_107",
+        "question": "Describe a time when you had to provide constructive feedback to a senior colleague. How did you approach it?",
+        "category": "HR",
+        "expected_keywords": ["feedback delivery", "communication", "tact", "respect", "professionalism", "relationship management", "assertiveness", "preparation", "outcome", "leadership"]
+      },
+      {
+        "id": "HR_108",
+        "question": "Tell me about a situation where you had to manage a team with diverse backgrounds and experiences. How did you ensure cohesion and productivity?",
+        "category": "HR",
+        "expected_keywords": ["diversity management", "inclusion", "team dynamics", "communication", "leadership", "conflict resolution", "collaboration", "cultural competence", "strategy", "outcome"]
+      },
+      {
+        "id": "HR_109",
+        "question": "Have you ever faced a situation where you had to uphold a company's decision that was unpopular among employees? How did you manage employee morale?",
+        "category": "HR",
+        "expected_keywords": ["organizational decisions", "employee morale", "communication", "change management", "leadership", "empathy", "transparency", "trust-building", "conflict resolution", "outcome"]
+      },
+      {
+        "id": "HR_110",
+        "question": "Can you provide an example of a time when you had to handle confidential information? How did you ensure its security?",
+        "category": "HR",
+        "expected_keywords": ["confidentiality", "data security", "professionalism", "trustworthiness", "compliance", "ethical standards", "information handling", "policy adherence", "risk management", "integrity"]
+      },
+      {
+        "id": "HR_111",
+        "question": "Describe an experience where you had to motivate a disengaged team member. What strategies did you employ?",
+        "category": "HR",
+        "expected_keywords": ["employee motivation", "engagement", "communication", "coaching", "recognition", "relationship building", "performance improvement", "leadership", "strategy", "outcome"]
+      },
+      {
+        "id": "HR_112",
+        "question": "Tell me about a time when you had to balance competing priorities. How did you manage your time and resources?",
+        "category": "HR",
+        "expected_keywords": ["time management", "prioritization", "resource allocation", "organization", "decision-making", "multitasking", "planning", "efficiency", "productivity", "outcome"]
+      },
+      {
+        "id": "HR_113",
+        "question": "Have you ever had to implement a new HR system or process? What challenges did you face, and how did you overcome them?",
+        "category": "HR",
+        "expected_keywords": ["HR systems", "process implementation", "change management", "technology adoption", "training", "communication", "problem-solving", "project management", "stakeholder engagement", "outcome"]
+      },
+      {
+        "id": "HR_114",
+        "question": "Can you share a time when you had to ensure compliance with labor laws or regulations? How did you handle it?",
+        "category": "HR",
+        "expected_keywords": ["compliance", "labor laws", "regulations", "policy implementation", "risk management", "communication", "training", "audit", "legal knowledge", "outcome"]
+      },
+      {
+        "id": "HR_115",
+        "question": "Describe a situation where you had to manage a remote team. What strategies did you use to ensure effective collaboration?",
+        "category": "HR",
+        "expected_keywords": ["remote team management", "virtual collaboration", "communication tools", "team engagement", "productivity", "leadership", "technology", "trust-building", "time zones", "outcome"]
+      },
+      {
+        "id": "HR_116",
+        "question": "Tell me about a time when you had to address a sudden staffing shortage. How did you manage the situation?",
+        "category": "HR",
+        "expected_keywords": ["staffing management", "crisis management", "resource allocation", "problem-solving", "communication", "flexibility", "planning", "teamwork", "leadership", "outcome"]
+      },
+      {
+        "id": "HR_117",
+        "question": "You are assigned to lead a team with members from different cultural backgrounds. How would you ensure effective collaboration and inclusion?",
+        "category": "HR",
+        "expected_keywords": ["cultural diversity", "inclusion", "communication", "team cohesion", "cultural awareness", "leadership"]
+      },
+      {
+        "id": "HR_118",
+        "question": "Describe a time when you had to manage a team member who was resistant to feedback. How did you handle the situation?",
+        "category": "HR",
+        "expected_keywords": ["feedback", "resistance", "communication", "emotional intelligence", "coaching", "performance management"]
+      },
+      {
+        "id": "HR_119",
+        "question": "Imagine you are asked to implement a new technology that your team is unfamiliar with. How would you ensure a smooth transition?",
+        "category": "HR",
+        "expected_keywords": ["change management", "technology adoption", "training", "communication", "team motivation", "adaptability"]
+      },
+      {
+        "id": "HR_120",
+        "question": "You are leading a project, and a key team member suddenly resigns. How would you manage the situation to ensure project success?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "resource allocation", "team coordination", "problem-solving", "leadership", "adaptability"]
+      },
+      {
+        "id": "HR_121",
+        "question": "Describe a time when you had to manage a team through a major organizational restructuring. How did you ensure team morale and productivity?",
+        "category": "HR",
+        "expected_keywords": ["organizational change", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_122",
+        "question": "How would you handle a situation where a team member consistently takes credit for others' work?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "ethics", "communication", "team dynamics", "accountability", "professionalism"]
+      },
+      {
+        "id": "HR_123",
+        "question": "You are asked to lead a team on a high-stakes project with a tight deadline. How would you ensure the team stays motivated and delivers quality work?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "team motivation", "time management", "leadership", "quality assurance", "project management"]
+      },
+      {
+        "id": "HR_124",
+        "question": "Describe a time when you had to manage a team member who was underperforming. What steps did you take to address the issue?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "coaching", "communication", "problem-solving", "accountability", "team dynamics"]
+      },
+      {
+        "id": "HR_125",
+        "question": "Imagine you are asked to lead a team with conflicting personalities. How would you ensure effective collaboration?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "team dynamics", "communication", "emotional intelligence", "leadership", "collaboration"]
+      },
+      {
+        "id": "HR_126",
+        "question": "You are working on a project, and a key stakeholder is unresponsive. How would you ensure the project stays on track?",
+        "category": "HR",
+        "expected_keywords": ["stakeholder management", "communication", "problem-solving", "adaptability", "project management", "leadership"]
+      },
+      {
+        "id": "HR_127",
+        "question": "Describe a time when you had to manage a team through a period of uncertainty. How did you ensure team focus and productivity?",
+        "category": "HR",
+        "expected_keywords": ["uncertainty", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_128",
+        "question": "How would you handle a situation where a team member is not aligned with the team's goals?",
+        "category": "HR",
+        "expected_keywords": ["goal alignment", "communication", "team dynamics", "leadership", "conflict resolution", "performance management"]
+      },
+      {
+        "id": "HR_129",
+        "question": "You are asked to lead a team on a project with unclear objectives. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["goal setting", "communication", "problem-solving", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_130",
+        "question": "Describe a time when you had to manage a team through a crisis. What steps did you take to ensure success?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "leadership", "communication", "team morale", "problem-solving", "adaptability"]
+      },
+      {
+        "id": "HR_131",
+        "question": "How would you handle a situation where a team member is not contributing equally to the team's efforts?",
+        "category": "HR",
+        "expected_keywords": ["team dynamics", "accountability", "communication", "conflict resolution", "performance management", "leadership"]
+      },
+      {
+        "id": "HR_132",
+        "question": "You are asked to lead a team on a project with limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["resource management", "problem-solving", "creativity", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_133",
+        "question": "Describe a time when you had to manage a team through a significant change in leadership. How did you ensure team stability?",
+        "category": "HR",
+        "expected_keywords": ["change management", "team morale", "communication", "leadership", "adaptability", "team cohesion"]
+      },
+      {
+        "id": "HR_134",
+        "question": "How would you handle a situation where a team member is resistant to change?",
+        "category": "HR",
+        "expected_keywords": ["change management", "resistance", "communication", "emotional intelligence", "leadership", "problem-solving"]
+      },
+      {
+        "id": "HR_135",
+        "question": "You are asked to lead a team on a project with a tight deadline and limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["time management", "resource management", "stress management", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_136",
+        "question": "Describe a time when you had to manage a team through a period of high stress. How did you ensure team morale and productivity?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_137",
+        "question": "How would you handle a situation where a team member is not meeting deadlines consistently?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "accountability", "communication", "problem-solving", "coaching", "team dynamics"]
+      },
+      {
+        "id": "HR_138",
+        "question": "You are asked to lead a team on a project with conflicting priorities. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "conflict resolution", "communication", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_139",
+        "question": "Describe a time when you had to manage a team through a period of uncertainty. How did you ensure team focus and productivity?",
+        "category": "HR",
+        "expected_keywords": ["uncertainty", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_140",
+        "question": "How would you handle a situation where a team member is not aligned with the team's goals?",
+        "category": "HR",
+        "expected_keywords": ["goal alignment", "communication", "team dynamics", "leadership", "conflict resolution", "performance management"]
+      },
+      {
+        "id": "HR_141",
+        "question": "You are asked to lead a team on a project with unclear objectives. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["goal setting", "communication", "problem-solving", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_142",
+        "question": "Describe a time when you had to manage a team through a crisis. What steps did you take to ensure success?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "leadership", "communication", "team morale", "problem-solving", "adaptability"]
+      },
+      {
+        "id": "HR_143",
+        "question": "How would you handle a situation where a team member is not contributing equally to the team's efforts?",
+        "category": "HR",
+        "expected_keywords": ["team dynamics", "accountability", "communication", "conflict resolution", "performance management", "leadership"]
+      },
+      {
+        "id": "HR_144",
+        "question": "You are asked to lead a team on a project with limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["resource management", "problem-solving", "creativity", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_145",
+        "question": "Describe a time when you had to manage a team through a significant change in leadership. How did you ensure team stability?",
+        "category": "HR",
+        "expected_keywords": ["change management", "team morale", "communication", "leadership", "adaptability", "team cohesion"]
+      },
+      {
+        "id": "HR_146",
+        "question": "How would you handle a situation where a team member is resistant to change?",
+        "category": "HR",
+        "expected_keywords": ["change management", "resistance", "communication", "emotional intelligence", "leadership", "problem-solving"]
+      },
+      {
+        "id": "HR_147",
+        "question": "You are asked to lead a team on a project with a tight deadline and limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["time management", "resource management", "stress management", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_148",
+        "question": "Describe a time when you had to manage a team through a period of high stress. How did you ensure team morale and productivity?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_149",
+        "question": "How would you handle a situation where a team member is not meeting deadlines consistently?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "accountability", "communication", "problem-solving", "coaching", "team dynamics"]
+      },
+      {
+        "id": "HR_150",
+        "question": "You are asked to lead a team on a project with conflicting priorities. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "conflict resolution", "communication", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_151",
+        "question": "Describe a time when you had to lead a team through a significant organizational change. How did you manage resistance, and what strategies did you employ to ensure a smooth transition?",
+        "category": "HR",
+        "expected_keywords": ["leadership", "change management", "resistance handling", "communication", "strategic planning", "stakeholder engagement", "adaptability", "conflict resolution", "team motivation", "outcome evaluation"]
+      },
+      {
+        "id": "HR_152",
+        "question": "Can you provide an example of a situation where you had to make a decision with incomplete information? How did you approach the decision-making process, and what was the result?",
+        "category": "HR",
+        "expected_keywords": ["decision-making", "uncertainty management", "risk assessment", "analytical skills", "problem-solving", "critical thinking", "intuition", "stakeholder consultation", "outcome analysis", "learning experience"]
+      },
+      {
+        "id": "HR_153",
+        "question": "Tell me about a time when you had to address a performance issue with a high-performing team member. How did you handle the conversation, and what was the outcome?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "feedback delivery", "communication skills", "empathy", "conflict resolution", "coaching", "employee development", "relationship building", "confidentiality", "result evaluation"]
+      },
+      {
+        "id": "HR_154",
+        "question": "Describe an instance where you had to implement a new policy that was unpopular among employees. What steps did you take to gain buy-in and ensure compliance?",
+        "category": "HR",
+        "expected_keywords": ["policy implementation", "change management", "communication strategy", "stakeholder engagement", "persuasion", "negotiation", "conflict resolution", "leadership", "compliance monitoring", "outcome assessment"]
+      },
+      {
+        "id": "HR_155",
+        "question": "Can you share an experience where you had to manage a project with a tight deadline and limited resources? How did you ensure successful completion?",
+        "category": "HR",
+        "expected_keywords": ["project management", "time management", "resource allocation", "prioritization", "problem-solving", "team collaboration", "risk management", "leadership", "strategic planning", "outcome evaluation"]
+      },
+      {
+        "id": "HR_156",
+        "question": "Tell me about a time when you had to navigate a complex ethical dilemma at work. What decision did you make, and what factors influenced your choice?",
+        "category": "HR",
+        "expected_keywords": ["ethical decision-making", "integrity", "values alignment", "confidentiality", "stakeholder impact", "risk assessment", "professionalism", "legal considerations", "consultation", "outcome reflection"]
+      },
+      {
+        "id": "HR_157",
+        "question": "Describe a situation where you had to manage a conflict between two team members. What approach did you take to resolve the issue, and what was the result?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "mediation", "communication skills", "empathy", "neutrality", "problem-solving", "relationship building", "team dynamics", "leadership", "outcome assessment"]
+      },
+      {
+        "id": "HR_158",
+        "question": "Can you provide an example of a time when you had to adapt to a significant change in your work environment? How did you handle it, and what strategies did you use to maintain productivity?",
+        "category": "HR",
+        "expected_keywords": ["adaptability", "resilience", "change management", "stress management", "problem-solving", "flexibility", "communication", "time management", "team collaboration", "outcome evaluation"]
+      },
+      {
+        "id": "HR_159",
+        "question": "Tell me about a time when you had to provide critical feedback to a superior. How did you approach the situation, and what was the outcome?",
+        "category": "HR",
+        "expected_keywords": ["upward feedback", "communication skills", "tact", "professionalism", "courage", "relationship management", "conflict resolution", "empathy", "preparation", "outcome assessment"]
+      },
+      {
+        "id": "HR_160",
+        "question": "Describe an experience where you had to manage a team with diverse backgrounds and skill sets. How did you ensure effective collaboration and achieve team objectives?",
+        "category": "HR",
+        "expected_keywords": ["diversity management", "inclusion", "team dynamics", "communication", "leadership", "conflict resolution", "cultural competence", "collaboration", "strategic planning", "outcome evaluation"]
+      },
+      {
+        "id": "HR_161",
+        "question": "Can you share a time when you had to make a decision that was unpopular with your team? How did you communicate the decision, and what was the impact?",
+        "category": "HR",
+        "expected_keywords": ["decision-making", "leadership", "communication strategy", "change management", "stakeholder engagement", "conflict resolution", "persuasion", "empathy", "transparency", "outcome assessment"]
+      },
+      {
+        "id": "HR_162",
+        "question": "Tell me about a situation where you had to manage a remote team. What challenges did you face, and how did you overcome them to ensure team cohesion and productivity?",
+        "category": "HR",
+        "expected_keywords": ["remote team management", "virtual collaboration", "communication tools", "time zone differences", "team engagement", "technology proficiency", "leadership", "trust-building", "problem-solving", "outcome evaluation"]
+      },
+      {
+        "id": "HR_163",
+        "question": "Describe a time when you had to handle a sudden and unexpected crisis at work. What actions did you take, and what was the result?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "problem-solving", "decision-making", "stress management", "leadership", "communication", "resourcefulness", "adaptability", "risk assessment", "outcome evaluation"]
+      },
+      {
+        "id": "HR_164",
+        "question": "Can you provide an example of a situation where you had to balance competing high-priority tasks? How did you prioritize, and what was the outcome?",
+        "category": "HR",
+        "expected_keywords": ["time management", "prioritization", "decision-making", "organizational skills", "stress management", "communication", "problem-solving", "delegation", "strategic planning", "outcome evaluation"]
+      },
+      {
+        "id": "HR_165",
+        "question": "Imagine you're leading a team where two members have conflicting ideas on project direction. How would you mediate this conflict?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "team dynamics", "leadership", "mediation", "communication", "decision making"]
+      },
+      {
+        "id": "HR_166",
+        "question": "If your team is underperforming, what steps would you take to identify the issues and improve outcomes?",
+        "category": "HR",
+        "expected_keywords": ["performance analysis", "problem solving", "motivation", "team evaluation", "feedback", "strategy adjustment"]
+      },
+      {
+        "id": "HR_167",
+        "question": "You've noticed a key team member struggling with work-life balance. How would you address this to ensure both their well-being and productivity?",
+        "category": "HR",
+        "expected_keywords": ["empathy", "support", "work-life balance", "productivity", "intervention", "resource allocation"]
+      },
+      {
+        "id": "HR_168",
+        "question": "Describe a time when you had to adapt your leadership style to manage a diverse team. What was the outcome?",
+        "category": "HR",
+        "expected_keywords": ["adaptability", "diversity", "leadership style", "inclusivity", "team cohesion", "cultural awareness"]
+      },
+      {
+        "id": "HR_169",
+        "question": "How would you handle a situation where a project deadline is at risk due to an unforeseen problem?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "risk assessment", "time management", "resource management", "delegation", "negotiation"]
+      },
+      {
+        "id": "HR_170",
+        "question": "If you were to implement a new performance review system, what would be your approach to ensure its effectiveness and acceptance?",
+        "category": "HR",
+        "expected_keywords": ["change management", "employee engagement", "feedback systems", "transparency", "training", "evaluation criteria"]
+      },
+      {
+        "id": "HR_171",
+        "question": "What strategies would you employ to maintain high team morale during a period of significant organizational change?",
+        "category": "HR",
+        "expected_keywords": ["change management", "morale boosting", "communication", "leadership", "team building", "empathy"]
+      },
+      {
+        "id": "HR_172",
+        "question": "Describe how you would deal with a team member who consistently misses deadlines but has valuable skills.",
+        "category": "HR",
+        "expected_keywords": ["performance management", "coaching", "accountability", "skill utilization", "time management", "support"]
+      },
+      {
+        "id": "HR_173",
+        "question": "How do you ensure that all team members feel valued and included in decision-making processes?",
+        "category": "HR",
+        "expected_keywords": ["inclusion", "decision-making", "team involvement", "recognition", "equity", "openness"]
+      },
+      {
+        "id": "HR_174",
+        "question": "What methods do you use to assess the potential of new hires during their probation period?",
+        "category": "HR",
+        "expected_keywords": ["assessment", "probation", "performance metrics", "feedback", "development", "integration"]
+      },
+      {
+        "id": "HR_175",
+        "question": "How would you manage a situation where a high-performing employee is causing friction within the team?",
+        "category": "HR",
+        "expected_keywords": ["conflict resolution", "team dynamics", "high performance", "coaching", "mediation", "team harmony"]
+      },
+      {
+        "id": "HR_176",
+        "question": "If you were tasked with reducing turnover, what key areas would you focus on?",
+        "category": "HR",
+        "expected_keywords": ["retention strategies", "employee satisfaction", "career development", "work environment", "leadership", "compensation"]
+      },
+      {
+        "id": "HR_177",
+        "question": "How do you balance the need for innovation with the risk of project failure in a team?",
+        "category": "HR",
+        "expected_keywords": ["innovation management", "risk assessment", "failure tolerance", "creativity", "learning culture", "strategy"]
+      },
+      {
+        "id": "HR_178",
+        "question": "Describe a strategy to integrate new technology into a team that is resistant to change.",
+        "category": "HR",
+        "expected_keywords": ["change management", "technology adoption", "training", "communication", "resistance", "leadership"]
+      },
+      {
+        "id": "HR_179",
+        "question": "What steps would you take to rebuild trust within a team after a major project failure?",
+        "category": "HR",
+        "expected_keywords": ["trust rebuilding", "leadership", "failure analysis", "communication", "team support", "learning"]
+      },
+      {
+        "id": "HR_180",
+        "question": "How do you motivate a team when the project they're working on lacks visible progress?",
+        "category": "HR",
+        "expected_keywords": ["motivation", "project management", "visibility", "milestones", "recognition", "team spirit"]
+      },
+      {
+        "id": "HR_181",
+        "question": "If you had to choose between a highly skilled but less collaborative individual or a moderately skilled but highly collaborative team member, what criteria would you use?",
+        "category": "HR",
+        "expected_keywords": ["skill assessment", "team fit", "collaboration", "decision criteria", "team performance", "culture"]
+      },
+      {
+        "id": "HR_182",
+        "question": "How would you manage a team where one member's success is disproportionately higher than others, potentially causing jealousy?",
+        "category": "HR",
+        "expected_keywords": ["jealousy management", "equity", "recognition", "team motivation", "leadership", "cohesion"]
+      },
+      {
+        "id": "HR_183",
+        "question": "Describe how you would handle a scenario where two of your best employees are competing for the same promotion.",
+        "category": "HR",
+        "expected_keywords": ["competition management", "career development", "fairness", "transparency", "communication", "mentorship"]
+      },
+      {
+        "id": "HR_184",
+        "question": "How do you ensure that remote team members are as engaged and productive as in-office team members?",
+        "category": "HR",
+        "expected_keywords": ["remote work", "engagement", "productivity", "communication tools", "inclusion", "team culture"]
+      },
+      {
+        "id": "HR_185",
+        "question": "If you detect signs of burnout in your team, what immediate and long-term actions would you take?",
+        "category": "HR",
+        "expected_keywords": ["burnout prevention", "well-being", "workload management", "support systems", "policy review", "counseling"]
+      },
+      {
+        "id": "HR_186",
+        "question": "A new regulation affecting your industry was just announced. How would you ensure your team adapts to these changes swiftly while maintaining productivity?",
+        "category": "HR",
+        "expected_keywords": ["regulation adaptation", "compliance", "training", "strategic adjustment", "communication", "risk management"]
+      },
+      {
+        "id": "HR_187",
+        "question": "Your company is merging with another. How would you manage the integration of two different corporate cultures?",
+        "category": "HR",
+        "expected_keywords": ["cultural integration", "change management", "team cohesion", "communication", "leadership", "conflict resolution"]
+      },
+      {
+        "id": "HR_188",
+        "question": "You've just learned that a critical software your team relies on has a security flaw. How would you handle this situation to minimize disruption?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "security protocols", "decision making", "communication", "alternative solutions", "risk mitigation"]
+      },
+      {
+        "id": "HR_189",
+        "question": "How would you lead a team through a period of downsizing while maintaining morale and productivity?",
+        "category": "HR",
+        "expected_keywords": ["downsizing", "morale management", "leadership", "communication", "transparency", "support systems"]
+      },
+      {
+        "id": "HR_190",
+        "question": "A key project sponsor has unexpectedly withdrawn support. How would you guide your team to pivot or re-strategize?",
+        "category": "HR",
+        "expected_keywords": ["strategic pivot", "sponsorship loss", "project management", "resilience", "resourcefulness", "stakeholder management"]
+      },
+      {
+        "id": "HR_191",
+        "question": "You're leading a team in a competitive market where a competitor has just launched a superior product. How would you motivate your team to innovate beyond this challenge?",
+        "category": "HR",
+        "expected_keywords": ["innovation drive", "competition response", "motivation", "strategy formulation", "team empowerment", "market analysis"]
+      },
+      {
+        "id": "HR_192",
+        "question": "With the rise of AI tools in your industry, how would you manage the fear of job displacement among your team?",
+        "category": "HR",
+        "expected_keywords": ["AI integration", "job security", "upskilling", "change management", "communication", "team reassurance"]
+      },
+      {
+        "id": "HR_193",
+        "question": "A major data breach has occurred affecting your project. How would you lead your team to respond and recover?",
+        "category": "HR",
+        "expected_keywords": ["data breach response", "crisis leadership", "security measures", "team coordination", "transparency", "recovery plan"]
+      },
+      {
+        "id": "HR_194",
+        "question": "Your team has to work with a new, less flexible client who demands strict adherence to outdated methodologies. How do you navigate this?",
+        "category": "HR",
+        "expected_keywords": ["client management", "negotiation", "methodology adaptation", "communication", "team adaptability", "project execution"]
+      },
+      {
+        "id": "HR_195",
+        "question": "With global health concerns, your team must transition to a hybrid work model. How would you ensure this transition does not impact team performance?",
+        "category": "HR",
+        "expected_keywords": ["hybrid work model", "team performance", "technology adoption", "communication", "work-life balance", "inclusivity"]
+      },
+      {
+        "id": "HR_195",
+        "question": "You are asked to lead a team on a project with a tight deadline, but one of your team members is underperforming. How would you address this situation?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "time management", "communication", "problem-solving", "leadership", "team dynamics"]
+      },
+      {
+        "id": "HR_196",
+        "question": "Describe a time when you had to manage a team through a major organizational change. How did you ensure team alignment and productivity?",
+        "category": "HR",
+        "expected_keywords": ["change management", "team alignment", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_197",
+        "question": "Imagine you are asked to implement a new process that your team is resistant to. How would you ensure successful adoption?",
+        "category": "HR",
+        "expected_keywords": ["change management", "resistance", "communication", "persuasion", "team motivation", "adaptability"]
+      },
+      {
+        "id": "HR_198",
+        "question": "You are leading a project, and a key stakeholder suddenly changes their requirements. How would you manage this situation?",
+        "category": "HR",
+        "expected_keywords": ["stakeholder management", "adaptability", "communication", "problem-solving", "project management", "leadership"]
+      },
+      {
+        "id": "HR_199",
+        "question": "Describe a time when you had to manage a team through a period of high uncertainty. How did you ensure team focus and morale?",
+        "category": "HR",
+        "expected_keywords": ["uncertainty", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_200",
+        "question": "How would you handle a situation where a team member is not aligned with the team's goals?",
+        "category": "HR",
+        "expected_keywords": ["goal alignment", "communication", "team dynamics", "leadership", "conflict resolution", "performance management"]
+      },
+      {
+        "id": "HR_201",
+        "question": "You are asked to lead a team on a project with unclear objectives. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["goal setting", "communication", "problem-solving", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_202",
+        "question": "Describe a time when you had to manage a team through a crisis. What steps did you take to ensure success?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "leadership", "communication", "team morale", "problem-solving", "adaptability"]
+      },
+      {
+        "id": "HR_203",
+        "question": "How would you handle a situation where a team member is not contributing equally to the team's efforts?",
+        "category": "HR",
+        "expected_keywords": ["team dynamics", "accountability", "communication", "conflict resolution", "performance management", "leadership"]
+      },
+      {
+        "id": "HR_204",
+        "question": "You are asked to lead a team on a project with limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["resource management", "problem-solving", "creativity", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_205",
+        "question": "Describe a time when you had to manage a team through a significant change in leadership. How did you ensure team stability?",
+        "category": "HR",
+        "expected_keywords": ["change management", "team morale", "communication", "leadership", "adaptability", "team cohesion"]
+      },
+      {
+        "id": "HR_206",
+        "question": "How would you handle a situation where a team member is resistant to change?",
+        "category": "HR",
+        "expected_keywords": ["change management", "resistance", "communication", "emotional intelligence", "leadership", "problem-solving"]
+      },
+      {
+        "id": "HR_207",
+        "question": "You are asked to lead a team on a project with a tight deadline and limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["time management", "resource management", "stress management", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_208",
+        "question": "Describe a time when you had to manage a team through a period of high stress. How did you ensure team morale and productivity?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_209",
+        "question": "How would you handle a situation where a team member is not meeting deadlines consistently?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "accountability", "communication", "problem-solving", "coaching", "team dynamics"]
+      },
+      {
+        "id": "HR_210",
+        "question": "You are asked to lead a team on a project with conflicting priorities. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "conflict resolution", "communication", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_211",
+        "question": "Describe a time when you had to manage a team through a period of uncertainty. How did you ensure team focus and productivity?",
+        "category": "HR",
+        "expected_keywords": ["uncertainty", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_212",
+        "question": "How would you handle a situation where a team member is not aligned with the team's goals?",
+        "category": "HR",
+        "expected_keywords": ["goal alignment", "communication", "team dynamics", "leadership", "conflict resolution", "performance management"]
+      },
+      {
+        "id": "HR_213",
+        "question": "You are asked to lead a team on a project with unclear objectives. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["goal setting", "communication", "problem-solving", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_214",
+        "question": "Describe a time when you had to manage a team through a crisis. What steps did you take to ensure success?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "leadership", "communication", "team morale", "problem-solving", "adaptability"]
+      },
+      {
+        "id": "HR_215",
+        "question": "How would you handle a situation where a team member is not contributing equally to the team's efforts?",
+        "category": "HR",
+        "expected_keywords": ["team dynamics", "accountability", "communication", "conflict resolution", "performance management", "leadership"]
+      },
+      {
+        "id": "HR_216",
+        "question": "You are asked to lead a team on a project with limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["resource management", "problem-solving", "creativity", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_217",
+        "question": "Describe a time when you had to manage a team through a significant change in leadership. How did you ensure team stability?",
+        "category": "HR",
+        "expected_keywords": ["change management", "team morale", "communication", "leadership", "adaptability", "team cohesion"]
+      },
+      {
+        "id": "HR_218",
+        "question": "How would you handle a situation where a team member is resistant to change?",
+        "category": "HR",
+        "expected_keywords": ["change management", "resistance", "communication", "emotional intelligence", "leadership", "problem-solving"]
+      },
+      {
+        "id": "HR_219",
+        "question": "You are asked to lead a team on a project with a tight deadline and limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["time management", "resource management", "stress management", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_220",
+        "question": "Describe a time when you had to manage a team through a period of high stress. How did you ensure team morale and productivity?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_221",
+        "question": "How would you handle a situation where a team member is not meeting deadlines consistently?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "accountability", "communication", "problem-solving", "coaching", "team dynamics"]
+      },
+      {
+        "id": "HR_222",
+        "question": "You are asked to lead a team on a project with conflicting priorities. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "conflict resolution", "communication", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_223",
+        "question": "Describe a time when you had to manage a team through a period of uncertainty. How did you ensure team focus and productivity?",
+        "category": "HR",
+        "expected_keywords": ["uncertainty", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_224",
+        "question": "How would you handle a situation where a team member is not aligned with the team's goals?",
+        "category": "HR",
+        "expected_keywords": ["goal alignment", "communication", "team dynamics", "leadership", "conflict resolution", "performance management"]
+      },
+      {
+        "id": "HR_225",
+        "question": "You are asked to lead a team on a project with unclear objectives. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["goal setting", "communication", "problem-solving", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_226",
+        "question": "Describe a time when you had to manage a team through a crisis. What steps did you take to ensure success?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "leadership", "communication", "team morale", "problem-solving", "adaptability"]
+      },
+      {
+        "id": "HR_227",
+        "question": "How would you handle a situation where a team member is not contributing equally to the team's efforts?",
+        "category": "HR",
+        "expected_keywords": ["team dynamics", "accountability", "communication", "conflict resolution", "performance management", "leadership"]
+      },
+      {
+        "id": "HR_228",
+        "question": "You are asked to lead a team on a project with limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["resource management", "problem-solving", "creativity", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_229",
+        "question": "Describe a time when you had to manage a team through a significant change in leadership. How did you ensure team stability?",
+        "category": "HR",
+        "expected_keywords": ["change management", "team morale", "communication", "leadership", "adaptability", "team cohesion"]
+      },
+      {
+        "id": "HR_230",
+        "question": "How would you handle a situation where a team member is resistant to change?",
+        "category": "HR",
+        "expected_keywords": ["change management", "resistance", "communication", "emotional intelligence", "leadership", "problem-solving"]
+      },
+      {
+        "id": "HR_231",
+        "question": "You are asked to lead a team on a project with a tight deadline and limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["time management", "resource management", "stress management", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_232",
+        "question": "Describe a time when you had to manage a team through a period of high stress. How did you ensure team morale and productivity?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_233",
+        "question": "How would you handle a situation where a team member is not meeting deadlines consistently?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "accountability", "communication", "problem-solving", "coaching", "team dynamics"]
+      },
+      {
+        "id": "HR_234",
+        "question": "You are asked to lead a team on a project with conflicting priorities. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "conflict resolution", "communication", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_235",
+        "question": "Describe a time when you had to manage a team through a period of uncertainty. How did you ensure team focus and productivity?",
+        "category": "HR",
+        "expected_keywords": ["uncertainty", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_236",
+        "question": "How would you handle a situation where a team member is not aligned with the team's goals?",
+        "category": "HR",
+        "expected_keywords": ["goal alignment", "communication", "team dynamics", "leadership", "conflict resolution", "performance management"]
+      },
+      {
+        "id": "HR_237",
+        "question": "You are asked to lead a team on a project with unclear objectives. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["goal setting", "communication", "problem-solving", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_238",
+        "question": "Describe a time when you had to manage a team through a crisis. What steps did you take to ensure success?",
+        "category": "HR",
+        "expected_keywords": ["crisis management", "leadership", "communication", "team morale", "problem-solving", "adaptability"]
+      },
+      {
+        "id": "HR_239",
+        "question": "How would you handle a situation where a team member is not contributing equally to the team's efforts?",
+        "category": "HR",
+        "expected_keywords": ["team dynamics", "accountability", "communication", "conflict resolution", "performance management", "leadership"]
+      },
+      {
+        "id": "HR_240",
+        "question": "You are asked to lead a team on a project with limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["resource management", "problem-solving", "creativity", "leadership", "project management", "adaptability"]
+      },
+      {
+        "id": "HR_241",
+        "question": "Describe a time when you had to manage a team through a significant change in leadership. How did you ensure team stability?",
+        "category": "HR",
+        "expected_keywords": ["change management", "team morale", "communication", "leadership", "adaptability", "team cohesion"]
+      },
+      {
+        "id": "HR_242",
+        "question": "How would you handle a situation where a team member is resistant to change?",
+        "category": "HR",
+        "expected_keywords": ["change management", "resistance", "communication", "emotional intelligence", "leadership", "problem-solving"]
+      },
+      {
+        "id": "HR_243",
+        "question": "You are asked to lead a team on a project with a tight deadline and limited resources. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["time management", "resource management", "stress management", "leadership", "problem-solving", "project management"]
+      },
+      {
+        "id": "HR_244",
+        "question": "Describe a time when you had to manage a team through a period of high stress. How did you ensure team morale and productivity?",
+        "category": "HR",
+        "expected_keywords": ["stress management", "team morale", "communication", "leadership", "adaptability", "performance management"]
+      },
+      {
+        "id": "HR_245",
+        "question": "How would you handle a situation where a team member is not meeting deadlines consistently?",
+        "category": "HR",
+        "expected_keywords": ["performance management", "accountability", "communication", "problem-solving", "coaching", "team dynamics"]
+      },
+      {
+        "id": "HR_246",
+        "question": "You are asked to lead a team on a project with conflicting priorities. How would you ensure success?",
+        "category": "HR",
+        "expected_keywords": ["prioritization", "conflict resolution", "communication", "leadership", "problem-solving", "project management"]
+      }
+    
+]
+}

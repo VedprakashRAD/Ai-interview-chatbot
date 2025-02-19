@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from api.routes import resume_routes, question_routes, evaluation_routes
+from api.routes import resume_routes, question_routes, evaluation_routes, proctor_routes
 from fastapi.openapi.docs import get_swagger_ui_html
 
 app = FastAPI(
@@ -23,6 +23,7 @@ app.add_middleware(
 app.include_router(resume_routes.router, prefix="/api")
 app.include_router(question_routes.router, prefix="/api")
 app.include_router(evaluation_routes.router, prefix="/api")
+app.include_router(proctor_routes.router, prefix="/api")
 
 @app.get("/")
 async def root():

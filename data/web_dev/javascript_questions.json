@@ -4,71 +4,1385 @@
             "id": "js_1",
             "category": "javascript",
             "difficulty": "beginner",
-            "question": "What is JavaScript and its core features?",
-            "expected_keywords": ["dynamic", "interpreted", "prototype", "first-class functions", "event-driven"]
+            "question": "What is JavaScript?",
+            "expected_keywords": [
+                "scripting",
+                "language",
+                "web",
+                "dynamic",
+                "interpreted"
+            ]
         },
         {
             "id": "js_2",
             "category": "javascript",
             "difficulty": "beginner",
-            "question": "Explain var, let, and const.",
-            "expected_keywords": ["scope", "hoisting", "block", "reassignment", "declaration"]
+            "question": "List some features of JavaScript.",
+            "expected_keywords": [
+                "lightweight",
+                "interpreted",
+                "object-oriented",
+                "event-driven"
+            ]
         },
         {
             "id": "js_3",
             "category": "javascript",
-            "difficulty": "intermediate",
-            "question": "What are Promises and how do they work?",
-            "expected_keywords": ["asynchronous", "then", "catch", "resolve", "reject"]
+            "difficulty": "beginner",
+            "question": "What are the data types in JavaScript?",
+            "expected_keywords": [
+                "string",
+                "number",
+                "boolean",
+                "object",
+                "undefined",
+                "null",
+                "symbol",
+                "bigint"
+            ]
         },
         {
             "id": "js_4",
             "category": "javascript",
-            "difficulty": "intermediate",
-            "question": "Explain async/await.",
-            "expected_keywords": ["promises", "asynchronous", "sequential", "try-catch", "non-blocking"]
+            "difficulty": "beginner",
+            "question": "What is the difference between '==' and '==='?",
+            "expected_keywords": [
+                "equality",
+                "coercion",
+                "strict",
+                "comparison"
+            ]
         },
         {
             "id": "js_5",
             "category": "javascript",
-            "difficulty": "intermediate",
+            "difficulty": "beginner",
             "question": "What is closure in JavaScript?",
-            "expected_keywords": ["scope", "function", "lexical", "access", "variables"]
+            "expected_keywords": [
+                "function",
+                "lexical",
+                "scope",
+                "inner",
+                "outer"
+            ]
         },
         {
             "id": "js_6",
             "category": "javascript",
-            "difficulty": "advanced",
-            "question": "Explain prototypal inheritance.",
-            "expected_keywords": ["prototype", "chain", "object", "inheritance", "__proto__"]
+            "difficulty": "intermediate",
+            "question": "Explain 'this' keyword.",
+            "expected_keywords": [
+                "context",
+                "object",
+                "global",
+                "function",
+                "binding"
+            ]
         },
         {
             "id": "js_7",
             "category": "javascript",
-            "difficulty": "advanced",
-            "question": "What are Web Workers?",
-            "expected_keywords": ["background", "thread", "parallel", "performance", "messaging"]
+            "difficulty": "beginner",
+            "question": "What is an event in JavaScript?",
+            "expected_keywords": [
+                "user interaction",
+                "browser action",
+                "event listener"
+            ]
         },
         {
             "id": "js_8",
             "category": "javascript",
-            "difficulty": "advanced",
-            "question": "Explain Event Loop in JavaScript.",
-            "expected_keywords": ["call stack", "callback queue", "single-thread", "asynchronous", "microtask"]
+            "difficulty": "intermediate",
+            "question": "What are JavaScript Promises?",
+            "expected_keywords": [
+                "asynchronous",
+                "callback",
+                "resolve",
+                "reject",
+                "then",
+                "catch"
+            ]
         },
         {
             "id": "js_9",
             "category": "javascript",
-            "difficulty": "expert",
-            "question": "What are JavaScript Modules and Module Bundlers?",
-            "expected_keywords": ["import", "export", "webpack", "bundling", "dependencies"]
+            "difficulty": "beginner",
+            "question": "What is the use of the 'typeof' operator?",
+            "expected_keywords": [
+                "data type",
+                "check",
+                "operand",
+                "return",
+                "string"
+            ]
         },
         {
             "id": "js_10",
             "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is NaN in JavaScript?",
+            "expected_keywords": [
+                "Not-a-Number",
+                "number",
+                "undefined",
+                "unrepresentable",
+                "operation"
+            ]
+        },
+        {
+            "id": "js_11",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain hoisting in JavaScript.",
+            "expected_keywords": [
+                "variable",
+                "function",
+                "declaration",
+                "scope",
+                "undefined"
+            ]
+        },
+        {
+            "id": "js_12",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between 'null' and 'undefined'?",
+            "expected_keywords": [
+                "missing",
+                "uninitialized",
+                "type",
+                "value"
+            ]
+        },
+        {
+            "id": "js_13",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between function declaration and function expression?",
+            "expected_keywords": [
+                "hoisting",
+                "anonymous",
+                "named",
+                "scope"
+            ]
+        },
+        {
+            "id": "js_14",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is an IIFE?",
+            "expected_keywords": [
+                "immediately",
+                "invoked",
+                "function",
+                "scope"
+            ]
+        },
+        {
+            "id": "js_15",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain call, apply, and bind.",
+            "expected_keywords": [
+                "function",
+                "this",
+                "arguments",
+                "execution"
+            ]
+        },
+        {
+            "id": "js_16",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the purpose of the spread operator?",
+            "expected_keywords": [
+                "array",
+                "copy",
+                "merge",
+                "expand"
+            ]
+        },
+        {
+            "id": "js_17",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is destructuring?",
+            "expected_keywords": [
+                "assign",
+                "variables",
+                "arrays",
+                "objects"
+            ]
+        },
+        {
+            "id": "js_18",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between map, filter, and reduce?",
+            "expected_keywords": [
+                "array",
+                "iteration",
+                "transformation",
+                "accumulate"
+            ]
+        },
+        {
+            "id": "js_19",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is event bubbling and capturing?",
+            "expected_keywords": [
+                "DOM",
+                "propagation",
+                "handler",
+                "phases"
+            ]
+        },
+        {
+            "id": "js_20",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain synchronous vs asynchronous code.",
+            "expected_keywords": [
+                "blocking",
+                "execution",
+                "event loop"
+            ]
+        },
+        {
+            "id": "js_21",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the purpose of the 'new' keyword?",
+            "expected_keywords": [
+                "object",
+                "constructor",
+                "instance"
+            ]
+        },
+        {
+            "id": "js_22",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "What are template literals?",
+            "expected_keywords": [
+                "ES6",
+                "string",
+                "interpolation",
+                "backticks"
+            ]
+        },
+        {
+            "id": "js_23",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between spread and rest operators?",
+            "expected_keywords": [
+                "ES6",
+                "parameters",
+                "arrays",
+                "arguments"
+            ]
+        },
+        {
+            "id": "js_24",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is localStorage and sessionStorage?",
+            "expected_keywords": [
+                "browser",
+                "storage",
+                "persistent",
+                "session"
+            ]
+        },
+        {
+            "id": "js_25",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain JavaScript modules and imports.",
+            "expected_keywords": [
+                "ES6",
+                "export",
+                "import",
+                "modular"
+            ]
+        },
+        {
+            "id": "js_26",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a JavaScript prototype?",
+            "expected_keywords": [
+                "inheritance",
+                "object",
+                "prototype chain"
+            ]
+        },
+        {
+            "id": "js_27",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between deep copy and shallow copy?",
+            "expected_keywords": [
+                "memory",
+                "reference",
+                "clone"
+            ]
+        },
+        {
+            "id": "js_28",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are generators in JavaScript?",
+            "expected_keywords": [
+                "function",
+                "yield",
+                "pause",
+                "iteration"
+            ]
+        },
+        {
+            "id": "js_29",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between 'for...in' and 'for...of' loops?",
+            "expected_keywords": [
+                "iteration",
+                "object",
+                "keys",
+                "values"
+            ]
+        },
+        {
+            "id": "js_30",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are JavaScript Symbols?",
+            "expected_keywords": [
+                "unique",
+                "immutable",
+                "property",
+                "object"
+            ]
+        },
+        {
+            "id": "js_31",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the event loop in JavaScript?",
+            "expected_keywords": [
+                "execution",
+                "queue",
+                "call stack",
+                "async"
+            ]
+        },
+        {
+            "id": "js_32",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "What are WeakMap and WeakSet?",
+            "expected_keywords": [
+                "collection",
+                "garbage",
+                "reference"
+            ]
+        },
+        {
+            "id": "js_33",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain the concept of memoization.",
+            "expected_keywords": [
+                "optimization",
+                "caching",
+                "performance"
+            ]
+        },
+        {
+            "id": "js_34",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is functional programming?",
+            "expected_keywords": [
+                "pure",
+                "immutable",
+                "functions"
+            ]
+        },
+        {
+            "id": "js_35",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a debounce function?",
+            "expected_keywords": [
+                "performance",
+                "delay",
+                "optimization"
+            ]
+        },
+        {
+            "id": "js_36",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is throttling in JavaScript?",
+            "expected_keywords": [
+                "rate",
+                "limit",
+                "optimization"
+            ]
+        },
+        {
+            "id": "js_37",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain how setTimeout and setInterval work.",
+            "expected_keywords": [
+                "timing",
+                "delay",
+                "execution"
+            ]
+        },
+        {
+            "id": "js_38",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a pure function?",
+            "expected_keywords": [
+                "deterministic",
+                "side effect",
+                "functional"
+            ]
+        },
+        {
+            "id": "js_39",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are higher-order functions?",
+            "expected_keywords": [
+                "function",
+                "argument",
+                "callback"
+            ]
+        },
+        {
+            "id": "js_40",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is object destructuring?",
+            "expected_keywords": [
+                "assignment",
+                "variables",
+                "object"
+            ]
+        },
+        {
+            "id": "js_41",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is recursion?",
+            "expected_keywords": [
+                "function",
+                "calls",
+                "stack",
+                "base case"
+            ]
+        },
+        {
+            "id": "js_42",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are default parameters?",
+            "expected_keywords": [
+                "ES6",
+                "function",
+                "default",
+                "value"
+            ]
+        },
+        {
+            "id": "js_43",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain what async generators are.",
+            "expected_keywords": [
+                "iteration",
+                "async",
+                "yield"
+            ]
+        },
+        {
+            "id": "js_44",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is JSON and why is it used?",
+            "expected_keywords": [
+                "data",
+                "format",
+                "API",
+                "serialization"
+            ]
+        },
+        {
+            "id": "js_45",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a callback function?",
+            "expected_keywords": [
+                "function",
+                "argument",
+                "execution",
+                "callback"
+            ]
+        },
+        {
+            "id": "js_46",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between shallow and deep equality?",
+            "expected_keywords": [
+                "comparison",
+                "reference",
+                "value"
+            ]
+        },
+        {
+            "id": "js_47",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is tail call optimization?",
+            "expected_keywords": [
+                "recursion",
+                "performance",
+                "stack"
+            ]
+        },
+        {
+            "id": "js_48",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain how try-catch works.",
+            "expected_keywords": [
+                "error",
+                "handling",
+                "catch",
+                "exception"
+            ]
+        },
+        {
+            "id": "js_49",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a Proxy object?",
+            "expected_keywords": [
+                "object",
+                "intercept",
+                "trap"
+            ]
+        },
+        {
+            "id": "js_50",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is 'strict mode'?",
+            "expected_keywords": [
+                "error",
+                "debugging",
+                "use strict"
+            ]
+        },
+        {
+            "id": "js_51",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "What are tagged template literals?",
+            "expected_keywords": [
+                "template",
+                "functions",
+                "processing"
+            ]
+        },
+        {
+            "id": "js_52",
+            "category": "javascript",
             "difficulty": "expert",
-            "question": "Explain JavaScript Memory Management and Garbage Collection.",
-            "expected_keywords": ["memory leak", "reference", "cleanup", "heap", "mark-and-sweep"]
+            "question": "What are private class fields?",
+            "expected_keywords": [
+                "encapsulation",
+                "private",
+                "OOP"
+            ]
+        },
+        {
+            "id": "js_53",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is WeakRef?",
+            "expected_keywords": [
+                "garbage",
+                "collection",
+                "reference"
+            ]
+        },
+        {
+            "id": "js_54",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between Array.some() and Array.every()?",
+            "expected_keywords": [
+                "array",
+                "check",
+                "boolean"
+            ]
+        },
+        {
+            "id": "js_55",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain how WebSockets work.",
+            "expected_keywords": [
+                "real-time",
+                "communication",
+                "protocol"
+            ]
+        },
+        {
+            "id": "js_56",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between GET and POST requests?",
+            "expected_keywords": [
+                "HTTP",
+                "method",
+                "data"
+            ]
+        },
+        {
+            "id": "js_57",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "How does async/await differ from traditional promises?",
+            "expected_keywords": [
+                "syntax",
+                "readability",
+                "async"
+            ]
+        },
+        {
+            "id": "js_58",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a singleton pattern?",
+            "expected_keywords": [
+                "design",
+                "instance",
+                "unique"
+            ]
+        },
+        {
+            "id": "js_59",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between a shallow merge and a deep merge?",
+            "expected_keywords": [
+                "object",
+                "copy",
+                "merge"
+            ]
+        },
+        {
+            "id": "js_60",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is JavaScript?",
+            "expected_keywords": [
+                "scripting",
+                "language",
+                "web",
+                "dynamic",
+                "interpreted"
+            ]
+        },
+        {
+            "id": "js_61",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "List some features of JavaScript.",
+            "expected_keywords": [
+                "lightweight",
+                "interpreted",
+                "object-oriented",
+                "event-driven"
+            ]
+        },
+        {
+            "id": "js_62",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What are the data types in JavaScript?",
+            "expected_keywords": [
+                "string",
+                "number",
+                "boolean",
+                "object",
+                "undefined",
+                "null",
+                "symbol",
+                "bigint"
+            ]
+        },
+        {
+            "id": "js_63",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between '==' and '==='?",
+            "expected_keywords": [
+                "equality",
+                "coercion",
+                "strict",
+                "comparison"
+            ]
+        },
+        {
+            "id": "js_64",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is closure in JavaScript?",
+            "expected_keywords": [
+                "function",
+                "lexical",
+                "scope",
+                "inner",
+                "outer"
+            ]
+        },
+        {
+            "id": "js_65",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain 'this' keyword.",
+            "expected_keywords": [
+                "context",
+                "object",
+                "global",
+                "function",
+                "binding"
+            ]
+        },
+        {
+            "id": "js_66",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is an event in JavaScript?",
+            "expected_keywords": [
+                "user interaction",
+                "browser action",
+                "event listener"
+            ]
+        },
+        {
+            "id": "js_67",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "What are JavaScript Promises?",
+            "expected_keywords": [
+                "asynchronous",
+                "callback",
+                "resolve",
+                "reject",
+                "then",
+                "catch"
+            ]
+        },
+        {
+            "id": "js_68",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the use of the 'typeof' operator?",
+            "expected_keywords": [
+                "data type",
+                "check",
+                "operand",
+                "return",
+                "string"
+            ]
+        },
+        {
+            "id": "js_69",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is NaN in JavaScript?",
+            "expected_keywords": [
+                "Not-a-Number",
+                "number",
+                "undefined",
+                "unrepresentable",
+                "operation"
+            ]
+        },
+        {
+            "id": "js_70",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain hoisting in JavaScript.",
+            "expected_keywords": [
+                "variable",
+                "function",
+                "declaration",
+                "scope",
+                "undefined"
+            ]
+        },
+        {
+            "id": "js_71",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between 'null' and 'undefined'?",
+            "expected_keywords": [
+                "missing",
+                "uninitialized",
+                "type",
+                "value"
+            ]
+        },
+        {
+            "id": "js_72",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between function declaration and function expression?",
+            "expected_keywords": [
+                "hoisting",
+                "anonymous",
+                "named",
+                "scope"
+            ]
+        },
+        {
+            "id": "js_73",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is an IIFE?",
+            "expected_keywords": [
+                "immediately",
+                "invoked",
+                "function",
+                "scope"
+            ]
+        },
+        {
+            "id": "js_74",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain call, apply, and bind.",
+            "expected_keywords": [
+                "function",
+                "this",
+                "arguments",
+                "execution"
+            ]
+        },
+        {
+            "id": "js_75",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the purpose of the spread operator?",
+            "expected_keywords": [
+                "array",
+                "copy",
+                "merge",
+                "expand"
+            ]
+        },
+        {
+            "id": "js_76",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is destructuring?",
+            "expected_keywords": [
+                "assign",
+                "variables",
+                "arrays",
+                "objects"
+            ]
+        },
+        {
+            "id": "js_77",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between map, filter, and reduce?",
+            "expected_keywords": [
+                "array",
+                "iteration",
+                "transformation",
+                "accumulate"
+            ]
+        },
+        {
+            "id": "js_78",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is event bubbling and capturing?",
+            "expected_keywords": [
+                "DOM",
+                "propagation",
+                "handler",
+                "phases"
+            ]
+        },
+        {
+            "id": "js_79",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain synchronous vs asynchronous code.",
+            "expected_keywords": [
+                "blocking",
+                "execution",
+                "event loop"
+            ]
+        },
+        {
+            "id": "js_80",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the purpose of the 'new' keyword?",
+            "expected_keywords": [
+                "object",
+                "constructor",
+                "instance"
+            ]
+        },
+        {
+            "id": "js_81",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "What are template literals?",
+            "expected_keywords": [
+                "ES6",
+                "string",
+                "interpolation",
+                "backticks"
+            ]
+        },
+        {
+            "id": "js_82",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between spread and rest operators?",
+            "expected_keywords": [
+                "ES6",
+                "parameters",
+                "arrays",
+                "arguments"
+            ]
+        },
+        {
+            "id": "js_83",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is localStorage and sessionStorage?",
+            "expected_keywords": [
+                "browser",
+                "storage",
+                "persistent",
+                "session"
+            ]
+        },
+        {
+            "id": "js_84",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "Explain JavaScript modules and imports.",
+            "expected_keywords": [
+                "ES6",
+                "export",
+                "import",
+                "modular"
+            ]
+        },
+        {
+            "id": "js_85",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a JavaScript prototype?",
+            "expected_keywords": [
+                "inheritance",
+                "object",
+                "prototype chain"
+            ]
+        },
+        {
+            "id": "js_86",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between deep copy and shallow copy?",
+            "expected_keywords": [
+                "memory",
+                "reference",
+                "clone"
+            ]
+        },
+        {
+            "id": "js_87",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are generators in JavaScript?",
+            "expected_keywords": [
+                "function",
+                "yield",
+                "pause",
+                "iteration"
+            ]
+        },
+        {
+            "id": "js_88",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between 'for...in' and 'for...of' loops?",
+            "expected_keywords": [
+                "iteration",
+                "object",
+                "keys",
+                "values"
+            ]
+        },
+        {
+            "id": "js_89",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are JavaScript Symbols?",
+            "expected_keywords": [
+                "unique",
+                "immutable",
+                "property",
+                "object"
+            ]
+        },
+        {
+            "id": "js_90",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the event loop in JavaScript?",
+            "expected_keywords": [
+                "execution",
+                "queue",
+                "call stack",
+                "async"
+            ]
+        },
+        {
+            "id": "js_91",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are WeakMap and WeakSet?",
+            "expected_keywords": [
+                "collection",
+                "garbage",
+                "reference"
+            ]
+        },
+        {
+            "id": "js_92",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain the concept of memoization.",
+            "expected_keywords": [
+                "optimization",
+                "caching",
+                "performance"
+            ]
+        },
+        {
+            "id": "js_93",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is functional programming?",
+            "expected_keywords": [
+                "pure",
+                "immutable",
+                "functions"
+            ]
+        },
+        {
+            "id": "js_94",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a debounce function?",
+            "expected_keywords": [
+                "performance",
+                "delay",
+                "optimization"
+            ]
+        },
+        {
+            "id": "js_95",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is throttling in JavaScript?",
+            "expected_keywords": [
+                "rate",
+                "limit",
+                "optimization"
+            ]
+        },
+        {
+            "id": "js_96",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain how setTimeout and setInterval work.",
+            "expected_keywords": [
+                "timing",
+                "delay",
+                "execution"
+            ]
+        },
+        {
+            "id": "js_97",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a pure function?",
+            "expected_keywords": [
+                "deterministic",
+                "side effect",
+                "functional"
+            ]
+        },
+        {
+            "id": "js_98",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are higher-order functions?",
+            "expected_keywords": [
+                "function",
+                "argument",
+                "callback"
+            ]
+        },
+        {
+            "id": "js_99",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is object destructuring?",
+            "expected_keywords": [
+                "assignment",
+                "variables",
+                "object"
+            ]
+        },
+        {
+            "id": "js_100",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is recursion?",
+            "expected_keywords": [
+                "function",
+                "calls",
+                "stack",
+                "base case"
+            ]
+        },
+        {
+            "id": "js_101",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "What are default parameters?",
+            "expected_keywords": [
+                "ES6",
+                "function",
+                "default",
+                "value"
+            ]
+        },
+        {
+            "id": "js_102",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain what async generators are.",
+            "expected_keywords": [
+                "iteration",
+                "async",
+                "yield"
+            ]
+        },
+        {
+            "id": "js_103",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is JSON and why is it used?",
+            "expected_keywords": [
+                "data",
+                "format",
+                "API",
+                "serialization"
+            ]
+        },
+        {
+            "id": "js_104",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a callback function?",
+            "expected_keywords": [
+                "function",
+                "argument",
+                "execution",
+                "callback"
+            ]
+        },
+        {
+            "id": "js_105",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between shallow and deep equality?",
+            "expected_keywords": [
+                "comparison",
+                "reference",
+                "value"
+            ]
+        },
+        {
+            "id": "js_106",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is tail call optimization?",
+            "expected_keywords": [
+                "recursion",
+                "performance",
+                "stack"
+            ]
+        },
+        {
+            "id": "js_107",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain how try-catch works.",
+            "expected_keywords": [
+                "error",
+                "handling",
+                "catch",
+                "exception"
+            ]
+        },
+        {
+            "id": "js_108",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a Proxy object?",
+            "expected_keywords": [
+                "object",
+                "intercept",
+                "trap"
+            ]
+        },
+        {
+            "id": "js_109",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is 'strict mode'?",
+            "expected_keywords": [
+                "error",
+                "debugging",
+                "use strict"
+            ]
+        },
+        {
+            "id": "js_110",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "What are tagged template literals?",
+            "expected_keywords": [
+                "template",
+                "functions",
+                "processing"
+            ]
+        },
+        {
+            "id": "js_111",
+            "category": "javascript",
+            "difficulty": "expert",
+            "question": "What are private class fields?",
+            "expected_keywords": [
+                "encapsulation",
+                "private",
+                "OOP"
+            ]
+        },
+        {
+            "id": "js_112",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is WeakRef?",
+            "expected_keywords": [
+                "garbage",
+                "collection",
+                "reference"
+            ]
+        },
+        {
+            "id": "js_113",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between Array.some() and Array.every()?",
+            "expected_keywords": [
+                "array",
+                "check",
+                "boolean"
+            ]
+        },
+        {
+            "id": "js_114",
+            "category": "javascript",
+            "difficulty": "advanced",
+            "question": "Explain how WebSockets work.",
+            "expected_keywords": [
+                "real-time",
+                "communication",
+                "protocol"
+            ]
+        },
+        {
+            "id": "js_115",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between GET and POST requests?",
+            "expected_keywords": [
+                "HTTP",
+                "method",
+                "data"
+            ]
+        },
+        {
+            "id": "js_116",
+            "category": "javascript",
+            "difficulty": "intermediate",
+            "question": "How does async/await differ from traditional promises?",
+            "expected_keywords": [
+                "syntax",
+                "readability",
+                "async"
+            ]
+        },
+        {
+            "id": "js_117",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is a singleton pattern?",
+            "expected_keywords": [
+                "design",
+                "instance",
+                "unique"
+            ]
+        },
+        {
+            "id": "js_118",
+            "category": "javascript",
+            "difficulty": "beginner",
+            "question": "What is the difference between a shallow merge and a deep merge?",
+            "expected_keywords": [
+                "object",
+                "copy",
+                "merge"
+            ]
         }
     ]
-} 
+}

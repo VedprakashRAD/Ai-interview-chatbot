@@ -1,0 +1,1950 @@
+{
+    "questions": [
+        {
+            "id": "marketing_001",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is marketing, and why is it important for businesses?",
+            "expected_keywords": ["marketing", "importance", "business", "strategy", "promotion", "sales"]
+        },
+        {
+            "id": "marketing_002",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the difference between traditional and digital marketing?",
+            "expected_keywords": ["traditional", "digital", "comparison", "channels", "methods", "media"]
+        },
+        {
+            "id": "marketing_003",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the 4 Ps of marketing?",
+            "expected_keywords": ["product", "price", "place", "promotion", "marketing mix", "strategy"]
+        },
+        {
+            "id": "marketing_004",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do businesses use social media marketing?",
+            "expected_keywords": ["social media", "engagement", "platforms", "content", "strategy", "audience"]
+        },
+        {
+            "id": "marketing_005",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the role of branding in marketing?",
+            "expected_keywords": ["branding", "identity", "recognition", "value", "loyalty", "differentiation"]
+        },
+        {
+            "id": "marketing_006",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the different types of advertising?",
+            "expected_keywords": ["advertising", "types", "media", "channels", "methods", "campaigns"]
+        },
+        {
+            "id": "marketing_007",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is email marketing, and how can it be effective?",
+            "expected_keywords": ["email", "campaigns", "subscribers", "content", "engagement", "conversion"]
+        },
+        {
+            "id": "marketing_008",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does SEO (Search Engine Optimization) work?",
+            "expected_keywords": ["SEO", "search engines", "keywords", "ranking", "optimization", "traffic"]
+        },
+        {
+            "id": "marketing_009",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is influencer marketing?",
+            "expected_keywords": ["influencer", "social media", "partnership", "promotion", "audience", "trust"]
+        },
+        {
+            "id": "marketing_010",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do businesses measure marketing success?",
+            "expected_keywords": ["metrics", "KPIs", "ROI", "analytics", "performance", "evaluation"]
+        },
+        {
+            "id": "marketing_011",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the key elements of a successful marketing campaign?",
+            "expected_keywords": ["campaign", "strategy", "goals", "target audience", "execution", "measurement"]
+        },
+        {
+            "id": "marketing_012",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is market segmentation, and why is it important?",
+            "expected_keywords": ["segmentation", "targeting", "audience", "demographics", "behavior", "needs"]
+        },
+        {
+            "id": "marketing_013",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do businesses perform competitor analysis?",
+            "expected_keywords": ["competitor", "analysis", "benchmarking", "market", "strategy", "strengths"]
+        },
+        {
+            "id": "marketing_014",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is content marketing, and how does it work?",
+            "expected_keywords": ["content", "creation", "distribution", "engagement", "value", "strategy"]
+        },
+        {
+            "id": "marketing_015",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is PPC (Pay-Per-Click) advertising?",
+            "expected_keywords": ["PPC", "advertising", "clicks", "cost", "campaigns", "search engines"]
+        },
+        {
+            "id": "marketing_016",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do businesses create a strong brand identity?",
+            "expected_keywords": ["brand", "identity", "design", "values", "consistency", "recognition"]
+        },
+        {
+            "id": "marketing_017",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are some common customer acquisition strategies?",
+            "expected_keywords": ["acquisition", "strategies", "leads", "conversion", "channels", "growth"]
+        },
+        {
+            "id": "marketing_018",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are some effective ways to improve customer retention?",
+            "expected_keywords": ["retention", "loyalty", "engagement", "satisfaction", "feedback", "programs"]
+        },
+        {
+            "id": "marketing_019",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is A/B testing in marketing?",
+            "expected_keywords": ["A/B testing", "experiments", "comparison", "optimization", "conversion", "results"]
+        },
+        {
+            "id": "marketing_020",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do companies use data analytics in marketing?",
+            "expected_keywords": ["data", "analytics", "insights", "performance", "optimization", "strategy"]
+        },
+        {
+            "id": "marketing_021",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is marketing automation, and how is it implemented?",
+            "expected_keywords": ["automation", "tools", "processes", "efficiency", "campaigns", "software"]
+        },
+        {
+            "id": "marketing_022",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does AI influence modern marketing strategies?",
+            "expected_keywords": ["AI", "technology", "personalization", "automation", "analytics", "efficiency"]
+        },
+        {
+            "id": "marketing_023",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is predictive analytics, and how does it benefit marketing?",
+            "expected_keywords": ["predictive analytics", "data", "forecasting", "trends", "behavior", "strategy"]
+        },
+        {
+            "id": "marketing_024",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do companies create a data-driven marketing strategy?",
+            "expected_keywords": ["data-driven", "strategy", "analytics", "insights", "optimization", "performance"]
+        },
+        {
+            "id": "marketing_025",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are some common pricing strategies used in marketing?",
+            "expected_keywords": ["pricing", "strategies", "value", "competition", "cost", "demand"]
+        },
+        {
+            "id": "marketing_026",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do businesses manage negative online reviews?",
+            "expected_keywords": ["reviews", "management", "response", "reputation", "feedback", "strategy"]
+        },
+        {
+            "id": "marketing_027",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is programmatic advertising, and how does it work?",
+            "expected_keywords": ["programmatic", "advertising", "automation", "bidding", "targeting", "efficiency"]
+        },
+        {
+            "id": "marketing_028",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does personalization impact marketing effectiveness?",
+            "expected_keywords": ["personalization", "engagement", "relevance", "experience", "conversion", "strategy"]
+        },
+        {
+            "id": "marketing_029",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are some ethical concerns in modern marketing?",
+            "expected_keywords": ["ethics", "privacy", "transparency", "manipulation", "trust", "regulation"]
+        },
+        {
+            "id": "marketing_030",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is the impact of storytelling in marketing?",
+            "expected_keywords": ["storytelling", "engagement", "connection", "brand", "narrative", "emotion"]
+        },
+        {
+            "id": "marketing_031",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do businesses create a crisis communication strategy?",
+            "expected_keywords": ["crisis", "communication", "strategy", "response", "management", "planning"]
+        },
+        {
+            "id": "marketing_032",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does neuromarketing influence consumer behavior?",
+            "expected_keywords": ["neuromarketing", "behavior", "psychology", "decision-making", "brain", "insights"]
+        },
+        {
+            "id": "marketing_033",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is omnichannel marketing, and how does it work?",
+            "expected_keywords": ["omnichannel", "integration", "experience", "channels", "consistency", "strategy"]
+        },
+        {
+            "id": "marketing_034",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does affiliate marketing contribute to business growth?",
+            "expected_keywords": ["affiliate", "partnerships", "commissions", "growth", "promotion", "sales"]
+        },
+        {
+            "id": "marketing_035",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do businesses determine the effectiveness of marketing channels?",
+            "expected_keywords": ["effectiveness", "channels", "metrics", "performance", "ROI", "analysis"]
+        },
+        {
+            "id": "marketing_036",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is the role of customer experience (CX) in marketing?",
+            "expected_keywords": ["customer experience", "CX", "satisfaction", "engagement", "loyalty", "strategy"]
+        },
+        {
+            "id": "marketing_037",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does behavioral targeting work in digital advertising?",
+            "expected_keywords": ["behavioral targeting", "advertising", "data", "personalization", "audience", "conversion"]
+        },
+        {
+            "id": "marketing_038",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the difference between B2B and B2C marketing?",
+            "expected_keywords": ["B2B", "B2C", "differences", "target audience", "strategies", "approach"]
+        },
+        {
+            "id": "marketing_039",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the key components of a successful marketing strategy?",
+            "expected_keywords": ["components", "strategy", "success", "planning", "execution", "measurement"]
+        },
+        {
+            "id": "marketing_040",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does word-of-mouth marketing impact a brand?",
+            "expected_keywords": ["word-of-mouth", "impact", "brand", "trust", "referrals", "reputation"]
+        },
+        {
+            "id": "marketing_041",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the benefits of using customer testimonials in marketing?",
+            "expected_keywords": ["testimonials", "benefits", "trust", "credibility", "social proof", "marketing"]
+        },
+        {
+            "id": "marketing_042",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How can a business create a strong call to action (CTA) in its marketing?",
+            "expected_keywords": ["CTA", "call to action", "strong", "marketing", "conversion", "engagement"]
+        },
+        {
+            "id": "marketing_043",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is guerrilla marketing, and when should it be used?",
+            "expected_keywords": ["guerrilla marketing", "definition", "usage", "creative", "low-cost", "impact"]
+        },
+        {
+            "id": "marketing_044",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are some key elements of a good marketing email?",
+            "expected_keywords": ["email", "elements", "good", "marketing", "content", "design"]
+        },
+        {
+            "id": "marketing_045",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How can a company improve its online presence?",
+            "expected_keywords": ["online presence", "improve", "SEO", "social media", "content", "engagement"]
+        },
+        {
+            "id": "marketing_046",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the purpose of a buyer persona in marketing?",
+            "expected_keywords": ["buyer persona", "purpose", "marketing", "target audience", "segmentation", "strategy"]
+        },
+        {
+            "id": "marketing_047",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the differences between inbound and outbound marketing?",
+            "expected_keywords": ["inbound", "outbound", "differences", "strategies", "approach", "marketing"]
+        },
+        {
+            "id": "marketing_048",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers use the sales funnel to drive conversions?",
+            "expected_keywords": ["sales funnel", "marketers", "conversions", "stages", "leads", "strategy"]
+        },
+        {
+            "id": "marketing_049",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is a Unique Selling Proposition (USP), and why is it important?",
+            "expected_keywords": ["USP", "unique selling proposition", "importance", "differentiation", "value", "marketing"]
+        },
+        {
+            "id": "marketing_050",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How can businesses leverage retargeting ads effectively?",
+            "expected_keywords": ["retargeting", "ads", "leverage", "effectively", "strategy", "conversion"]
+        },
+        {
+            "id": "marketing_051",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is demand generation, and how does it differ from lead generation?",
+            "expected_keywords": ["demand generation", "lead generation", "differences", "marketing", "strategy", "approach"]
+        },
+        {
+            "id": "marketing_052",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do businesses use storytelling in marketing campaigns?",
+            "expected_keywords": ["storytelling", "marketing", "campaigns", "engagement", "brand", "connection"]
+        },
+        {
+            "id": "marketing_053",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do brands maintain consistency across multiple marketing channels?",
+            "expected_keywords": ["consistency", "brands", "marketing channels", "strategy", "message", "branding"]
+        },
+        {
+            "id": "marketing_054",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the key differences between growth marketing and traditional marketing?",
+            "expected_keywords": ["growth", "traditional", "differences", "strategies", "approach", "marketing"]
+        },
+        {
+            "id": "marketing_055",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are some best practices for creating an effective landing page?",
+            "expected_keywords": ["best practices", "landing page", "effective", "design", "conversion", "content"]
+        },
+        {
+            "id": "marketing_056",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How can a business optimize its Google Ads campaigns?",
+            "expected_keywords": ["optimize", "Google Ads", "campaigns", "keywords", "bidding", "performance"]
+        },
+        {
+            "id": "marketing_057",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is customer lifetime value (CLV), and why is it important?",
+            "expected_keywords": ["CLV", "customer lifetime value", "importance", "measurement", "profitability", "retention"]
+        },
+        {
+            "id": "marketing_058",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can machine learning be used to enhance marketing strategies?",
+            "expected_keywords": ["machine learning", "enhance", "marketing strategies", "data", "personalization", "automation"]
+        },
+        {
+            "id": "marketing_059",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What role does blockchain play in digital marketing?",
+            "expected_keywords": ["blockchain", "digital marketing", "transparency", "security", "data", "trust"]
+        },
+        {
+            "id": "marketing_060",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does the use of first-party data improve marketing effectiveness?",
+            "expected_keywords": ["first-party data", "improve", "marketing effectiveness", "accuracy", "targeting", "privacy"]
+        },
+        {
+            "id": "marketing_061",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is account-based marketing (ABM), and how does it work?",
+            "expected_keywords": ["ABM", "account-based marketing", "targeting", "B2B", "strategy", "personalization"]
+        },
+        {
+            "id": "marketing_062",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are some emerging trends in mobile marketing?",
+            "expected_keywords": ["emerging trends", "mobile marketing", "technology", "apps", "location-based", "engagement"]
+        },
+        {
+            "id": "marketing_063",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use behavioral segmentation in campaigns?",
+            "expected_keywords": ["behavioral segmentation", "campaigns", "targeting", "data", "personalization", "strategy"]
+        },
+        {
+            "id": "marketing_064",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do brands measure and improve customer engagement?",
+            "expected_keywords": ["measure", "improve", "customer engagement", "metrics", "feedback", "strategy"]
+        },
+        {
+            "id": "marketing_065",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is dark social, and how does it impact digital marketing strategies?",
+            "expected_keywords": ["dark social", "impact", "digital marketing", "attribution", "tracking", "strategy"]
+        },
+        {
+            "id": "marketing_066",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does a company decide between organic and paid social media strategies?",
+            "expected_keywords": ["organic", "paid", "social media", "strategies", "comparison", "decision-making"]
+        },
+        {
+            "id": "marketing_067",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can predictive modeling improve marketing campaign performance?",
+            "expected_keywords": ["predictive modeling", "improve", "marketing campaign", "performance", "data", "forecasting"]
+        },
+        {
+            "id": "marketing_068",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the role of branding in marketing?",
+            "expected_keywords": ["branding", "identity", "recognition", "value", "loyalty", "differentiation"]
+        },
+        {
+            "id": "marketing_069",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the key differences between traditional and digital marketing?",
+            "expected_keywords": ["traditional", "digital", "comparison", "channels", "methods", "media"]
+        },
+        {
+            "id": "marketing_070",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "Why is social media important for marketing?",
+            "expected_keywords": ["social media", "engagement", "reach", "visibility", "audience", "platforms"]
+        },
+        {
+            "id": "marketing_071",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How can content marketing drive brand awareness?",
+            "expected_keywords": ["content", "brand awareness", "engagement", "value", "strategy", "distribution"]
+        },
+        {
+            "id": "marketing_072",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the significance of customer feedback in marketing?",
+            "expected_keywords": ["customer feedback", "improvement", "satisfaction", "engagement", "trust", "insights"]
+        },
+        {
+            "id": "marketing_073",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does email marketing benefit businesses?",
+            "expected_keywords": ["email marketing", "engagement", "conversion", "subscribers", "campaigns", "ROI"]
+        },
+        {
+            "id": "marketing_074",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are some common mistakes businesses make in digital marketing?",
+            "expected_keywords": ["mistakes", "digital marketing", "strategy", "budget", "targeting", "content"]
+        },
+        {
+            "id": "marketing_075",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is influencer marketing, and how does it work?",
+            "expected_keywords": ["influencer", "social media", "partnership", "promotion", "audience", "trust"]
+        },
+        {
+            "id": "marketing_076",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are some effective ways to improve website traffic?",
+            "expected_keywords": ["website traffic", "SEO", "content", "social media", "advertising", "engagement"]
+        },
+        {
+            "id": "marketing_077",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "Why is storytelling important in marketing?",
+            "expected_keywords": ["storytelling", "engagement", "connection", "brand", "narrative", "emotion"]
+        },
+        {
+            "id": "marketing_078",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do you measure the success of a social media campaign?",
+            "expected_keywords": ["success", "social media", "metrics", "engagement", "reach", "conversion"]
+        },
+        {
+            "id": "marketing_079",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are key performance indicators (KPIs) in marketing?",
+            "expected_keywords": ["KPIs", "performance", "metrics", "measurement", "goals", "strategy"]
+        },
+        {
+            "id": "marketing_080",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does competitor analysis impact a company’s marketing strategy?",
+            "expected_keywords": ["competitor analysis", "strategy", "benchmarking", "market", "strengths", "weaknesses"]
+        },
+        {
+            "id": "marketing_081",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How can companies use user-generated content (UGC) in marketing?",
+            "expected_keywords": ["UGC", "engagement", "trust", "authenticity", "content", "strategy"]
+        },
+        {
+            "id": "marketing_082",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is conversion rate optimization (CRO), and why is it important?",
+            "expected_keywords": ["CRO", "conversion rate", "optimization", "performance", "strategy", "improvement"]
+        },
+        {
+            "id": "marketing_083",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How can businesses optimize their local SEO efforts?",
+            "expected_keywords": ["local SEO", "optimization", "visibility", "search engines", "ranking", "traffic"]
+        },
+        {
+            "id": "marketing_084",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers use heatmaps to improve website performance?",
+            "expected_keywords": ["heatmaps", "website performance", "user behavior", "optimization", "analysis", "engagement"]
+        },
+        {
+            "id": "marketing_085",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the benefits of marketing automation tools?",
+            "expected_keywords": ["automation", "efficiency", "tools", "campaigns", "personalization", "ROI"]
+        },
+        {
+            "id": "marketing_086",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do brands handle negative feedback or reviews?",
+            "expected_keywords": ["negative feedback", "reviews", "management", "response", "reputation", "strategy"]
+        },
+        {
+            "id": "marketing_087",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can AI-driven personalization improve marketing effectiveness?",
+            "expected_keywords": ["AI", "personalization", "effectiveness", "data", "automation", "engagement"]
+        },
+        {
+            "id": "marketing_088",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is omnichannel marketing, and how does it benefit businesses?",
+            "expected_keywords": ["omnichannel", "integration", "experience", "channels", "consistency", "strategy"]
+        },
+        {
+            "id": "marketing_089",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do you balance short-term and long-term marketing goals?",
+            "expected_keywords": ["short-term", "long-term", "goals", "strategy", "balance", "performance"]
+        },
+        {
+            "id": "marketing_090",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the risks of relying too heavily on paid advertising?",
+            "expected_keywords": ["risks", "paid advertising", "budget", "dependence", "ROI", "strategy"]
+        },
+        {
+            "id": "marketing_091",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does predictive analytics influence marketing decisions?",
+            "expected_keywords": ["predictive analytics", "data", "forecasting", "trends", "behavior", "strategy"]
+        },
+        {
+            "id": "marketing_092",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are some emerging trends in influencer marketing?",
+            "expected_keywords": ["trends", "influencer", "social media", "engagement", "partnerships", "growth"]
+        },
+        {
+            "id": "marketing_093",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is zero-party data, and how does it affect marketing strategies?",
+            "expected_keywords": ["zero-party data", "privacy", "consent", "personalization", "strategy", "data collection"]
+        },
+        {
+            "id": "marketing_094",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does emotional intelligence play a role in marketing campaigns?",
+            "expected_keywords": ["emotional intelligence", "empathy", "connection", "engagement", "campaigns", "strategy"]
+        },
+        {
+            "id": "marketing_095",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is the impact of GDPR and data privacy laws on marketing?",
+            "expected_keywords": ["GDPR", "data privacy", "compliance", "regulations", "marketing", "strategy"]
+        },
+        {
+            "id": "marketing_096",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can brands create a successful viral marketing campaign?",
+            "expected_keywords": ["viral", "campaign", "engagement", "sharing", "content", "strategy"]
+        },
+        {
+            "id": "marketing_097",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is the importance of attribution models in marketing analytics?",
+            "expected_keywords": ["attribution models", "analytics", "performance", "measurement", "ROI", "strategy"]
+        },
+        {
+            "id": "marketing_098",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the difference between inbound and outbound marketing?",
+            "expected_keywords": ["inbound", "outbound", "differences", "strategies", "approach", "marketing"]
+        },
+        {
+            "id": "marketing_099",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do businesses use social proof in marketing?",
+            "expected_keywords": ["social proof", "trust", "credibility", "testimonials", "reviews", "marketing"]
+        },
+        {
+            "id": "marketing_100",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the benefits of a strong Unique Selling Proposition (USP)?",
+            "expected_keywords": ["USP", "benefits", "differentiation", "value", "marketing", "strategy"]
+        },
+        {
+            "id": "marketing_101",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the role of a landing page in marketing campaigns?",
+            "expected_keywords": ["landing page", "role", "conversion", "campaigns", "design", "content"]
+        },
+        {
+            "id": "marketing_102",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does A/B testing improve marketing effectiveness?",
+            "expected_keywords": ["A/B testing", "improvement", "effectiveness", "comparison", "optimization", "results"]
+        },
+        {
+            "id": "marketing_103",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are some effective lead generation strategies?",
+            "expected_keywords": ["lead generation", "strategies", "conversion", "marketing", "growth", "methods"]
+        },
+        {
+            "id": "marketing_104",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "Why is mobile marketing important in today's digital world?",
+            "expected_keywords": ["mobile marketing", "importance", "digital", "reach", "engagement", "strategy"]
+        },
+        {
+            "id": "marketing_105",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do businesses use call-to-action (CTA) in marketing?",
+            "expected_keywords": ["CTA", "call-to-action", "usage", "conversion", "engagement", "marketing"]
+        },
+        {
+            "id": "marketing_106",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the key elements of an effective marketing email?",
+            "expected_keywords": ["email", "elements", "effective", "content", "design", "marketing"]
+        },
+        {
+            "id": "marketing_107",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does color psychology impact branding and marketing?",
+            "expected_keywords": ["color psychology", "impact", "branding", "marketing", "perception", "design"]
+        },
+        {
+            "id": "marketing_108",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the key components of a successful SEO strategy?",
+            "expected_keywords": ["SEO", "components", "success", "strategy", "optimization", "ranking"]
+        },
+        {
+            "id": "marketing_109",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers use buyer personas to improve campaigns?",
+            "expected_keywords": ["buyer personas", "campaigns", "targeting", "segmentation", "strategy", "audience"]
+        },
+        {
+            "id": "marketing_110",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is the importance of backlinking in SEO?",
+            "expected_keywords": ["backlinking", "SEO", "ranking", "authority", "links", "optimization"]
+        },
+        {
+            "id": "marketing_111",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do you determine the right marketing budget for a campaign?",
+            "expected_keywords": ["budget", "campaign", "allocation", "costs", "planning", "strategy"]
+        },
+        {
+            "id": "marketing_112",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does remarketing work, and why is it effective?",
+            "expected_keywords": ["remarketing", "ads", "conversion", "targeting", "strategy", "effectiveness"]
+        },
+        {
+            "id": "marketing_113",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is social listening, and how can it benefit businesses?",
+            "expected_keywords": ["social listening", "monitoring", "engagement", "feedback", "strategy", "insights"]
+        },
+        {
+            "id": "marketing_114",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do brands measure customer lifetime value (CLV)?",
+            "expected_keywords": ["CLV", "measurement", "profitability", "retention", "value", "customers"]
+        },
+        {
+            "id": "marketing_115",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the key differences between B2B and B2C marketing?",
+            "expected_keywords": ["B2B", "B2C", "differences", "strategies", "target audience", "approach"]
+        },
+        {
+            "id": "marketing_116",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do companies use predictive analytics in marketing?",
+            "expected_keywords": ["predictive analytics", "data", "forecasting", "trends", "behavior", "strategy"]
+        },
+        {
+            "id": "marketing_117",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the challenges of scaling a marketing strategy globally?",
+            "expected_keywords": ["scaling", "global", "strategy", "challenges", "market", "adaptation"]
+        },
+        {
+            "id": "marketing_118",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do brands balance short-term performance marketing with long-term brand building?",
+            "expected_keywords": ["short-term", "long-term", "performance", "brand building", "balance", "strategy"]
+        },
+        {
+            "id": "marketing_119",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is programmatic advertising, and how does it work?",
+            "expected_keywords": ["programmatic", "advertising", "automation", "bidding", "targeting", "efficiency"]
+        },
+        {
+            "id": "marketing_120",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use neuromarketing to influence consumer behavior?",
+            "expected_keywords": ["neuromarketing", "behavior", "psychology", "decision-making", "brain", "insights"]
+        },
+        {
+            "id": "marketing_121",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What role does blockchain technology play in marketing?",
+            "expected_keywords": ["blockchain", "technology", "marketing", "transparency", "security", "data"]
+        },
+        {
+            "id": "marketing_122",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does interactive content impact audience engagement?",
+            "expected_keywords": ["interactive content", "engagement", "audience", "interaction", "strategy", "impact"]
+        },
+        {
+            "id": "marketing_123",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the challenges of marketing in the metaverse?",
+            "expected_keywords": ["metaverse", "marketing", "challenges", "virtual", "strategy", "engagement"]
+        },
+        {
+            "id": "marketing_124",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do brands effectively use geotargeting in marketing campaigns?",
+            "expected_keywords": ["geotargeting", "location", "campaigns", "targeting", "strategy", "effectiveness"]
+        },
+        {
+            "id": "marketing_125",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can companies maintain authenticity while using AI-generated content?",
+            "expected_keywords": ["authenticity", "AI-generated content", "trust", "quality", "strategy", "engagement"]
+        },
+        {
+            "id": "marketing_126",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the ethical considerations in digital marketing?",
+            "expected_keywords": ["ethics", "digital marketing", "privacy", "transparency", "trust", "regulation"]
+        },
+        {
+            "id": "marketing_127",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does the cookieless future impact digital advertising strategies?",
+            "expected_keywords": ["cookieless", "digital advertising", "privacy", "tracking", "strategy", "impact"]
+        },
+        {
+            "id": "marketing_128",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is dark social, and how does it affect marketing attribution?",
+            "expected_keywords": ["dark social", "attribution", "tracking", "engagement", "strategy", "impact"]
+        },
+        {
+            "id": "marketing_129",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do companies ensure brand safety in online advertising?",
+            "expected_keywords": ["brand safety", "online advertising", "reputation", "trust", "strategy", "management"]
+        },
+        {
+            "id": "marketing_130",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the key factors in building a successful direct-to-consumer (DTC) brand?",
+            "expected_keywords": ["DTC", "brand", "success", "factors", "strategy", "consumer"]
+        },
+        {
+            "id": "marketing_131",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do companies optimize their marketing strategy for voice search?",
+            "expected_keywords": ["voice search", "optimization", "strategy", "SEO", "keywords", "technology"]
+        },
+        {
+            "id": "marketing_132",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use behavioral economics to influence purchasing decisions?",
+            "expected_keywords": ["behavioral economics", "influence", "purchasing", "decisions", "psychology", "strategy"]
+        },
+        {
+            "id": "marketing_133",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the difference between brand awareness and brand recognition?",
+            "expected_keywords": ["brand awareness", "brand recognition", "differences", "marketing", "visibility", "identity"]
+        },
+        {
+            "id": "marketing_134",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does content marketing help in customer acquisition?",
+            "expected_keywords": ["content marketing", "customer acquisition", "engagement", "strategy", "leads", "growth"]
+        },
+        {
+            "id": "marketing_135",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the key metrics to measure email marketing success?",
+            "expected_keywords": ["email marketing", "metrics", "success", "open rate", "click-through rate", "conversion"]
+        },
+        {
+            "id": "marketing_136",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do referral programs work in marketing?",
+            "expected_keywords": ["referral programs", "marketing", "word-of-mouth", "incentives", "growth", "loyalty"]
+        },
+        {
+            "id": "marketing_137",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the importance of storytelling in marketing?",
+            "expected_keywords": ["storytelling", "marketing", "engagement", "connection", "brand", "narrative"]
+        },
+        {
+            "id": "marketing_138",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do customer reviews impact purchasing decisions?",
+            "expected_keywords": ["customer reviews", "impact", "purchasing decisions", "trust", "credibility", "feedback"]
+        },
+        {
+            "id": "marketing_139",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are some ways to improve social media engagement?",
+            "expected_keywords": ["social media", "engagement", "improvement", "content", "interaction", "strategy"]
+        },
+        {
+            "id": "marketing_140",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the role of hashtags in social media marketing?",
+            "expected_keywords": ["hashtags", "social media", "marketing", "visibility", "engagement", "reach"]
+        },
+        {
+            "id": "marketing_141",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do businesses use emotional marketing to connect with customers?",
+            "expected_keywords": ["emotional marketing", "connection", "customers", "engagement", "strategy", "brand"]
+        },
+        {
+            "id": "marketing_142",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the advantages of user-generated content (UGC) in marketing?",
+            "expected_keywords": ["UGC", "advantages", "marketing", "authenticity", "engagement", "trust"]
+        },
+        {
+            "id": "marketing_143",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers use heatmaps to improve website performance?",
+            "expected_keywords": ["heatmaps", "website performance", "user behavior", "optimization", "analysis", "engagement"]
+        },
+        {
+            "id": "marketing_144",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the most important elements of an effective landing page?",
+            "expected_keywords": ["landing page", "elements", "effective", "design", "conversion", "content"]
+        },
+        {
+            "id": "marketing_145",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do you optimize Google Ads for better ROI?",
+            "expected_keywords": ["Google Ads", "optimization", "ROI", "keywords", "bidding", "performance"]
+        },
+        {
+            "id": "marketing_146",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is the role of CRM in marketing?",
+            "expected_keywords": ["CRM", "marketing", "customer relationship", "management", "strategy", "engagement"]
+        },
+        {
+            "id": "marketing_147",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers create personalized experiences for customers?",
+            "expected_keywords": ["personalized experiences", "customers", "marketing", "data", "engagement", "strategy"]
+        },
+        {
+            "id": "marketing_148",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the most common pricing strategies in marketing?",
+            "expected_keywords": ["pricing strategies", "marketing", "value", "competition", "cost", "demand"]
+        },
+        {
+            "id": "marketing_149",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers leverage micro-influencers for brand promotion?",
+            "expected_keywords": ["micro-influencers", "brand promotion", "social media", "engagement", "strategy", "trust"]
+        },
+        {
+            "id": "marketing_150",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does marketing automation improve efficiency?",
+            "expected_keywords": ["marketing automation", "efficiency", "tools", "campaigns", "personalization", "ROI"]
+        },
+        {
+            "id": "marketing_151",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is the importance of customer segmentation in marketing?",
+            "expected_keywords": ["customer segmentation", "importance", "marketing", "targeting", "strategy", "audience"]
+        },
+        {
+            "id": "marketing_152",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does conversion rate optimization (CRO) impact marketing results?",
+            "expected_keywords": ["CRO", "conversion rate", "optimization", "marketing results", "performance", "strategy"]
+        },
+        {
+            "id": "marketing_153",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers balance performance marketing and brand marketing?",
+            "expected_keywords": ["performance marketing", "brand marketing", "balance", "strategy", "goals", "results"]
+        },
+        {
+            "id": "marketing_154",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What role does AI play in predictive marketing?",
+            "expected_keywords": ["AI", "predictive marketing", "data", "forecasting", "personalization", "automation"]
+        },
+        {
+            "id": "marketing_155",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the key factors in developing an omnichannel marketing strategy?",
+            "expected_keywords": ["omnichannel", "marketing strategy", "integration", "channels", "consistency", "experience"]
+        },
+        {
+            "id": "marketing_156",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use zero-party data for personalization?",
+            "expected_keywords": ["zero-party data", "personalization", "privacy", "consent", "strategy", "data collection"]
+        },
+        {
+            "id": "marketing_157",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the biggest challenges in marketing attribution?",
+            "expected_keywords": ["marketing attribution", "challenges", "tracking", "performance", "measurement", "ROI"]
+        },
+        {
+            "id": "marketing_158",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does growth hacking differ from traditional marketing?",
+            "expected_keywords": ["growth hacking", "traditional marketing", "differences", "strategies", "approach", "innovation"]
+        },
+        {
+            "id": "marketing_159",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can marketers use behavioral segmentation to improve targeting?",
+            "expected_keywords": ["behavioral segmentation", "targeting", "data", "personalization", "strategy", "audience"]
+        },
+        {
+            "id": "marketing_160",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the best practices for measuring marketing ROI?",
+            "expected_keywords": ["marketing ROI", "measurement", "best practices", "performance", "metrics", "evaluation"]
+        },
+        {
+            "id": "marketing_161",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use blockchain technology for data transparency?",
+            "expected_keywords": ["blockchain", "data transparency", "technology", "security", "trust", "marketing"]
+        },
+        {
+            "id": "marketing_162",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is the impact of real-time marketing on brand perception?",
+            "expected_keywords": ["real-time marketing", "impact", "brand perception", "engagement", "strategy", "timeliness"]
+        },
+        {
+            "id": "marketing_163",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the risks and benefits of AI-driven content creation?",
+            "expected_keywords": ["AI-driven content", "creation", "risks", "benefits", "quality", "efficiency"]
+        },
+        {
+            "id": "marketing_164",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can companies leverage dark social in their marketing strategies?",
+            "expected_keywords": ["dark social", "marketing strategies", "engagement", "tracking", "attribution", "impact"]
+        },
+        {
+            "id": "marketing_165",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the key considerations when launching a new product globally?",
+            "expected_keywords": ["new product", "global launch", "considerations", "market", "strategy", "adaptation"]
+        },
+        {
+            "id": "marketing_166",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does AI-driven predictive analytics improve marketing strategy?",
+            "expected_keywords": ["AI", "predictive analytics", "marketing strategy", "data", "forecasting", "optimization"]
+        },
+        {
+            "id": "marketing_167",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the main challenges of sustainable marketing?",
+            "expected_keywords": ["sustainable marketing", "challenges", "environment", "strategy", "ethics", "responsibility"]
+        },
+        {
+            "id": "marketing_168",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use AR and VR to enhance customer experience?",
+            "expected_keywords": ["AR", "VR", "customer experience", "enhancement", "technology", "engagement"]
+        },
+        {
+            "id": "marketing_169",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the difference between inbound and outbound marketing?",
+            "expected_keywords": ["inbound", "outbound", "differences", "strategies", "approach", "marketing"]
+        },
+        {
+            "id": "marketing_170",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does social proof influence consumer behavior?",
+            "expected_keywords": ["social proof", "influence", "consumer behavior", "trust", "credibility", "marketing"]
+        },
+        {
+            "id": "marketing_171",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are some key components of a successful email marketing campaign?",
+            "expected_keywords": ["email marketing", "components", "success", "campaign", "content", "engagement"]
+        },
+        {
+            "id": "marketing_172",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does SEO impact digital marketing strategies?",
+            "expected_keywords": ["SEO", "impact", "digital marketing", "strategies", "ranking", "visibility"]
+        },
+        {
+            "id": "marketing_173",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the importance of A/B testing in marketing?",
+            "expected_keywords": ["A/B testing", "importance", "marketing", "optimization", "comparison", "results"]
+        },
+        {
+            "id": "marketing_174",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do brands create a strong emotional connection with customers?",
+            "expected_keywords": ["emotional connection", "brands", "customers", "engagement", "loyalty", "strategy"]
+        },
+        {
+            "id": "marketing_175",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the essential elements of a good marketing funnel?",
+            "expected_keywords": ["marketing funnel", "elements", "good", "stages", "conversion", "strategy"]
+        },
+        {
+            "id": "marketing_176",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How can businesses use storytelling to enhance their marketing?",
+            "expected_keywords": ["storytelling", "enhance", "marketing", "engagement", "connection", "brand"]
+        },
+        {
+            "id": "marketing_177",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the role of lead generation in marketing?",
+            "expected_keywords": ["lead generation", "role", "marketing", "conversion", "strategy", "growth"]
+        },
+        {
+            "id": "marketing_178",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do marketers use psychology in advertising?",
+            "expected_keywords": ["psychology", "advertising", "influence", "behavior", "strategy", "engagement"]
+        },
+        {
+            "id": "marketing_179",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are some effective strategies for reducing cart abandonment in e-commerce?",
+            "expected_keywords": ["cart abandonment", "e-commerce", "strategies", "reduction", "conversion", "checkout"]
+        },
+        {
+            "id": "marketing_180",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does retargeting work in digital advertising?",
+            "expected_keywords": ["retargeting", "digital advertising", "conversion", "targeting", "strategy", "ads"]
+        },
+        {
+            "id": "marketing_181",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is the impact of personalized marketing on customer engagement?",
+            "expected_keywords": ["personalized marketing", "impact", "customer engagement", "strategy", "data", "experience"]
+        },
+        {
+            "id": "marketing_182",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do you measure the effectiveness of a content marketing campaign?",
+            "expected_keywords": ["content marketing", "effectiveness", "measurement", "campaign", "metrics", "performance"]
+        },
+        {
+            "id": "marketing_183",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is programmatic advertising and how does it work?",
+            "expected_keywords": ["programmatic advertising", "automation", "bidding", "targeting", "efficiency", "ads"]
+        },
+        {
+            "id": "marketing_184",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers use FOMO (Fear of Missing Out) in promotions?",
+            "expected_keywords": ["FOMO", "promotions", "marketing", "strategy", "engagement", "urgency"]
+        },
+        {
+            "id": "marketing_185",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is account-based marketing (ABM) and when should it be used?",
+            "expected_keywords": ["ABM", "account-based marketing", "targeting", "B2B", "strategy", "personalization"]
+        },
+        {
+            "id": "marketing_186",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do businesses use growth hacking to scale quickly?",
+            "expected_keywords": ["growth hacking", "scale", "quickly", "strategies", "innovation", "marketing"]
+        },
+        {
+            "id": "marketing_187",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is the role of AI in customer relationship management (CRM)?",
+            "expected_keywords": ["AI", "CRM", "customer relationship", "management", "automation", "data"]
+        },
+        {
+            "id": "marketing_188",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are some best practices for optimizing mobile marketing?",
+            "expected_keywords": ["mobile marketing", "optimization", "best practices", "engagement", "strategy", "reach"]
+        },
+        {
+            "id": "marketing_189",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does neuromarketing help brands understand consumer behavior?",
+            "expected_keywords": ["neuromarketing", "consumer behavior", "brands", "psychology", "insights", "strategy"]
+        },
+        {
+            "id": "marketing_190",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the ethical concerns in data-driven marketing?",
+            "expected_keywords": ["ethical concerns", "data-driven marketing", "privacy", "transparency", "trust", "regulation"]
+        },
+        {
+            "id": "marketing_191",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do brands successfully implement cross-channel marketing strategies?",
+            "expected_keywords": ["cross-channel", "marketing strategies", "implementation", "integration", "consistency", "engagement"]
+        },
+        {
+            "id": "marketing_192",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the biggest challenges in measuring customer lifetime value (CLV)?",
+            "expected_keywords": ["CLV", "challenges", "measurement", "customer lifetime value", "profitability", "retention"]
+        },
+        {
+            "id": "marketing_193",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use predictive analytics to drive sales?",
+            "expected_keywords": ["predictive analytics", "sales", "data", "forecasting", "trends", "strategy"]
+        },
+        {
+            "id": "marketing_194",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the long-term impacts of influencer marketing?",
+            "expected_keywords": ["long-term impacts", "influencer marketing", "social media", "engagement", "trust", "growth"]
+        },
+        {
+            "id": "marketing_195",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do companies use blockchain for secure marketing transactions?",
+            "expected_keywords": ["blockchain", "secure transactions", "marketing", "transparency", "security", "data"]
+        },
+        {
+            "id": "marketing_196",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are some innovative ways brands are using experiential marketing?",
+            "expected_keywords": ["experiential marketing", "innovative", "brands", "engagement", "experience", "strategy"]
+        },
+        {
+            "id": "marketing_197",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do global brands localize their marketing strategies for different regions?",
+            "expected_keywords": ["global brands", "localize", "marketing strategies", "regions", "adaptation", "strategy"]
+        },
+        {
+            "id": "marketing_198",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the key considerations when developing a voice search marketing strategy?",
+            "expected_keywords": ["voice search", "marketing strategy", "considerations", "SEO", "keywords", "technology"]
+        },
+        {
+            "id": "marketing_199",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the 4Ps of marketing and why are they important?",
+            "expected_keywords": ["product", "price", "place", "promotion", "strategy", "importance"]
+        },
+        {
+            "id": "marketing_200",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does branding impact a company's success?",
+            "expected_keywords": ["identity", "trust", "loyalty", "recognition", "positioning", "success"]
+        },
+        {
+            "id": "marketing_201",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is a Unique Selling Proposition (USP), and why is it important?",
+            "expected_keywords": ["differentiation", "advantage", "value", "positioning", "competition", "importance"]
+        },
+        {
+            "id": "marketing_202",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the key differences between B2B and B2C marketing?",
+            "expected_keywords": ["business", "consumer", "decision-making", "relationship", "purchase cycle", "differences"]
+        },
+        {
+            "id": "marketing_203",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "Why is customer segmentation important in marketing?",
+            "expected_keywords": ["demographics", "targeting", "behavior", "customization", "audience", "importance"]
+        },
+        {
+            "id": "marketing_204",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the role of customer feedback in marketing strategy?",
+            "expected_keywords": ["improvement", "satisfaction", "engagement", "insights", "adaptation", "strategy"]
+        },
+        {
+            "id": "marketing_205",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do you measure the success of a marketing campaign?",
+            "expected_keywords": ["ROI", "KPIs", "engagement", "conversion", "analytics", "success"]
+        },
+        {
+            "id": "marketing_206",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the role of storytelling in marketing?",
+            "expected_keywords": ["emotion", "brand", "connection", "narrative", "engagement", "storytelling"]
+        },
+        {
+            "id": "marketing_207",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does influencer marketing work?",
+            "expected_keywords": ["social media", "trust", "followers", "brand partnerships", "engagement", "influencer"]
+        },
+        {
+            "id": "marketing_208",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is omnichannel marketing?",
+            "expected_keywords": ["integrated", "seamless", "customer experience", "touchpoints", "personalization", "omnichannel"]
+        },
+        {
+            "id": "marketing_209",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are some key differences between traditional and digital marketing?",
+            "expected_keywords": ["offline", "online", "reach", "cost-effectiveness", "measurable", "differences"]
+        },
+        {
+            "id": "marketing_210",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do businesses use data-driven marketing?",
+            "expected_keywords": ["analytics", "insights", "personalization", "ROI", "targeting", "data-driven"]
+        },
+        {
+            "id": "marketing_211",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the best practices for optimizing social media marketing?",
+            "expected_keywords": ["engagement", "content", "hashtags", "consistency", "strategy", "best practices"]
+        },
+        {
+            "id": "marketing_212",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How can content marketing be leveraged to improve brand authority?",
+            "expected_keywords": ["thought leadership", "trust", "SEO", "value", "audience", "authority"]
+        },
+        {
+            "id": "marketing_213",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the biggest challenges in marketing automation?",
+            "expected_keywords": ["personalization", "integration", "customer journey", "data", "optimization", "challenges"]
+        },
+        {
+            "id": "marketing_214",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does AI impact digital marketing strategies?",
+            "expected_keywords": ["automation", "personalization", "predictive", "data-driven", "efficiency", "AI"]
+        },
+        {
+            "id": "marketing_215",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the most effective strategies for customer retention?",
+            "expected_keywords": ["loyalty", "personalization", "feedback", "customer service", "value", "retention"]
+        },
+        {
+            "id": "marketing_216",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do brands create viral marketing campaigns?",
+            "expected_keywords": ["emotional appeal", "social media", "shareability", "influencers", "trends", "viral"]
+        },
+        {
+            "id": "marketing_217",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the key considerations when developing a customer loyalty program?",
+            "expected_keywords": ["engagement", "rewards", "retention", "brand affinity", "repeat business", "loyalty"]
+        },
+        {
+            "id": "marketing_218",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use behavioral economics to influence purchasing decisions?",
+            "expected_keywords": ["scarcity", "loss aversion", "anchoring", "nudging", "framing", "behavioral economics"]
+        },
+        {
+            "id": "marketing_219",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What role does neuromarketing play in shaping consumer behavior?",
+            "expected_keywords": ["subconscious", "emotions", "decision-making", "persuasion", "psychology", "neuromarketing"]
+        },
+        {
+            "id": "marketing_220",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does data privacy regulation impact digital marketing?",
+            "expected_keywords": ["GDPR", "CCPA", "compliance", "cookies", "consent", "privacy"]
+        },
+        {
+            "id": "marketing_221",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the best practices for global marketing campaigns?",
+            "expected_keywords": ["localization", "cultural adaptation", "branding", "legal compliance", "strategy", "global"]
+        },
+        {
+            "id": "marketing_222",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do brands use emotional marketing to build connections?",
+            "expected_keywords": ["storytelling", "empathy", "resonance", "brand affinity", "engagement", "emotional"]
+        },
+        {
+            "id": "marketing_223",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does Web3 impact marketing strategies?",
+            "expected_keywords": ["decentralization", "blockchain", "NFTs", "smart contracts", "privacy", "Web3"]
+        },
+        {
+            "id": "marketing_224",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is the future of programmatic advertising?",
+            "expected_keywords": ["AI", "real-time", "automation", "targeting", "efficiency", "programmatic"]
+        },
+        {
+            "id": "marketing_225",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can brands balance personalization with data privacy concerns?",
+            "expected_keywords": ["trust", "transparency", "ethical marketing", "customer rights", "compliance", "privacy"]
+        },
+        {
+            "id": "marketing_226",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is market segmentation, and how is it used in marketing?",
+            "expected_keywords": ["demographics", "psychographics", "behavioral", "targeting", "customer groups", "segmentation", "market research"]
+        },
+        {
+            "id": "marketing_227",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the importance of competitor analysis in marketing?",
+            "expected_keywords": ["benchmarking", "strategy", "differentiation", "SWOT", "market position", "competitive advantage", "market analysis"]
+        },
+        {
+            "id": "marketing_228",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do companies create effective value propositions?",
+            "expected_keywords": ["benefits", "differentiation", "customer needs", "USP", "problem-solving", "value proposition", "competitive edge"]
+        },
+        {
+            "id": "marketing_229",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is customer lifetime value (CLV), and why is it important?",
+            "expected_keywords": ["profitability", "loyalty", "repeat business", "acquisition cost", "retention", "customer value", "long-term"]
+        },
+        {
+            "id": "marketing_230",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does word-of-mouth marketing influence brand reputation?",
+            "expected_keywords": ["referrals", "trust", "customer advocacy", "organic reach", "credibility", "word-of-mouth", "brand reputation"]
+        },
+        {
+            "id": "marketing_231",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What role does psychology play in marketing strategies?",
+            "expected_keywords": ["emotions", "decision-making", "persuasion", "cognitive biases", "branding", "consumer behavior", "psychology"]
+        },
+        {
+            "id": "marketing_232",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How do marketers use A/B testing to improve campaign performance?",
+            "expected_keywords": ["experimentation", "conversion", "comparison", "optimization", "data-driven", "A/B testing", "performance"]
+        },
+        {
+            "id": "marketing_233",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are some effective ways to increase customer engagement?",
+            "expected_keywords": ["content", "personalization", "social media", "interaction", "community", "engagement", "customer interaction"]
+        },
+        {
+            "id": "marketing_234",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is referral marketing, and how does it work?",
+            "expected_keywords": ["word-of-mouth", "customer rewards", "trust", "recommendation", "loyalty", "referrals", "marketing"]
+        },
+        {
+            "id": "marketing_235",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers leverage SEO to drive organic traffic?",
+            "expected_keywords": ["keywords", "ranking", "search engine", "backlinks", "optimization", "SEO", "organic traffic"]
+        },
+        {
+            "id": "marketing_236",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is conversion rate optimization (CRO), and why is it important?",
+            "expected_keywords": ["testing", "user behavior", "landing page", "call-to-action", "performance", "CRO", "conversion"]
+        },
+        {
+            "id": "marketing_237",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does data analytics improve marketing decision-making?",
+            "expected_keywords": ["insights", "metrics", "customer behavior", "ROI", "strategy", "data analytics", "decision-making"]
+        },
+        {
+            "id": "marketing_238",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are some common pitfalls in digital marketing campaigns?",
+            "expected_keywords": ["budget misallocation", "targeting", "content quality", "analytics", "ROI", "pitfalls", "digital marketing"]
+        },
+        {
+            "id": "marketing_239",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is experiential marketing, and how does it work?",
+            "expected_keywords": ["brand experience", "engagement", "interactive", "event marketing", "memorable", "experiential", "marketing"]
+        },
+        {
+            "id": "marketing_240",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do companies measure brand awareness?",
+            "expected_keywords": ["surveys", "impressions", "social mentions", "brand recall", "reach", "brand awareness", "measurement"]
+        },
+        {
+            "id": "marketing_241",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is the difference between inbound and outbound marketing?",
+            "expected_keywords": ["content marketing", "cold outreach", "SEO", "advertising", "lead generation", "inbound", "outbound"]
+        },
+        {
+            "id": "marketing_242",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does the customer journey influence marketing strategy?",
+            "expected_keywords": ["awareness", "consideration", "purchase", "loyalty", "touchpoints", "customer journey", "strategy"]
+        },
+        {
+            "id": "marketing_243",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is the importance of crisis management in marketing?",
+            "expected_keywords": ["brand reputation", "damage control", "public relations", "transparency", "trust", "crisis management", "importance"]
+        },
+        {
+            "id": "marketing_244",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do marketers use AI-driven personalization?",
+            "expected_keywords": ["machine learning", "predictive analytics", "customer data", "automation", "engagement", "AI", "personalization"]
+        },
+        {
+            "id": "marketing_245",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is the role of blockchain technology in marketing?",
+            "expected_keywords": ["decentralization", "data security", "transparency", "ad fraud prevention", "NFTs", "blockchain", "technology"]
+        },
+        {
+            "id": "marketing_246",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do brands balance paid and organic marketing strategies?",
+            "expected_keywords": ["budget allocation", "SEO", "PPC", "content marketing", "ROI", "paid marketing", "organic marketing"]
+        },
+        {
+            "id": "marketing_247",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are the biggest challenges in cross-channel marketing?",
+            "expected_keywords": ["integration", "data consistency", "customer experience", "attribution", "cohesion", "cross-channel", "challenges"]
+        },
+        {
+            "id": "marketing_248",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does sentiment analysis impact brand reputation management?",
+            "expected_keywords": ["social listening", "AI", "customer feedback", "trends", "crisis management", "sentiment analysis", "brand reputation"]
+        },
+        {
+            "id": "marketing_249",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is demand generation, and how is it different from lead generation?",
+            "expected_keywords": ["awareness", "interest", "sales funnel", "customer journey", "nurturing", "demand generation", "lead generation"]
+        },
+        {
+            "id": "marketing_250",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do brands use psychological pricing to influence buyers?",
+            "expected_keywords": ["perceived value", "anchoring", "discount strategy", "charm pricing", "bundling", "psychological pricing", "influence"]
+        },
+        {
+            "id": "marketing_251",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is the impact of zero-party data on marketing personalization?",
+            "expected_keywords": ["customer consent", "privacy", "first-party data", "personalization", "trust", "zero-party data", "impact"]
+        },
+        {
+            "id": "marketing_252",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do brands successfully manage rebranding strategies?",
+            "expected_keywords": ["brand identity", "positioning", "customer perception", "strategy", "transition", "rebranding", "management"]
+        },
+        {
+            "id": "marketing_253",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is the role of branding in marketing?",
+            "expected_keywords": ["identity", "perception", "loyalty", "recognition", "value proposition"]
+        },
+        {
+            "id": "marketing_254",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does social media impact digital marketing strategies?",
+            "expected_keywords": ["engagement", "reach", "content", "advertising", "audience targeting"]
+        },
+        {
+            "id": "marketing_255",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is a Unique Selling Proposition (USP) and why is it important?",
+            "expected_keywords": ["differentiation", "value", "competitors", "customer need", "branding"]
+        },
+        {
+            "id": "marketing_256",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are the key components of a marketing plan?",
+            "expected_keywords": ["strategy", "target market", "budget", "channels", "goals"]
+        },
+        {
+            "id": "marketing_257",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is a Call-to-Action (CTA) in marketing?",
+            "expected_keywords": ["conversion", "engagement", "website", "ads", "persuasion"]
+        },
+        {
+            "id": "marketing_258",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "Why is customer feedback important in marketing?",
+            "expected_keywords": ["insights", "improvement", "experience", "retention", "engagement"]
+        },
+        {
+            "id": "marketing_259",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What are key performance indicators (KPIs) in marketing?",
+            "expected_keywords": ["metrics", "ROI", "engagement", "conversion", "success"]
+        },
+        {
+            "id": "marketing_260",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "What is influencer marketing and how does it work?",
+            "expected_keywords": ["social media", "credibility", "partnerships", "reach", "brand awareness"]
+        },
+        {
+            "id": "marketing_261",
+            "category": "marketing",
+            "difficulty": "beginner",
+            "question": "How does storytelling impact brand marketing?",
+            "expected_keywords": ["emotions", "connection", "narrative", "engagement", "brand loyalty"]
+        },
+        {
+            "id": "marketing_262",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is omnichannel marketing and why is it important?",
+            "expected_keywords": ["integration", "seamless experience", "customer journey", "multiple platforms", "consistency"]
+        },
+        {
+            "id": "marketing_263",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do marketers use content marketing effectively?",
+            "expected_keywords": ["value", "engagement", "SEO", "lead generation", "brand authority"]
+        },
+        {
+            "id": "marketing_264",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the benefits and challenges of email marketing?",
+            "expected_keywords": ["personalization", "open rates", "spam", "segmentation", "conversion"]
+        },
+        {
+            "id": "marketing_265",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What role does customer segmentation play in personalized marketing?",
+            "expected_keywords": ["data", "targeting", "demographics", "behavior", "relevance"]
+        },
+        {
+            "id": "marketing_266",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How do companies measure customer satisfaction?",
+            "expected_keywords": ["surveys", "NPS", "feedback", "retention", "engagement"]
+        },
+        {
+            "id": "marketing_267",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What are the advantages of native advertising?",
+            "expected_keywords": ["non-disruptive", "engagement", "trust", "content integration", "brand awareness"]
+        },
+        {
+            "id": "marketing_268",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How does behavioral marketing influence customer decisions?",
+            "expected_keywords": ["data-driven", "personalization", "retargeting", "user behavior", "conversion"]
+        },
+        {
+            "id": "marketing_269",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "What is marketing automation and how does it work?",
+            "expected_keywords": ["AI", "efficiency", "customer journey", "personalization", "email marketing"]
+        },
+        {
+            "id": "marketing_270",
+            "category": "marketing",
+            "difficulty": "intermediate",
+            "question": "How can marketers reduce customer churn?",
+            "expected_keywords": ["retention", "loyalty programs", "customer service", "feedback", "engagement"]
+        },
+        {
+            "id": "marketing_271",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does neuromarketing impact consumer behavior?",
+            "expected_keywords": ["brain science", "psychology", "decision-making", "subconscious", "brand perception"]
+        },
+        {
+            "id": "marketing_272",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is predictive analytics in marketing?",
+            "expected_keywords": ["AI", "data", "forecasting", "customer behavior", "strategy"]
+        },
+        {
+            "id": "marketing_273",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How can blockchain technology impact digital advertising?",
+            "expected_keywords": ["transparency", "ad fraud", "data security", "smart contracts", "decentralization"]
+        },
+        {
+            "id": "marketing_274",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What is growth hacking in marketing?",
+            "expected_keywords": ["experimentation", "scalability", "low-cost", "innovation", "startups"]
+        },
+        {
+            "id": "marketing_275",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How do companies develop effective go-to-market strategies?",
+            "expected_keywords": ["product launch", "market entry", "target audience", "pricing", "distribution"]
+        },
+        {
+            "id": "marketing_276",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "What are dark patterns in marketing, and how do they affect consumer trust?",
+            "expected_keywords": ["deceptive UX", "manipulation", "ethics", "consumer protection", "trust"]
+        },
+        {
+            "id": "marketing_277",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does real-time marketing benefit brands?",
+            "expected_keywords": ["live events", "social media", "instant engagement", "brand relevance", "customer interaction"]
+        },
+        {
+            "id": "marketing_278",
+            "category": "marketing",
+            "difficulty": "advanced",
+            "question": "How does artificial intelligence impact digital marketing?",
+            "expected_keywords": ["automation", "personalization", "chatbots", "predictive analysis", "customer insights"]
+        }
+    ]
+}

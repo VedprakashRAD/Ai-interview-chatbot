@@ -1,0 +1,1782 @@
+{
+    "questions": [
+        {
+            "id": "sales_1",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "Can you walk me through your sales experience?",
+            "expected_keywords": ["experience", "roles", "responsibilities", "achievements", "background", "history"]
+        },
+        {
+            "id": "sales_2",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "Why did you choose a career in sales?",
+            "expected_keywords": ["passion", "interest", "motivation", "career choice", "decision", "reason"]
+        },
+        {
+            "id": "sales_3",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What do you enjoy most about sales?",
+            "expected_keywords": ["enjoyment", "satisfaction", "challenges", "rewards", "fulfillment", "pleasure"]
+        },
+        {
+            "id": "sales_4",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What do you find most challenging about sales?",
+            "expected_keywords": ["challenges", "difficulties", "obstacles", "solutions", "issues", "problems"]
+        },
+        {
+            "id": "sales_5",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you stay motivated in a sales job?",
+            "expected_keywords": ["motivation", "goals", "inspiration", "drive", "enthusiasm", "energy"]
+        },
+        {
+            "id": "sales_6",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you approach a new prospect?",
+            "expected_keywords": ["approach", "prospecting", "strategy", "techniques", "methods", "tactics"]
+        },
+        {
+            "id": "sales_7",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Can you describe your sales process from start to close?",
+            "expected_keywords": ["sales process", "steps", "methodology", "closing", "procedure", "workflow"]
+        },
+        {
+            "id": "sales_8",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you qualify leads?",
+            "expected_keywords": ["lead qualification", "criteria", "process", "evaluation", "assessment", "screening"]
+        },
+        {
+            "id": "sales_9",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What techniques do you use for handling objections?",
+            "expected_keywords": ["objection handling", "techniques", "strategies", "responses", "methods", "approaches"]
+        },
+        {
+            "id": "sales_10",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you build rapport with potential clients?",
+            "expected_keywords": ["rapport building", "relationship", "trust", "communication", "connection", "bonding"]
+        },
+        {
+            "id": "sales_11",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you close a sale?",
+            "expected_keywords": ["closing techniques", "strategies", "methods", "final steps", "approaches", "tactics"]
+        },
+        {
+            "id": "sales_12",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What are your favorite closing techniques?",
+            "expected_keywords": ["favorite techniques", "closing methods", "strategies", "approaches", "tactics", "preferences"]
+        },
+        {
+            "id": "sales_13",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Have you ever lost a deal? What did you learn from it?",
+            "expected_keywords": ["lost deal", "lessons learned", "experience", "improvement", "mistakes", "growth"]
+        },
+        {
+            "id": "sales_14",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle price objections?",
+            "expected_keywords": ["price objections", "handling techniques", "responses", "strategies", "methods", "approaches"]
+        },
+        {
+            "id": "sales_15",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle rejection in sales?",
+            "expected_keywords": ["rejection handling", "strategies", "techniques", "resilience", "responses", "approaches"]
+        },
+        {
+            "id": "sales_16",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What are the key sales metrics you track?",
+            "expected_keywords": ["sales metrics", "KPIs", "tracking", "performance", "indicators", "measurements"]
+        },
+        {
+            "id": "sales_17",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Can you talk about a time when you exceeded your sales target?",
+            "expected_keywords": ["exceeded targets", "success story", "achievement", "results", "performance", "outcome"]
+        },
+        {
+            "id": "sales_18",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Have you ever missed a sales quota? What did you do about it?",
+            "expected_keywords": ["missed quota", "actions taken", "lessons learned", "improvement", "response", "adjustments"]
+        },
+        {
+            "id": "sales_19",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you measure the success of your sales efforts?",
+            "expected_keywords": ["success measurement", "metrics", "evaluation", "performance", "indicators", "criteria"]
+        },
+        {
+            "id": "sales_20",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What’s your experience with CRM software?",
+            "expected_keywords": ["CRM software", "experience", "usage", "benefits", "tools", "applications"]
+        },
+        {
+            "id": "sales_21",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you research a product before selling it?",
+            "expected_keywords": ["product research", "methods", "techniques", "preparation", "analysis", "study"]
+        },
+        {
+            "id": "sales_22",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you keep up with industry trends?",
+            "expected_keywords": ["industry trends", "keeping up", "research", "updates", "monitoring", "tracking"]
+        },
+        {
+            "id": "sales_23",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you sell a product that you’re not familiar with?",
+            "expected_keywords": ["unfamiliar product", "selling techniques", "strategies", "approach", "methods", "tactics"]
+        },
+        {
+            "id": "sales_24",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Can you give an example of a time you had to sell a complex product?",
+            "expected_keywords": ["complex product", "example", "selling techniques", "approach", "methods", "strategies"]
+        },
+        {
+            "id": "sales_25",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How would you sell our product to a new customer?",
+            "expected_keywords": ["selling strategy", "new customer", "approach", "techniques", "methods", "tactics"]
+        },
+        {
+            "id": "sales_26",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Tell me about a time when you had to deal with a difficult client.",
+            "expected_keywords": ["difficult client", "example", "handling techniques", "resolution", "approach", "methods"]
+        },
+        {
+            "id": "sales_27",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Have you ever had to handle a conflict with a colleague or manager?",
+            "expected_keywords": ["conflict resolution", "colleague", "manager", "example", "handling", "approach"]
+        },
+        {
+            "id": "sales_28",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Tell me about a time when you went above and beyond for a customer.",
+            "expected_keywords": ["above and beyond", "customer service", "example", "results", "effort", "dedication"]
+        },
+        {
+            "id": "sales_29",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Can you describe a time when you turned a 'no' into a 'yes'?",
+            "expected_keywords": ["turned no into yes", "example", "techniques", "success", "approach", "methods"]
+        },
+        {
+            "id": "sales_30",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Have you ever had to negotiate a difficult deal? How did you handle it?",
+            "expected_keywords": ["difficult deal", "negotiation", "handling techniques", "example", "approach", "methods"]
+        },
+        {
+            "id": "sales_31",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle cold calling?",
+            "expected_keywords": ["cold calling", "techniques", "strategies", "approach", "methods", "tactics"]
+        },
+        {
+            "id": "sales_32",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What’s your strategy for handling gatekeepers?",
+            "expected_keywords": ["gatekeepers", "handling strategy", "techniques", "approach", "methods", "tactics"]
+        },
+        {
+            "id": "sales_33",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you generate new leads?",
+            "expected_keywords": ["lead generation", "techniques", "strategies", "approach", "methods", "tactics"]
+        },
+        {
+            "id": "sales_34",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you approach follow-ups with potential clients?",
+            "expected_keywords": ["follow-ups", "techniques", "strategies", "approach", "methods", "tactics"]
+        },
+        {
+            "id": "sales_35",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Have you ever turned a cold lead into a big sale?",
+            "expected_keywords": ["cold lead", "big sale", "example", "techniques", "success", "approach"]
+        },
+        {
+            "id": "sales_36",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you work with other departments like marketing and customer service?",
+            "expected_keywords": ["cross-department collaboration", "marketing", "customer service", "example", "teamwork", "coordination"]
+        },
+        {
+            "id": "sales_37",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Have you ever had to work on a team-based sales project?",
+            "expected_keywords": ["team-based project", "example", "collaboration", "results", "teamwork", "effort"]
+        },
+        {
+            "id": "sales_38",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you handle a competitive sales environment?",
+            "expected_keywords": ["competitive environment", "handling techniques", "strategies", "approach", "methods", "tactics"]
+        },
+        {
+            "id": "sales_39",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What role do you play in a team sales effort?",
+            "expected_keywords": ["team sales effort", "role", "responsibilities", "example", "contribution", "participation"]
+        },
+        {
+            "id": "sales_40",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you support teammates in achieving their sales goals?",
+            "expected_keywords": ["supporting teammates", "sales goals", "techniques", "example", "assistance", "collaboration"]
+        },
+        {
+            "id": "sales_41",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How would you sell me this pen?",
+            "expected_keywords": ["selling techniques", "approach", "example", "strategy", "methods", "tactics"]
+        },
+        {
+            "id": "sales_42",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Can you describe a time you had to think outside the box to close a sale?",
+            "expected_keywords": ["outside the box", "example", "techniques", "success", "creativity", "innovation"]
+        },
+        {
+            "id": "sales_43",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "If a customer says they’re not interested, how do you respond?",
+            "expected_keywords": ["not interested", "response", "techniques", "strategies", "approach", "methods"]
+        },
+        {
+            "id": "sales_44",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What do you do if a potential customer keeps delaying their purchase decision?",
+            "expected_keywords": ["delaying purchase", "response", "techniques", "strategies", "approach", "methods"]
+        },
+        {
+            "id": "sales_45",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "If you had to boost sales in a slow month, what would you do?",
+            "expected_keywords": ["boost sales", "slow month", "strategies", "techniques", "approach", "methods"]
+        },
+        {
+            "id": "sales_46",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Why do you want to work for our company?",
+            "expected_keywords": ["motivation", "company knowledge", "interest", "fit", "reasons", "alignment"]
+        },
+        {
+            "id": "sales_47",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What do you know about our products/services?",
+            "expected_keywords": ["product knowledge", "services", "research", "understanding", "information", "details"]
+        },
+        {
+            "id": "sales_48",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you think our product stands out from competitors?",
+            "expected_keywords": ["competitive advantage", "product differentiation", "unique features", "market position", "strengths", "benefits"]
+        },
+        {
+            "id": "sales_49",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What sales strategies would you use for our target audience?",
+            "expected_keywords": ["sales strategies", "target audience", "approach", "techniques", "methods", "tactics"]
+        },
+        {
+            "id": "sales_50",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Where do you see yourself in sales five years from now?",
+            "expected_keywords": ["future goals", "career path", "aspirations", "plans", "objectives", "vision"]
+        },
+        {
+            "id": "sales_51",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you prioritize leads in your sales pipeline?",
+            "expected_keywords": ["prioritize", "leads", "pipeline", "segmentation", "ranking", "evaluation"]
+        },
+        {
+            "id": "sales_52",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What do you think makes a successful salesperson?",
+            "expected_keywords": ["successful", "traits", "salesperson", "skills", "qualities", "attributes"]
+        },
+        {
+            "id": "sales_53",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you approach setting sales targets?",
+            "expected_keywords": ["setting", "sales targets", "goals", "strategy", "planning", "objectives"]
+        },
+        {
+            "id": "sales_54",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What methods do you use to track your sales performance?",
+            "expected_keywords": ["track", "performance", "methods", "metrics", "monitoring", "evaluation"]
+        },
+        {
+            "id": "sales_55",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you follow up after an initial sales meeting?",
+            "expected_keywords": ["follow up", "sales meeting", "client", "engagement", "communication", "contact"]
+        },
+        {
+            "id": "sales_56",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Can you describe a time when you successfully upsold a product?",
+            "expected_keywords": ["upsell", "product", "customer", "success", "example", "techniques"]
+        },
+        {
+            "id": "sales_57",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What steps do you take to handle a difficult customer situation?",
+            "expected_keywords": ["handle", "difficult customer", "situation", "problem-solving", "resolution", "approach"]
+        },
+        {
+            "id": "sales_58",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you stay organized while managing multiple sales opportunities?",
+            "expected_keywords": ["organized", "multiple opportunities", "time management", "task prioritization", "efficiency", "planning"]
+        },
+        {
+            "id": "sales_59",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you build a sales pipeline from scratch?",
+            "expected_keywords": ["build", "sales pipeline", "strategy", "prospecting", "development", "creation"]
+        },
+        {
+            "id": "sales_60",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you prepare for a sales call with a potential client?",
+            "expected_keywords": ["prepare", "sales call", "client", "research", "planning", "strategy"]
+        },
+        {
+            "id": "sales_61",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What tools do you use to help with your sales process?",
+            "expected_keywords": ["tools", "sales process", "CRM", "software", "applications", "technology"]
+        },
+        {
+            "id": "sales_62",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you determine the right pricing strategy for a product?",
+            "expected_keywords": ["pricing strategy", "product", "value", "market", "analysis", "evaluation"]
+        },
+        {
+            "id": "sales_63",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What role does customer feedback play in your sales approach?",
+            "expected_keywords": ["customer feedback", "sales approach", "improvement", "product development", "adjustments", "evaluation"]
+        },
+        {
+            "id": "sales_64",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you manage your time to meet deadlines in a sales role?",
+            "expected_keywords": ["manage time", "deadlines", "sales role", "productivity", "efficiency", "planning"]
+        },
+        {
+            "id": "sales_65",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What is your approach to building long-term relationships with clients?",
+            "expected_keywords": ["long-term relationships", "client", "trust", "communication", "engagement", "loyalty"]
+        },
+        {
+            "id": "sales_66",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you adjust your sales approach for different industries?",
+            "expected_keywords": ["adjust", "sales approach", "industries", "target market", "customization", "adaptation"]
+        },
+        {
+            "id": "sales_67",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Can you explain how you use data to inform your sales strategy?",
+            "expected_keywords": ["data", "sales strategy", "analytics", "decision-making", "insights", "evaluation"]
+        },
+        {
+            "id": "sales_68",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you manage relationships with key decision-makers in a company?",
+            "expected_keywords": ["relationships", "key decision-makers", "B2B", "influence", "engagement", "communication"]
+        },
+        {
+            "id": "sales_69",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Describe a time when you turned around a failing sales deal.",
+            "expected_keywords": ["failing deal", "turnaround", "strategy", "recovery", "example", "techniques"]
+        },
+        {
+            "id": "sales_70",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What strategies do you use to maintain your motivation during a sales slump?",
+            "expected_keywords": ["motivation", "sales slump", "resilience", "focus", "strategies", "techniques"]
+        },
+        {
+            "id": "sales_71",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you handle objections from customers?",
+            "expected_keywords": ["handle", "objections", "customers", "overcoming"]
+        },
+        {
+            "id": "sales_72",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you approach a cold call to a potential client?",
+            "expected_keywords": ["cold call", "approach", "client", "pitch"]
+        },
+        {
+            "id": "sales_73",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What do you consider the most important trait for building rapport with a client?",
+            "expected_keywords": ["rapport", "client", "traits", "trust"]
+        },
+        {
+            "id": "sales_74",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you ensure you’re meeting a client’s needs during a sales conversation?",
+            "expected_keywords": ["meet needs", "sales conversation", "client", "requirements"]
+        },
+        {
+            "id": "sales_75",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you deal with a client who is indecisive about purchasing?",
+            "expected_keywords": ["indecisive", "client", "purchase", "persuasion"]
+        },
+        {
+            "id": "sales_76",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What would you do if a client is comparing your product to a competitor’s?",
+            "expected_keywords": ["competitor", "product comparison", "client", "differentiation"]
+        },
+        {
+            "id": "sales_77",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you motivate yourself during a slow sales period?",
+            "expected_keywords": ["motivation", "slow period", "self-discipline", "strategy"]
+        },
+        {
+            "id": "sales_78",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What kind of research do you conduct before a sales meeting?",
+            "expected_keywords": ["research", "sales meeting", "client", "preparation"]
+        },
+        {
+            "id": "sales_79",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you identify and target high-value customers?",
+            "expected_keywords": ["identify", "target", "high-value", "customer segmentation"]
+        },
+        {
+            "id": "sales_80",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What is your approach to cross-selling within your sales process?",
+            "expected_keywords": ["cross-sell", "sales process", "up-sell", "product offerings"]
+        },
+        {
+            "id": "sales_81",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Can you explain a time when you successfully closed a challenging sale?",
+            "expected_keywords": ["close", "challenging sale", "success", "strategy"]
+        },
+        {
+            "id": "sales_82",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What kind of metrics do you track to ensure you’re achieving your sales goals?",
+            "expected_keywords": ["metrics", "track", "sales goals", "KPIs"]
+        },
+        {
+            "id": "sales_83",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle a situation where a client expresses dissatisfaction with the product?",
+            "expected_keywords": ["dissatisfaction", "client", "product", "problem-solving"]
+        },
+        {
+            "id": "sales_84",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you identify a sales opportunity in an unexpected situation?",
+            "expected_keywords": ["identify", "sales opportunity", "unexpected", "creative thinking"]
+        },
+        {
+            "id": "sales_85",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What do you think is the biggest mistake salespeople make when closing a deal?",
+            "expected_keywords": ["biggest mistake", "closing deal", "salesperson", "common errors"]
+        },
+        {
+            "id": "sales_86",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you negotiate with a client when they want a better price but you're unable to lower it?",
+            "expected_keywords": ["negotiate", "better price", "client", "compromise"]
+        },
+        {
+            "id": "sales_87",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you manage multiple accounts with competing priorities?",
+            "expected_keywords": ["multiple accounts", "competing priorities", "time management", "strategy"]
+        },
+        {
+            "id": "sales_88",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Can you explain your approach to nurturing long-term client relationships?",
+            "expected_keywords": ["nurturing", "long-term relationships", "client", "loyalty"]
+        },
+        {
+            "id": "sales_89",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What are the most effective techniques you've used to overcome objections during a presentation?",
+            "expected_keywords": ["overcome objections", "presentation", "techniques", "persuasion"]
+        },
+        {
+            "id": "sales_90",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you deal with a situation where a client wants to delay their decision-making process?",
+            "expected_keywords": ["delay", "decision-making", "client", "negotiation"]
+        },
+        {
+            "id": "sales_91",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What strategies do you use to increase your conversion rate with high-value leads?",
+            "expected_keywords": ["conversion rate", "high-value leads", "strategies", "closing techniques"]
+        },
+        {
+            "id": "sales_92",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you ensure alignment between the sales and marketing teams?",
+            "expected_keywords": ["alignment", "sales", "marketing", "collaboration"]
+        },
+        {
+            "id": "sales_93",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you handle high-pressure situations during the final stages of closing a deal?",
+            "expected_keywords": ["high-pressure", "closing stages", "deal", "decision-making"]
+        },
+        {
+            "id": "sales_94",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Can you describe your approach to managing large accounts with a long sales cycle?",
+            "expected_keywords": ["large accounts", "long sales cycle", "management", "strategy"]
+        },
+        {
+            "id": "sales_95",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you integrate feedback from previous deals into future sales strategies?",
+            "expected_keywords": ["feedback", "previous deals", "future sales", "strategy"]
+        },
+        {
+            "id": "sales_96",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What are some of the key factors you consider when forecasting sales for a quarter?",
+            "expected_keywords": ["forecasting", "sales", "quarter", "factors"]
+        },
+        {
+            "id": "sales_97",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you leverage social media in your sales approach?",
+            "expected_keywords": ["social media", "sales", "strategy", "engagement"]
+        },
+        {
+            "id": "sales_98",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What is your strategy for dealing with competitors who offer similar products at lower prices?",
+            "expected_keywords": ["competitors", "similar products", "lower prices", "differentiation"]
+        },
+        {
+            "id": "sales_99",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you measure the effectiveness of a sales campaign?",
+            "expected_keywords": ["measure", "effectiveness", "sales campaign", "metrics"]
+        },
+        {
+            "id": "sales_100",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you ensure customer satisfaction post-sale?",
+            "expected_keywords": ["customer satisfaction", "post-sale", "follow-up", "loyalty"]
+        },
+        {
+            "id": "sales_101",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you introduce yourself to a potential client?",
+            "expected_keywords": ["introduce", "potential client", "first impression", "pitch"]
+        },
+        {
+            "id": "sales_102",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What strategies do you use to establish credibility with new clients?",
+            "expected_keywords": ["strategies", "credibility", "new clients", "trust"]
+        },
+        {
+            "id": "sales_103",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you gather information about a client’s needs?",
+            "expected_keywords": ["gather", "information", "client", "needs", "research"]
+        },
+        {
+            "id": "sales_104",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What role does empathy play in your sales process?",
+            "expected_keywords": ["empathy", "sales process", "understanding", "relationship"]
+        },
+        {
+            "id": "sales_105",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you manage objections when they arise during a sales pitch?",
+            "expected_keywords": ["manage", "objections", "sales pitch", "handling"]
+        },
+        {
+            "id": "sales_106",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you use storytelling to close a sale?",
+            "expected_keywords": ["storytelling", "close", "sale", "persuasion"]
+        },
+        {
+            "id": "sales_107",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you decide when to offer discounts to close a deal?",
+            "expected_keywords": ["offer discounts", "close deal", "timing", "pricing strategy"]
+        },
+        {
+            "id": "sales_108",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Describe a time when you had to go above and beyond to close a sale.",
+            "expected_keywords": ["above and beyond", "close sale", "extra effort", "successful"]
+        },
+        {
+            "id": "sales_109",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you approach selling to a decision-maker versus an influencer?",
+            "expected_keywords": ["decision-maker", "influencer", "sales approach", "targeting"]
+        },
+        {
+            "id": "sales_110",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you balance the need to hit your sales targets with maintaining strong relationships with clients?",
+            "expected_keywords": ["balance", "sales targets", "client relationships", "prioritization"]
+        },
+        {
+            "id": "sales_111",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What are the key elements that make a sales pitch effective?",
+            "expected_keywords": ["key elements", "sales pitch", "effective", "presentation"]
+        },
+        {
+            "id": "sales_112",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle a situation when a client asks for more than what your product offers?",
+            "expected_keywords": ["handle", "client", "exceeding", "product offerings", "negotiation"]
+        },
+        {
+            "id": "sales_113",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What do you do when you encounter a prospect who is not ready to make a decision yet?",
+            "expected_keywords": ["prospect", "decision", "objection handling", "patience"]
+        },
+        {
+            "id": "sales_114",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you build trust during a long sales cycle?",
+            "expected_keywords": ["build trust", "long sales cycle", "relationship", "credibility"]
+        },
+        {
+            "id": "sales_115",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What methods do you use to gain insight into customer satisfaction?",
+            "expected_keywords": ["customer satisfaction", "methods", "insight", "feedback"]
+        },
+        {
+            "id": "sales_116",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you stay motivated when facing frequent rejections?",
+            "expected_keywords": ["motivation", "rejections", "persistence", "resilience"]
+        },
+        {
+            "id": "sales_117",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What types of CRM tools have you used in past roles?",
+            "expected_keywords": ["CRM", "tools", "sales management", "experience"]
+        },
+        {
+            "id": "sales_118",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you measure the ROI on your sales efforts?",
+            "expected_keywords": ["measure", "ROI", "sales efforts", "metrics"]
+        },
+        {
+            "id": "sales_119",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you approach a prospect who has already been approached by multiple salespeople?",
+            "expected_keywords": ["approach", "prospect", "competition", "differentiation"]
+        },
+        {
+            "id": "sales_120",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "Describe a time when you had to negotiate a complex deal with a client.",
+            "expected_keywords": ["negotiate", "complex deal", "client", "strategy"]
+        },
+        {
+            "id": "sales_121",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you approach closing a deal in a competitive market?",
+            "expected_keywords": ["competitive market", "deal closing", "market differentiation", "sales strategy"]
+        },
+        {
+            "id": "sales_122",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you identify upselling opportunities in existing accounts?",
+            "expected_keywords": ["upsell", "opportunities", "existing accounts", "sales techniques"]
+        },
+        {
+            "id": "sales_123",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you manage and mitigate risk when managing large deals?",
+            "expected_keywords": ["risk management", "large deals", "negotiation", "mitigation"]
+        },
+        {
+            "id": "sales_124",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you integrate feedback from customers into your sales process?",
+            "expected_keywords": ["feedback", "customers", "sales process", "improvement"]
+        },
+        {
+            "id": "sales_125",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What steps do you take to ensure customer retention after a sale is made?",
+            "expected_keywords": ["customer retention", "post-sale", "relationship", "loyalty"]
+        },
+        {
+            "id": "sales_126",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you tailor your sales pitch to match the communication style of a client?",
+            "expected_keywords": ["tailor", "sales pitch", "communication style", "adaptation"]
+        },
+        {
+            "id": "sales_127",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you manage the sales process for a product with a long lifecycle?",
+            "expected_keywords": ["sales process", "long lifecycle", "product", "management"]
+        },
+        {
+            "id": "sales_128",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What strategies do you use to convert inbound leads into sales?",
+            "expected_keywords": ["strategies", "inbound leads", "conversion", "closing"]
+        },
+        {
+            "id": "sales_129",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you stay updated on market trends and industry developments?",
+            "expected_keywords": ["market trends", "industry developments", "up-to-date", "research"]
+        },
+        {
+            "id": "sales_130",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you use data analytics to optimize your sales strategy?",
+            "expected_keywords": ["data analytics", "sales strategy", "optimization", "performance", "insights", "analysis"]
+        },
+        {
+            "id": "sales_131",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you identify a qualified lead?",
+            "expected_keywords": ["qualified lead", "identification", "criteria", "prospecting", "evaluation", "assessment"]
+        },
+        {
+            "id": "sales_132",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What strategies do you use to close sales in a highly competitive market?",
+            "expected_keywords": ["strategies", "competitive market", "closing", "differentiation", "techniques", "approaches"]
+        },
+        {
+            "id": "sales_133",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle situations when a customer asks for a price reduction?",
+            "expected_keywords": ["price reduction", "customer objection", "negotiation", "value", "response", "handling"]
+        },
+        {
+            "id": "sales_134",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Describe a time when you overcame a difficult sales objection.",
+            "expected_keywords": ["overcome", "sales objection", "challenge", "solution", "example", "techniques"]
+        },
+        {
+            "id": "sales_135",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What steps do you take when handling a difficult or dissatisfied client?",
+            "expected_keywords": ["difficult client", "dissatisfied", "problem-solving", "customer satisfaction", "resolution", "approach"]
+        },
+        {
+            "id": "sales_136",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you prioritize leads and manage time effectively?",
+            "expected_keywords": ["prioritize", "leads", "time management", "efficiency", "organization", "planning"]
+        },
+        {
+            "id": "sales_137",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you balance short-term sales goals with long-term customer relationships?",
+            "expected_keywords": ["short-term", "long-term", "sales goals", "relationships", "strategy", "planning"]
+        },
+        {
+            "id": "sales_138",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What methods do you use to build rapport with potential clients?",
+            "expected_keywords": ["methods", "rapport", "building relationships", "communication", "trust", "connection"]
+        },
+        {
+            "id": "sales_139",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What do you think is the most important trait for a successful salesperson?",
+            "expected_keywords": ["most important trait", "salesperson", "qualities", "success", "attributes", "skills"]
+        },
+        {
+            "id": "sales_140",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you use social media for lead generation?",
+            "expected_keywords": ["social media", "lead generation", "digital marketing", "tools", "strategies", "techniques"]
+        },
+        {
+            "id": "sales_141",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle multiple prospects at different stages of the sales funnel?",
+            "expected_keywords": ["multiple prospects", "sales funnel", "stages", "management", "organization", "tracking"]
+        },
+        {
+            "id": "sales_142",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you approach a cold call?",
+            "expected_keywords": ["cold call", "approach", "techniques", "engagement", "strategy", "methods"]
+        },
+        {
+            "id": "sales_143",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you tailor your sales pitch for different types of clients?",
+            "expected_keywords": ["tailor", "sales pitch", "client types", "adaptation", "customization", "approach"]
+        },
+        {
+            "id": "sales_144",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you follow up after a sales meeting?",
+            "expected_keywords": ["follow-up", "sales meeting", "communication", "next steps", "engagement", "contact"]
+        },
+        {
+            "id": "sales_145",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you assess the needs of a customer during a sales meeting?",
+            "expected_keywords": ["assess", "needs", "customer", "meeting", "questions", "evaluation"]
+        },
+        {
+            "id": "sales_146",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you deal with sales objections that you believe are based on misconceptions?",
+            "expected_keywords": ["sales objections", "misconceptions", "handling", "clarification", "responses", "strategies"]
+        },
+        {
+            "id": "sales_147",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you stay organized when managing multiple clients and leads?",
+            "expected_keywords": ["organized", "multiple clients", "leads", "tools", "CRM", "management"]
+        },
+        {
+            "id": "sales_148",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you know when a prospect is ready to buy?",
+            "expected_keywords": ["prospect", "ready to buy", "signs", "closing", "indicators", "evaluation"]
+        },
+        {
+            "id": "sales_149",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you qualify leads when you first meet them?",
+            "expected_keywords": ["qualify", "leads", "first meeting", "criteria", "evaluation", "assessment"]
+        },
+        {
+            "id": "sales_150",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What is your approach to selling to C-level executives?",
+            "expected_keywords": ["C-level executives", "selling", "approach", "executive communication", "strategy", "techniques"]
+        },
+        {
+            "id": "sales_151",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What role does networking play in your sales strategy?",
+            "expected_keywords": ["networking", "role", "sales strategy", "connections", "relationships", "engagement"]
+        },
+        {
+            "id": "sales_152",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle rejection after a failed sale?",
+            "expected_keywords": ["rejection", "failed sale", "resilience", "bouncing back", "response", "handling"]
+        },
+        {
+            "id": "sales_153",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you stay focused on your sales goals during slow periods?",
+            "expected_keywords": ["focused", "sales goals", "slow periods", "motivation", "strategy", "planning"]
+        },
+        {
+            "id": "sales_154",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you manage sales targets and quotas?",
+            "expected_keywords": ["sales targets", "quotas", "management", "strategies", "planning", "tracking"]
+        },
+        {
+            "id": "sales_155",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What is your experience with using email marketing in sales?",
+            "expected_keywords": ["email marketing", "sales", "experience", "strategies", "campaigns", "techniques"]
+        },
+        {
+            "id": "sales_156",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you align your sales process with your customer’s buying process?",
+            "expected_keywords": ["align", "sales process", "customer buying process", "stages", "integration", "coordination"]
+        },
+        {
+            "id": "sales_157",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you make sure you’re adding value during every client interaction?",
+            "expected_keywords": ["adding value", "client interaction", "engagement", "communication", "benefits", "relationship"]
+        },
+        {
+            "id": "sales_158",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What do you believe is the most effective way to handle a sales pipeline?",
+            "expected_keywords": ["sales pipeline", "handling", "management", "stages", "organization", "tracking"]
+        },
+        {
+            "id": "sales_159",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you collaborate with other teams (e.g., marketing, product) during the sales process?",
+            "expected_keywords": ["collaboration", "teams", "marketing", "product", "sales process", "coordination"]
+        },
+        {
+            "id": "sales_160",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you assess the effectiveness of your sales strategy?",
+            "expected_keywords": ["effectiveness", "sales strategy", "metrics", "adjustments", "evaluation", "performance"]
+        },
+        {
+            "id": "sales_161",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you balance your time between prospecting new leads and nurturing existing client relationships?",
+            "expected_keywords": ["balancing time", "prospecting", "new leads", "client relationships", "time management", "prioritization"]
+        },
+        {
+            "id": "sales_162",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Can you describe a successful approach you’ve used to close a sale with a high-level decision-maker?",
+            "expected_keywords": ["successful approach", "close sale", "high-level decision-maker", "strategy", "techniques", "methods"]
+        },
+        {
+            "id": "sales_163",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you manage the balance between meeting your sales quotas and maintaining a high level of customer satisfaction?",
+            "expected_keywords": ["sales quotas", "customer satisfaction", "balancing", "sales goals", "prioritization", "management"]
+        },
+        {
+            "id": "sales_164",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you prioritize your leads when there is limited time or resources available?",
+            "expected_keywords": ["prioritize", "leads", "limited resources", "time management", "efficiency", "evaluation"]
+        },
+        {
+            "id": "sales_165",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What are some strategies you use to ensure consistent follow-up and communication with potential clients?",
+            "expected_keywords": ["strategies", "follow-up", "communication", "client engagement", "consistency", "techniques"]
+        },
+        {
+            "id": "sales_166",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle a situation where a potential client seems interested but does not make a decision for a long time?",
+            "expected_keywords": ["long decision cycle", "handling", "follow-up", "client interest", "persistence", "strategies"]
+        },
+        {
+            "id": "sales_167",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you use competitive intelligence to inform your sales strategy and differentiate yourself in the market?",
+            "expected_keywords": ["competitive intelligence", "sales strategy", "market differentiation", "insights", "analysis", "research"]
+        },
+        {
+            "id": "sales_168",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What tactics do you use to turn a hesitant lead into a motivated buyer?",
+            "expected_keywords": ["hesitant lead", "motivated buyer", "tactics", "conversion", "techniques", "strategies"]
+        },
+        {
+            "id": "sales_169",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Can you provide an example of a time you had to adjust your approach due to a customer’s changing needs or objections?",
+            "expected_keywords": ["adjust approach", "customer needs", "objections", "flexibility", "adaptation", "example"]
+        },
+        {
+            "id": "sales_170",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you ensure you are effectively managing your sales pipeline at every stage of the process?",
+            "expected_keywords": ["sales pipeline", "manage", "stages", "effectiveness", "tracking", "organization"]
+        },
+        {
+            "id": "sales_171",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Describe your process for preparing for and executing a successful cold call.",
+            "expected_keywords": ["cold call", "preparation", "execution", "success", "techniques", "strategies"]
+        },
+        {
+            "id": "sales_172",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What do you do when a prospect raises concerns about the product’s features or benefits?",
+            "expected_keywords": ["prospect concerns", "product features", "benefits", "objection handling", "responses", "strategies"]
+        },
+        {
+            "id": "sales_173",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you manage situations where there is a conflict between customer expectations and the product you are selling?",
+            "expected_keywords": ["conflict", "customer expectations", "product", "managing", "resolution", "handling"]
+        },
+        {
+            "id": "sales_174",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "When working with a team of salespeople, how do you ensure collaboration while maintaining individual sales targets?",
+            "expected_keywords": ["team collaboration", "individual targets", "sales team", "working together", "coordination", "teamwork"]
+        },
+        {
+            "id": "sales_175",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you tailor your pitch based on the customer’s industry, company size, or unique pain points?",
+            "expected_keywords": ["tailor pitch", "customer industry", "company size", "pain points", "customization", "adaptation"]
+        },
+        {
+            "id": "sales_176",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you ensure that you are offering the most relevant solutions to your clients without overselling?",
+            "expected_keywords": ["relevant solutions", "clients", "avoiding overselling", "consultative selling", "needs assessment", "value"]
+        },
+        {
+            "id": "sales_177",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What are the key elements of a successful sales negotiation, and how do you implement them?",
+            "expected_keywords": ["sales negotiation", "successful", "key elements", "implementation", "techniques", "strategies"]
+        },
+        {
+            "id": "sales_178",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you assess the decision-making process within a company and navigate it effectively?",
+            "expected_keywords": ["decision-making", "company", "navigate", "process", "evaluation", "understanding"]
+        },
+        {
+            "id": "sales_179",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What are some tactics you use to build trust with a new client during the initial stages of the relationship?",
+            "expected_keywords": ["build trust", "new client", "initial stages", "relationship", "techniques", "strategies"]
+        },
+        {
+            "id": "sales_180",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you leverage data and analytics to optimize your sales efforts?",
+            "expected_keywords": ["data", "analytics", "optimize", "sales efforts", "insights", "performance"]
+        },
+        {
+            "id": "sales_181",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle a situation where a prospect has a bad experience with the product but is still open to discussing alternatives?",
+            "expected_keywords": ["bad experience", "product", "prospect", "alternative solutions", "handling", "resolution"]
+        },
+        {
+            "id": "sales_182",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you assess a potential customer’s budget and ensure your solution fits within it?",
+            "expected_keywords": ["assess budget", "customer", "solution", "fit", "evaluation", "alignment"]
+        },
+        {
+            "id": "sales_183",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you track your sales performance, and what metrics do you consider most important?",
+            "expected_keywords": ["track performance", "sales metrics", "important", "KPIs", "monitoring", "evaluation"]
+        },
+        {
+            "id": "sales_184",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you manage customer expectations when delivering a product or service?",
+            "expected_keywords": ["manage expectations", "customer", "delivery", "service", "communication", "satisfaction"]
+        },
+        {
+            "id": "sales_185",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you create urgency in the sales process without pressuring the customer?",
+            "expected_keywords": ["create urgency", "sales process", "pressure", "timing", "motivation", "techniques"]
+        },
+        {
+            "id": "sales_186",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you ensure long-term customer retention after the sale has been closed?",
+            "expected_keywords": ["long-term retention", "customer", "post-sale", "relationship", "loyalty", "engagement"]
+        },
+        {
+            "id": "sales_187",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you approach clients who are not responsive to your outreach efforts?",
+            "expected_keywords": ["not responsive", "outreach", "approach", "engagement", "follow-up", "techniques"]
+        },
+        {
+            "id": "sales_188",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle a situation where a deal seems promising but starts to lose momentum?",
+            "expected_keywords": ["deal momentum", "losing", "handling", "revival", "strategies", "techniques"]
+        },
+        {
+            "id": "sales_189",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you stay motivated when facing rejection or difficult sales periods?",
+            "expected_keywords": ["motivation", "rejection", "difficult periods", "resilience", "persistence", "strategies"]
+        },
+        {
+            "id": "sales_190",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you measure the success of a sales campaign or initiative?",
+            "expected_keywords": ["sales campaign", "measure success", "effectiveness", "metrics", "evaluation", "performance"]
+        },
+        {
+            "id": "sales_191",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you differentiate yourself from competitors when selling the same or similar products?",
+            "expected_keywords": ["differentiation", "competition", "selling", "unique value", "strategies", "techniques"]
+        },
+        {
+            "id": "sales_192",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you determine when to upsell or cross-sell to an existing customer?",
+            "expected_keywords": ["upsell", "cross-sell", "existing customer", "timing", "opportunities", "evaluation"]
+        },
+        {
+            "id": "sales_193",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What is your approach when dealing with a customer who is already loyal to a competitor?",
+            "expected_keywords": ["loyal customer", "competitor", "approach", "conversion", "strategies", "techniques"]
+        },
+        {
+            "id": "sales_194",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What is your understanding of the sales funnel, and how does it apply to your sales process?",
+            "expected_keywords": ["sales funnel", "sales process", "awareness", "leads", "conversion"]
+        },
+        {
+            "id": "sales_195",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you introduce yourself and your product to a new prospect?",
+            "expected_keywords": ["introducing", "self", "product", "prospect", "first impression"]
+        },
+        {
+            "id": "sales_196",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What do you think is the most important skill for a sales representative to succeed?",
+            "expected_keywords": ["most important skill", "sales representative", "success", "communication"]
+        },
+        {
+            "id": "sales_197",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you qualify a lead, and what are the key factors you consider?",
+            "expected_keywords": ["qualify lead", "key factors", "lead qualification", "criteria"]
+        },
+        {
+            "id": "sales_198",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you build rapport with a potential client during the first meeting?",
+            "expected_keywords": ["build rapport", "potential client", "first meeting", "trust"]
+        },
+        {
+            "id": "sales_199",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Describe a time when you had to overcome a tough objection from a client. How did you handle it?",
+            "expected_keywords": ["overcome objection", "tough client", "handling objections", "problem-solving"]
+        },
+        {
+            "id": "sales_200",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What are the key elements that contribute to a successful cold outreach campaign?",
+            "expected_keywords": ["cold outreach", "successful campaign", "elements", "strategy", "engagement", "conversion"]
+        },
+        {
+            "id": "sales_201",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you determine whether a prospect is ready to buy, and when is the right time to push for a sale?",
+            "expected_keywords": ["prospect readiness", "buying signals", "right timing", "push for sale", "evaluation", "indicators"]
+        },
+        {
+            "id": "sales_202",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you maintain a high level of motivation and focus during long sales cycles?",
+            "expected_keywords": ["motivation", "focus", "long sales cycles", "resilience", "persistence", "strategies"]
+        },
+        {
+            "id": "sales_203",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What do you consider to be the most effective way to present your product or service to a large audience?",
+            "expected_keywords": ["effective presentation", "large audience", "product/service", "engagement", "techniques", "methods"]
+        },
+        {
+            "id": "sales_204",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you build and nurture relationships with clients in a long-term sales process?",
+            "expected_keywords": ["nurturing relationships", "long-term sales", "client engagement", "trust", "loyalty", "communication"]
+        },
+        {
+            "id": "sales_205",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle a situation where a customer has multiple questions or concerns about the product?",
+            "expected_keywords": ["customer questions", "handling concerns", "product", "clear communication", "responses", "solutions"]
+        },
+        {
+            "id": "sales_206",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "Can you describe a time when you successfully turned a difficult lead into a paying customer?",
+            "expected_keywords": ["difficult lead", "success", "turnaround", "paying customer", "example", "techniques"]
+        },
+        {
+            "id": "sales_207",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you ensure that your product/service stands out in a crowded market?",
+            "expected_keywords": ["differentiation", "market", "competitive edge", "unique value", "positioning", "branding"]
+        },
+        {
+            "id": "sales_208",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle a situation where a deal seems to be stalling, and the client is hesitant to move forward?",
+            "expected_keywords": ["deal stalling", "hesitant client", "re-engage", "closing strategy", "follow-up", "persistence"]
+        },
+        {
+            "id": "sales_209",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What steps do you take to ensure that you are continuously improving your sales skills?",
+            "expected_keywords": ["continuous improvement", "sales skills", "self-reflection", "training", "development", "learning"]
+        },
+        {
+            "id": "sales_210",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you measure your success as a salesperson beyond just hitting revenue targets?",
+            "expected_keywords": ["measure success", "beyond revenue", "KPIs", "customer satisfaction", "performance", "evaluation"]
+        },
+        {
+            "id": "sales_211",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you handle objections related to pricing, especially when dealing with high-value customers?",
+            "expected_keywords": ["pricing objections", "high-value customers", "negotiation", "value", "responses", "strategies"]
+        },
+        {
+            "id": "sales_212",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you approach creating a comprehensive sales strategy for a new product launch?",
+            "expected_keywords": ["sales strategy", "product launch", "comprehensive", "go-to-market", "planning", "execution"]
+        },
+        {
+            "id": "sales_213",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What role does emotional intelligence play in your approach to sales, and how do you apply it during the sales process?",
+            "expected_keywords": ["emotional intelligence", "sales process", "application", "rapport", "empathy", "understanding"]
+        },
+        {
+            "id": "sales_214",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you align your sales efforts with the broader company goals and objectives?",
+            "expected_keywords": ["align sales", "company goals", "strategy", "team objectives", "coordination", "integration"]
+        },
+        {
+            "id": "sales_215",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you deal with the pressure of meeting sales targets while ensuring quality customer engagement?",
+            "expected_keywords": ["pressure", "sales targets", "quality", "customer engagement", "balance", "management"]
+        },
+        {
+            "id": "sales_216",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you manage key accounts and ensure long-term success with your most important clients?",
+            "expected_keywords": ["key accounts", "long-term success", "relationship management", "high-value clients", "retention", "loyalty"]
+        },
+        {
+            "id": "sales_217",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you evaluate and select potential sales partners or channel partners for expanding your market reach?",
+            "expected_keywords": ["sales partners", "channel partners", "market reach", "evaluation criteria", "selection", "collaboration"]
+        },
+        {
+            "id": "sales_218",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you handle a situation where the product you're selling doesn't completely meet the client’s needs?",
+            "expected_keywords": ["product shortcomings", "client needs", "adapt", "solution-oriented", "customization", "adjustments"]
+        },
+        {
+            "id": "sales_219",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you navigate complex decision-making processes within large organizations?",
+            "expected_keywords": ["complex decisions", "large organizations", "decision-making", "strategy", "navigation", "influence"]
+        },
+        {
+            "id": "sales_220",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you prioritize high-value clients when you have multiple deals in the pipeline?",
+            "expected_keywords": ["high-value clients", "prioritization", "sales pipeline", "deal management", "evaluation", "ranking"]
+        },
+        {
+            "id": "sales_221",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What strategies do you use to close deals faster without compromising on relationship-building?",
+            "expected_keywords": ["close deals", "relationship-building", "speed", "negotiation", "techniques", "methods"]
+        },
+        {
+            "id": "sales_222",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you approach selling a solution to a client with unique needs that require customization?",
+            "expected_keywords": ["unique needs", "solution-selling", "customization", "tailored approach", "adaptation", "flexibility"]
+        },
+        {
+            "id": "sales_223",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What do you think is the key difference between a product-based and a solution-based sale?",
+            "expected_keywords": ["product-based", "solution-based", "key difference", "sales approach", "comparison", "benefits"]
+        },
+        {
+            "id": "sales_224",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "What is the role of follow-up in the sales process?",
+            "expected_keywords": ["follow-up", "sales process", "importance", "customer relations", "engagement", "retention"]
+        },
+        {
+            "id": "sales_225",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How would you explain the benefits of our product to someone who is unfamiliar with it?",
+            "expected_keywords": ["product benefits", "explanation", "unfamiliar", "simplicity", "features", "advantages"]
+        },
+        {
+            "id": "sales_226",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "How do you identify potential clients for your product or service?",
+            "expected_keywords": ["identifying", "potential clients", "target audience", "market research", "prospecting", "segmentation"]
+        },
+        {
+            "id": "sales_227",
+            "category": "sales",
+            "difficulty": "beginner",
+            "question": "Describe a situation where you successfully closed a sale through effective communication.",
+            "expected_keywords": ["successful sale", "effective communication", "closing", "relationship-building", "example", "techniques"]
+        },
+        {
+            "id": "sales_228",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you decide whether to continue pursuing a lead or abandon it?",
+            "expected_keywords": ["pursuing lead", "abandoning", "lead qualification", "evaluation", "criteria", "decision-making"]
+        },
+        {
+            "id": "sales_229",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What strategies do you use to handle high-pressure situations when dealing with a potential client?",
+            "expected_keywords": ["high-pressure", "strategies", "dealing", "potential client", "stress management", "techniques"]
+        },
+        {
+            "id": "sales_230",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What factors do you consider when pricing a product or service for a potential client?",
+            "expected_keywords": ["pricing", "product", "service", "value", "client-specific", "market analysis"]
+        },
+        {
+            "id": "sales_231",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you ensure that your sales strategy aligns with the overall marketing and business strategies?",
+            "expected_keywords": ["sales strategy", "alignment", "marketing", "business strategy", "coordination", "integration"]
+        },
+        {
+            "id": "sales_232",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you handle a situation where the product's features don't fully meet the client's needs?",
+            "expected_keywords": ["product features", "client needs", "addressing gaps", "solution-oriented", "adaptation", "customization"]
+        },
+        {
+            "id": "sales_233",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How would you approach a negotiation when the client is asking for a lower price?",
+            "expected_keywords": ["negotiation", "lower price", "value", "compromise", "discounts", "bargaining"]
+        },
+        {
+            "id": "sales_234",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What is your approach to managing your sales pipeline, and how do you prioritize your leads?",
+            "expected_keywords": ["sales pipeline", "managing", "prioritization", "leads", "organization", "tracking"]
+        },
+        {
+            "id": "sales_235",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you determine if a product should be sold as a bundle or individually?",
+            "expected_keywords": ["product bundling", "pricing strategy", "product sales", "individual sales", "evaluation", "decision-making"]
+        },
+        {
+            "id": "sales_236",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you build trust with potential clients who are hesitant to buy?",
+            "expected_keywords": ["trust", "hesitant clients", "relationship-building", "overcoming doubts", "credibility", "confidence"]
+        },
+        {
+            "id": "sales_237",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "What techniques do you use to maintain long-term relationships with clients after closing a sale?",
+            "expected_keywords": ["long-term relationships", "techniques", "post-sale", "customer loyalty", "engagement", "follow-up"]
+        },
+        {
+            "id": "sales_238",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you customize your sales pitch when speaking to clients from different industries?",
+            "expected_keywords": ["customizing pitch", "industries", "target audience", "industry-specific", "adaptation", "tailoring"]
+        },
+        {
+            "id": "sales_239",
+            "category": "sales",
+            "difficulty": "intermediate",
+            "question": "How do you deal with situations where a prospect is reluctant to engage in further conversations?",
+            "expected_keywords": ["reluctant prospect", "engagement", "follow-up", "communication", "persistence", "strategies"]
+        },
+        {
+            "id": "sales_240",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you identify and pursue new market opportunities for a product that is already established?",
+            "expected_keywords": ["market opportunities", "new markets", "established product", "expansion", "growth", "innovation"]
+        },
+        {
+            "id": "sales_241",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What steps do you take to manage large accounts that require complex solutions?",
+            "expected_keywords": ["large accounts", "complex solutions", "management", "account strategy", "coordination", "planning"]
+        },
+        {
+            "id": "sales_242",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you handle negotiations with high-stakes clients that have different needs and expectations?",
+            "expected_keywords": ["high-stakes clients", "negotiation", "needs", "expectations", "customization", "strategies"]
+        },
+        {
+            "id": "sales_243",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you assess whether a sales team is underperforming, and what steps do you take to correct it?",
+            "expected_keywords": ["sales team", "underperformance", "assessment", "correction", "team management", "improvement"]
+        },
+        {
+            "id": "sales_244",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What is your approach to selling in a highly competitive market with similar products and services?",
+            "expected_keywords": ["competitive market", "differentiation", "value proposition", "selling strategy", "competition", "techniques"]
+        },
+        {
+            "id": "sales_245",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What steps do you take to ensure that your client onboarding process is smooth and effective?",
+            "expected_keywords": ["client onboarding", "smooth process", "efficiency", "customer success", "engagement", "satisfaction"]
+        },
+        {
+            "id": "sales_246",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you maintain a balance between pursuing new business and nurturing existing accounts?",
+            "expected_keywords": ["new business", "nurturing accounts", "balance", "strategy", "prioritization", "management"]
+        },
+        {
+            "id": "sales_247",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What role does data analysis play in shaping your sales strategy?",
+            "expected_keywords": ["data analysis", "sales strategy", "decision-making", "insights", "evaluation", "optimization"]
+        },
+        {
+            "id": "sales_248",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you ensure that your sales efforts align with the larger organizational vision and goals?",
+            "expected_keywords": ["sales efforts", "organization", "alignment", "vision", "goals", "integration"]
+        },
+        {
+            "id": "sales_249",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you approach upselling or cross-selling to an existing customer?",
+            "expected_keywords": ["upselling", "cross-selling", "existing customer", "opportunities", "techniques", "strategies"]
+        },
+        {
+            "id": "sales_250",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you integrate feedback from clients into your sales process to enhance results?",
+            "expected_keywords": ["client feedback", "integration", "sales process", "enhancing", "improvement", "adjustments"]
+        },
+        {
+            "id": "sales_251",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you adapt your sales tactics when dealing with different decision-makers in an organization?",
+            "expected_keywords": ["sales tactics", "decision-makers", "adaptation", "organization", "customization", "approach"]
+        },
+        {
+            "id": "sales_252",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you evaluate and select the best tools or technologies to support your sales efforts?",
+            "expected_keywords": ["sales tools", "evaluation", "technologies", "support", "selection", "criteria"]
+        },
+        {
+            "id": "sales_253",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "How do you lead a sales team in closing high-value deals while maintaining individual performance?",
+            "expected_keywords": ["sales team", "leadership", "high-value deals", "individual performance", "management", "motivation"]
+        },
+        {
+            "id": "sales_254",
+            "category": "sales",
+            "difficulty": "advanced",
+            "question": "What steps do you take to create a long-term, scalable sales model for your organization?",
+            "expected_keywords": ["long-term", "scalable sales model", "steps", "organization", "planning", "development"]
+        }
+    ]
+}

@@ -3,72 +3,3950 @@
         {
             "id": "html_1",
             "category": "html",
-            "difficulty": "beginner",
-            "question": "What is HTML5 and what are its new features?",
-            "expected_keywords": ["semantic", "canvas", "storage", "multimedia", "forms"]
+            "difficulty": "intermediate",
+            "question": "In HTML5, how does the 'required' attribute differ from 'novalidate' in form elements? Explain their implications.",
+            "expected_keywords": ["required", "novalidate", "validation", "form", "submission"]
         },
         {
             "id": "html_2",
             "category": "html",
-            "difficulty": "beginner",
-            "question": "Explain the difference between <div> and <span>.",
-            "expected_keywords": ["block", "inline", "container", "element", "display"]
+            "difficulty": "intermediate",
+            "question": "How can you prevent a form from submitting when it contains invalid inputs using only HTML attributes?",
+            "expected_keywords": ["novalidate", "form", "validation", "JavaScript", "submission"]
         },
         {
             "id": "html_3",
             "category": "html",
-            "difficulty": "intermediate",
-            "question": "What are semantic elements in HTML5?",
-            "expected_keywords": ["header", "nav", "article", "section", "footer"]
+            "difficulty": "advanced",
+            "question": "What are the potential security risks associated with using iframes, and how can you mitigate them?",
+            "expected_keywords": ["iframes", "security", "clickjacking", "XSS", "sandbox", "CSP"]
         },
         {
             "id": "html_4",
             "category": "html",
-            "difficulty": "intermediate",
-            "question": "Explain the importance of DOCTYPE declaration.",
-            "expected_keywords": ["document type", "browser", "rendering", "standard", "mode"]
+            "difficulty": "advanced",
+            "question": "Explain how to create an accessible modal dialog using only HTML and ARIA attributes.",
+            "expected_keywords": ["modal", "accessible", "ARIA", "dialog", "focus", "trapping"]
         },
         {
             "id": "html_5",
             "category": "html",
             "difficulty": "intermediate",
-            "question": "What is the purpose of meta tags?",
-            "expected_keywords": ["metadata", "description", "viewport", "charset", "keywords"]
+            "question": "What is the purpose of the <picture> element, and how does it enhance responsive design?",
+            "expected_keywords": ["picture", "responsive", "images", "viewport", "resolution"]
         },
         {
             "id": "html_6",
             "category": "html",
-            "difficulty": "advanced",
-            "question": "Explain HTML5 Web Storage.",
-            "expected_keywords": ["localStorage", "sessionStorage", "cookies", "data", "client"]
+            "difficulty": "intermediate",
+            "question": "How do you implement a fallback mechanism for unsupported HTML5 features in older browsers?",
+            "expected_keywords": ["fallback", "HTML5", "polyfills", "Modernizr", "compatibility"]
         },
         {
             "id": "html_7",
             "category": "html",
-            "difficulty": "advanced",
-            "question": "What is the Canvas element and its uses?",
-            "expected_keywords": ["graphics", "drawing", "animation", "pixels", "context"]
+            "difficulty": "intermediate",
+            "question": "What is the role of the <base> tag in an HTML document, and how does it affect relative URLs?",
+            "expected_keywords": ["base", "tag", "relative", "URLs", "document"]
         },
         {
             "id": "html_8",
             "category": "html",
-            "difficulty": "advanced",
-            "question": "Explain HTML5 Form Validation.",
-            "expected_keywords": ["required", "pattern", "type", "validation", "constraints"]
+            "difficulty": "intermediate",
+            "question": "How can you ensure that your web application remains functional without JavaScript while still utilizing modern HTML features?",
+            "expected_keywords": ["progressive", "enhancement", "JavaScript", "HTML", "functionality"]
         },
         {
             "id": "html_9",
             "category": "html",
-            "difficulty": "expert",
-            "question": "What are Web Components?",
-            "expected_keywords": ["custom elements", "shadow DOM", "templates", "encapsulation", "reusable"]
+            "difficulty": "intermediate",
+            "question": "Discuss how you would structure a complex nested list in HTML while maintaining semantic meaning.",
+            "expected_keywords": ["nested", "list", "semantic", "HTML", "accessibility"]
         },
         {
             "id": "html_10",
             "category": "html",
-            "difficulty": "expert",
-            "question": "Explain the concept of Progressive Web Apps.",
-            "expected_keywords": ["offline", "installable", "responsive", "push", "native"]
-        }
+            "difficulty": "advanced",
+            "question": "What are custom elements in HTML5, and how do they differ from traditional elements?",
+            "expected_keywords": ["custom", "elements", "HTML5", "JavaScript", "lifecycle"]
+        },
+        {
+            "id": "html_11",
+            "category": "html",
+            "difficulty": "beginner",
+            "question": "How do you handle character encoding issues in an HTML document?",
+            "expected_keywords": ["character", "encoding", "meta", "charset", "UTF-8"]
+        },
+        {
+            "id": "html_12",
+            "category": "html",
+            "difficulty": "beginner",
+            "question": "What is the significance of using <fieldset> and <legend> tags in forms?",
+            "expected_keywords": ["fieldset", "legend", "forms", "accessibility", "grouping"]
+        },
+        {
+            "id": "html_13",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "Explain how to implement client-side validation for a date input field in HTML.",
+            "expected_keywords": ["client-side", "validation", "date", "input", "min", "max"]
+        },
+        {
+            "id": "html_14",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "Describe how you would use semantic HTML to improve SEO for a blog post.",
+            "expected_keywords": ["semantic", "HTML", "SEO", "blog", "structure"]
+        },
+        {
+            "id": "html_15",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "How does the use of inline SVG differ from traditional image formats in terms of accessibility?",
+            "expected_keywords": ["inline", "SVG", "accessibility", "ARIA", "screen readers"]
+        },
+        {
+            "id": "html_16",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "What are some common pitfalls when using data attributes in HTML?",
+            "expected_keywords": ["data", "attributes", "pitfalls", "markup", "validation"]
+        },
+        {
+            "id": "html_17",
+            "category": "html",
+            "difficulty": "beginner",
+            "question": "How do you create an accessible table in HTML?",
+            "expected_keywords": ["accessible", "table", "caption", "th", "scope"]
+        },
+        {
+            "id": "html_18",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "Explain how browser developer tools can assist in debugging HTML issues.",
+            "expected_keywords": ["developer", "tools", "debugging", "HTML", "inspect"]
+        },
+        {
+            "id": "html_19",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "What is the difference between <script src=\"...\"> and inline scripts regarding performance?",
+            "expected_keywords": ["script", "src", "inline", "performance", "caching"]
+        },
+        {
+            "id": "html_20",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "How would you use ARIA landmarks to improve navigation on a complex webpage?",
+            "expected_keywords": ["ARIA", "landmarks", "navigation", "accessibility", "screen readers"]
+        },
+        {
+            "id": "html_21",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "What are some best practices for using forms in HTML5?",
+            "expected_keywords": ["forms", "HTML5", "best practices", "input", "labels"]
+        },
+        {
+            "id": "html_22",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "How do you implement internationalization (i18n) support in an HTML document?",
+            "expected_keywords": ["internationalization", "i18n", "lang", "localization", "dir"]
+        },
+        {
+            "id": "html_23",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "Explain how the Shadow DOM works in HTML and provide an example of its usage.",
+            "expected_keywords": ["Shadow", "DOM", "encapsulation", "HTML", "CSS"]
+        },
+        {
+            "id": "html_24",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "How can you implement a custom element in HTML using Web Components? Write the code.",
+            "expected_keywords": ["custom", "element", "Web", "Components", "JavaScript"]
+        },
+        {
+            "id": "html_25",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "What is the difference between aria-labelledby and aria-describedby? Provide an example.",
+            "expected_keywords": ["aria-labelledby", "aria-describedby", "accessibility", "label", "description"]
+        },
+        {
+            "id": "html_26",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "How can you create a responsive table in HTML that works well on mobile devices? Write the code.",
+            "expected_keywords": ["responsive", "table", "mobile", "CSS", "Flexbox"]
+        },
+        {
+            "id": "html_27",
+            "category": "html",
+            "difficulty": "beginner",
+            "question": "What is the purpose of the contenteditable attribute in HTML? Provide an example.",
+            "expected_keywords": ["contenteditable", "attribute", "editable", "HTML", "user"]
+        },
+        {
+            "id": "html_28",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "How can you implement lazy loading for images in HTML? Write the code.",
+            "expected_keywords": ["lazy", "loading", "images", "performance", "attribute"]
+        },
+        {
+            "id": "html_29",
+            "category": "html",
+            "difficulty": "intermediate",
+            "question": "What is the difference between aria-hidden and hidden attributes in HTML?",
+            "expected_keywords": ["aria-hidden", "hidden", "accessibility", "visibility", "screen readers"]
+        },
+        {
+            "id": "html_30",
+            "category": "html",
+            "difficulty": "advanced",
+            "question": "How can you create a custom video player with controls using HTML and JavaScript? Write the code.",
+            "expected_keywords": ["video", "player", "custom", "controls", "JavaScript"]
+        },
+        {
+          "id": "html_31",
+          "category": "html",
+          "difficulty": "intermediate",
+          "question": "What is the purpose of the rel attribute in the <link> element, and what are some common values?",
+          "expected_keywords": ["rel", "link", "attribute", "stylesheet", "icon"]
+      },
+      {
+          "id": "html_32",
+          "category": "html",
+          "difficulty": "advanced",
+          "question": "Explain the differences between <noscript> and <script> elements. How does <noscript> improve accessibility?",
+          "expected_keywords": ["noscript", "script", "JavaScript", "fallback", "accessibility"]
+      },
+      {
+          "id": "html_33",
+          "category": "html",
+          "difficulty": "intermediate",
+          "question": "What is the difference between HTML entities and Unicode characters? Provide examples.",
+          "expected_keywords": ["HTML entities", "Unicode", "encoding", "special characters", "symbols"]
+      },
+      {
+          "id": "html_34",
+          "category": "html",
+          "difficulty": "advanced",
+          "question": "How do you create a full-screen responsive navigation menu using only HTML and CSS?",
+          "expected_keywords": ["responsive", "navigation", "menu", "CSS", "full-screen"]
+      },
+      {
+          "id": "html_35",
+          "category": "html",
+          "difficulty": "intermediate",
+          "question": "How does the <details> and <summary> elements enhance user experience? Provide an example.",
+          "expected_keywords": ["details", "summary", "toggle", "user experience", "expand"]
+      },
+      {
+          "id": "html_36",
+          "category": "html",
+          "difficulty": "advanced",
+          "question": "Explain the significance of the download attribute in <a> tags and its potential security concerns.",
+          "expected_keywords": ["download", "attribute", "security", "a tag", "file"]
+      },
+      {
+          "id": "html_37",
+          "category": "html",
+          "difficulty": "intermediate",
+          "question": "What are the different types of input elements available in HTML5?",
+          "expected_keywords": ["input", "types", "HTML5", "form", "user input"]
+      },
+      {
+          "id": "html_38",
+          "category": "html",
+          "difficulty": "advanced",
+          "question": "How can you use the HTML5 history API to manipulate browser history? Provide an example.",
+          "expected_keywords": ["history API", "pushState", "replaceState", "navigation", "JavaScript"]
+      },
+      {
+          "id": "html_39",
+          "category": "html",
+          "difficulty": "intermediate",
+          "question": "What is microdata in HTML5, and how does it improve SEO?",
+          "expected_keywords": ["microdata", "HTML5", "SEO", "schema.org", "markup"]
+      },
+      {
+          "id": "html_40",
+          "category": "html",
+          "difficulty": "advanced",
+          "question": "Explain the role of service workers in progressive web apps (PWAs). How do they interact with HTML?",
+          "expected_keywords": ["service workers", "PWA", "caching", "offline", "JavaScript"]
+      },
+      {
+        "id": "html_41",
+        "category": "html",
+        "difficulty": "intermediate",
+        "question": "What is the difference between a block-level element and an inline element in HTML?",
+        "expected_keywords": ["block", "inline", "elements", "HTML", "layout"]
+    },
+    {
+        "id": "html_42",
+        "category": "html",
+        "difficulty": "advanced",
+        "question": "How can you use web components to create reusable HTML elements?",
+        "expected_keywords": ["web components", "custom elements", "HTML", "shadow DOM", "JavaScript"]
+    },
+    {
+        "id": "html_43",
+        "category": "html",
+        "difficulty": "intermediate",
+        "question": "What is the difference between <progress> and <meter> elements in HTML? Provide an example of each.",
+        "expected_keywords": ["progress", "meter", "form", "HTML5", "example"]
+    },
+    {
+        "id": "html_44",
+        "category": "html",
+        "difficulty": "advanced",
+        "question": "How can you use the HTML5 Drag and Drop API to implement draggable elements?",
+        "expected_keywords": ["Drag and Drop API", "HTML5", "JavaScript", "draggable", "event"]
+    },
+    {
+        "id": "html_45",
+        "category": "html",
+        "difficulty": "intermediate",
+        "question": "What are the different types of list elements in HTML, and when should you use each?",
+        "expected_keywords": ["list", "ul", "ol", "dl", "HTML"]
+    },
+    {
+        "id": "html_46",
+        "category": "html",
+        "difficulty": "advanced",
+        "question": "Explain the purpose and usage of the <template> element in HTML.",
+        "expected_keywords": ["template", "HTML", "reusability", "JavaScript", "content"]
+    },
+    {
+      "id": "html_47",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Explain how the browser's event loop interacts with requestAnimationFrame and how this affects DOM updates in HTML5 Canvas animations. Include performance implications.",
+      "expected_keywords": ["event loop", "requestAnimationFrame", "canvas", "performance", "rendering"]
+  },
+  {
+      "id": "html_48",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Describe how you would implement a cross-origin iframe communication system with fallbacks for older browsers. What security considerations must be addressed?",
+      "expected_keywords": ["postMessage", "cross-origin", "security", "fallback", "same-origin policy"]
+  },
+  {
+      "id": "html_49",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "How would you implement a custom element that maintains its own internal state and handles complex DOM interactions while ensuring proper garbage collection?",
+      "expected_keywords": ["custom elements", "state management", "lifecycle", "memory leaks", "shadow DOM"]
+  },
+  {
+      "id": "html_50",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Implement a progressive enhancement strategy for a complex form that uses modern HTML5 features while ensuring functionality in browsers that don't support them. Include validation and accessibility considerations.",
+      "expected_keywords": ["progressive enhancement", "polyfills", "validation", "accessibility", "backward compatibility"]
+  },
+  {
+      "id": "html_51",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "How would you implement a virtualized table with infinite scroll, maintaining accessibility and handling window resize events efficiently? Discuss memory management considerations.",
+      "expected_keywords": ["virtualization", "infinite scroll", "performance", "memory management", "resize observer"]
+  },
+  {
+      "id": "html_52",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Explain how to implement a custom video player that supports adaptive bitrate streaming, multiple audio tracks, and custom closed captions while maintaining accessibility.",
+      "expected_keywords": ["MSE", "adaptive streaming", "WebVTT", "media fragments", "ARIA"]
+  },
+  {
+      "id": "html_53",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "How would you implement a drag-and-drop interface that works with both touch and mouse events, handles file uploads, and maintains accessibility? Include error handling strategies.",
+      "expected_keywords": ["touch events", "pointer events", "File API", "accessibility", "error handling"]
+  },
+  {
+      "id": "html_54",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Describe how to implement a custom select component that handles complex nested data structures, supports keyboard navigation, and maintains ARIA compliance while virtualizing large datasets.",
+      "expected_keywords": ["virtual scrolling", "keyboard navigation", "ARIA", "data structures", "event delegation"]
+  },
+  {
+      "id": "html_55",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "How would you implement a real-time collaborative editing interface using HTML5 APIs? Discuss consistency, conflict resolution, and offline capabilities.",
+      "expected_keywords": ["contenteditable", "WebSocket", "operational transformation", "IndexedDB", "conflict resolution"]
+  },
+  {
+      "id": "html_56",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Implement a responsive image solution that handles art direction, different pixel densities, and lazy loading while optimizing for Core Web Vitals. Include error handling and fallbacks.",
+      "expected_keywords": ["picture element", "srcset", "sizes", "lazy loading", "Core Web Vitals"]
+  },
+  {
+      "id": "html_57",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Explain how to create a custom form validation system that integrates with native HTML5 validation, handles complex interdependent field validations, and provides real-time feedback.",
+      "expected_keywords": ["Constraint Validation API", "custom validity", "form validation", "ValidationState", "real-time validation"]
+  },
+  {
+      "id": "html_58",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "How would you implement a complex modal system that handles nested modals, maintains proper focus management, and ensures keyboard accessibility while preventing scroll leaks?",
+      "expected_keywords": ["focus trap", "event bubbling", "keyboard navigation", "scroll management", "dialog element"]
+  },
+  {
+      "id": "html_59",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Describe how to implement a custom audio workstation interface using Web Audio API and Canvas, including waveform visualization and real-time effects processing.",
+      "expected_keywords": ["Web Audio API", "AudioWorklet", "Canvas", "real-time processing", "audio visualization"]
+  },
+  {
+      "id": "html_60",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "How would you implement a multi-step form wizard that handles complex validation dependencies, maintains state, and supports browser back/forward navigation?",
+      "expected_keywords": ["History API", "form validation", "state management", "navigation", "dependency handling"]
+  },
+  {
+      "id": "html_61",
+      "category": "html",
+      "difficulty": "advanced",
+      "question": "Implement a custom rich text editor that handles complex formatting, supports collaborative editing, and maintains accessibility. Discuss undo/redo implementation.",
+      "expected_keywords": ["contenteditable", "Selection API", "Range API", "mutation observer", "command pattern"]
+  },
+  {
+    "id": "html_62",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a WebRTC-based screen sharing solution with picture-in-picture support and recording capabilities. How would you handle browser permissions and fallbacks?",
+    "expected_keywords": ["WebRTC", "screen capture", "MediaRecorder", "permissions", "picture-in-picture"]
+  },
+  {
+    "id": "html_63",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a virtual DOM-like system using only vanilla JavaScript and HTML? Discuss performance optimization strategies.",
+    "expected_keywords": ["virtual DOM", "diff algorithm", "DOM manipulation", "performance", "reconciliation"]
+  },
+  {
+    "id": "html_64",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a custom HTML element that implements the Observable pattern and handles complex data synchronization across multiple instances. How would you manage memory?",
+    "expected_keywords": ["Observable", "custom elements", "data sync", "memory management", "garbage collection"]
+  },
+  {
+    "id": "html_65",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a service worker strategy for an HTML application that handles offline functionality, push notifications, and background sync while optimizing cache storage.",
+    "expected_keywords": ["service worker", "cache API", "push API", "background sync", "offline-first"]
+  },
+  {
+    "id": "html_66",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a complex form with dynamic field dependencies, conditional validation, and real-time server validation while maintaining performance?",
+    "expected_keywords": ["form validation", "dynamic fields", "debouncing", "server validation", "state management"]
+  },
+  {
+    "id": "html_67",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "Explain the implementation of a nested drag-and-drop system that handles both horizontal and vertical reordering with accessibility support.",
+    "expected_keywords": ["drag-and-drop", "reordering", "accessibility", "touch events", "keyboard navigation"]
+  },
+  {
+    "id": "html_68",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a custom video player that supports multiple streaming protocols, handles DRM content, and provides analytics while maintaining performance.",
+    "expected_keywords": ["MSE", "EME", "streaming", "DRM", "media analytics"]
+  },
+  {
+    "id": "html_69",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a virtual keyboard system that supports multiple layouts, handles IME input, and maintains accessibility standards. How would you handle mobile devices?",
+    "expected_keywords": ["virtual keyboard", "IME", "input methods", "accessibility", "mobile support"]
+  },
+  {
+    "id": "html_70",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a WebGL-based canvas that interacts with HTML elements while maintaining proper event handling and performance?",
+    "expected_keywords": ["WebGL", "canvas", "event handling", "performance", "3D rendering"]
+  },
+  {
+    "id": "html_71",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "Create a responsive grid system that supports both CSS Grid and Flexbox with fallbacks for older browsers. How would you handle dynamic content?",
+    "expected_keywords": ["CSS Grid", "Flexbox", "responsive", "feature detection", "dynamic content"]
+  },
+  {
+    "id": "html_72",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a complex table with frozen columns, virtual scrolling, and dynamic row grouping while maintaining accessibility.",
+    "expected_keywords": ["table", "virtual scroll", "row grouping", "accessibility", "performance"]
+  },
+  {
+    "id": "html_73",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a WebAssembly-based image processing system that integrates with HTML canvas and handles real-time modifications?",
+    "expected_keywords": ["WebAssembly", "canvas", "image processing", "real-time", "performance"]
+  },
+  {
+    "id": "html_74",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Describe the implementation of a custom scroll-based animation system that maintains 60fps and handles complex DOM updates efficiently.",
+    "expected_keywords": ["scroll animation", "performance", "requestAnimationFrame", "DOM updates", "optimization"]
+  },
+  {
+    "id": "html_75",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How would you implement a progressive web app that handles offline storage, sync conflicts, and maintains data integrity?",
+    "expected_keywords": ["PWA", "offline storage", "sync", "data integrity", "service worker"]
+  },
+  {
+    "id": "html_76",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom HTML element that handles real-time data streaming and visualization while maintaining memory efficiency. How would you handle data throttling?",
+    "expected_keywords": ["custom elements", "data streaming", "memory management", "throttling", "visualization"]
+  },
+  {
+    "id": "html_77",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a micro-frontend architecture using HTML custom elements? Discuss isolation, communication, and performance considerations.",
+    "expected_keywords": ["micro-frontend", "custom elements", "isolation", "communication", "performance"]
+  },
+  {
+    "id": "html_78",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a system for handling complex form state management without frameworks, including undo/redo functionality and form validation. How would you handle edge cases?",
+    "expected_keywords": ["state management", "undo/redo", "validation", "edge cases", "form handling"]
+  },
+  {
+    "id": "html_79",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom PDF viewer using HTML canvas that supports text selection, search, and annotations. How would you handle memory management?",
+    "expected_keywords": ["PDF", "canvas", "text selection", "annotations", "memory management"]
+  },
+  {
+    "id": "html_80",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a complex multi-window application using HTML5 window.postMessage? Discuss security and state synchronization.",
+    "expected_keywords": ["postMessage", "multi-window", "security", "state sync", "origin validation"]
+  },
+  {
+    "id": "html_81",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "Design a system for handling complex keyboard shortcuts in a web application. How would you handle conflicts and customization?",
+    "expected_keywords": ["keyboard shortcuts", "event handling", "customization", "conflict resolution", "accessibility"]
+  },
+  {
+    "id": "html_82",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a WebSocket-based collaborative drawing application with undo/redo support. How would you handle concurrent modifications?",
+    "expected_keywords": ["WebSocket", "collaborative", "undo/redo", "concurrency", "canvas"]
+  },
+  {
+    "id": "html_83",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a complex form wizard that handles file uploads, async validation, and state persistence across sessions?",
+    "expected_keywords": ["form wizard", "file upload", "async validation", "state persistence", "session management"]
+  },
+  {
+    "id": "html_84",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a custom HTML element that implements virtual scrolling with dynamic height calculations and maintains smooth scrolling performance.",
+    "expected_keywords": ["virtual scroll", "dynamic height", "performance", "custom element", "scroll management"]
+  },
+  {
+    "id": "html_85",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a system for handling complex drag-and-drop operations between iframes while maintaining security and handling cross-origin issues.",
+    "expected_keywords": ["drag-and-drop", "iframe", "security", "cross-origin", "event handling"]
+  },
+  {
+    "id": "html_86",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a real-time code editor with syntax highlighting and collaborative editing using HTML5 APIs?",
+    "expected_keywords": ["code editor", "syntax highlighting", "collaborative", "contenteditable", "WebSocket"]
+  },
+  {
+    "id": "html_87",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling complex form validation with interdependent fields and asynchronous server validation. How would you handle race conditions?",
+    "expected_keywords": ["form validation", "async validation", "race conditions", "dependency management", "error handling"]
+  },
+  {
+    "id": "html_88",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom video player that supports multiple camera inputs and real-time video filters using WebRTC and Canvas.",
+    "expected_keywords": ["WebRTC", "canvas", "video filters", "camera input", "real-time processing"]
+  },
+  {
+    "id": "html_89",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a complex data grid with sorting, filtering, and grouping while maintaining accessibility and keyboard navigation?",
+    "expected_keywords": ["data grid", "sorting", "filtering", "accessibility", "keyboard navigation"]
+  },
+  {
+    "id": "html_90",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a system for handling complex form state serialization and deserialization with support for nested objects and arrays.",
+    "expected_keywords": ["serialization", "form state", "nested objects", "arrays", "data structure"]
+  },
+  {
+    "id": "html_91",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a dependency injection system for HTML custom elements that handles circular dependencies and lazy loading. How would you manage the lifecycle?",
+    "expected_keywords": ["dependency injection", "custom elements", "circular dependencies", "lazy loading", "lifecycle"]
+  },
+  {
+    "id": "html_92",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling WebGL textures in conjunction with HTML canvas for complex 3D visualizations. How would you optimize memory usage?",
+    "expected_keywords": ["WebGL", "textures", "3D", "memory optimization", "canvas integration"]
+  },
+  {
+    "id": "html_93",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom audio worklet processor for real-time audio manipulation with WebAssembly integration?",
+    "expected_keywords": ["AudioWorklet", "WebAssembly", "real-time", "audio processing", "performance"]
+  },
+  {
+    "id": "html_94",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a system for handling complex SVG animations with SMIL fallbacks and JavaScript synchronization. How would you handle browser compatibility?",
+    "expected_keywords": ["SVG", "SMIL", "animation", "compatibility", "synchronization"]
+  },
+  {
+    "id": "html_95",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a custom implementation of the HTML5 History API that handles complex state management and nested routing. How would you handle edge cases?",
+    "expected_keywords": ["History API", "state management", "routing", "edge cases", "navigation"]
+  },
+  {
+    "id": "html_96",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a system for handling WebXR content that seamlessly integrates with traditional HTML elements?",
+    "expected_keywords": ["WebXR", "mixed reality", "DOM integration", "3D rendering", "interaction"]
+  },
+  {
+    "id": "html_97",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom templating engine that handles dynamic content updates and maintains DOM diffing efficiency. Discuss optimization strategies.",
+    "expected_keywords": ["templating", "DOM diffing", "optimization", "content updates", "performance"]
+  },
+  {
+    "id": "html_98",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling complex pointer events in a drawing application with pressure sensitivity and multi-touch support.",
+    "expected_keywords": ["pointer events", "pressure sensitivity", "multi-touch", "drawing", "event handling"]
+  },
+  {
+    "id": "html_99",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom scheduler for DOM updates that maintains high frame rates during complex animations?",
+    "expected_keywords": ["scheduler", "DOM updates", "frame rate", "animation", "performance"]
+  },
+  {
+    "id": "html_100",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a system for handling Web Bluetooth API interactions with custom HTML elements. How would you manage device connections and data streams?",
+    "expected_keywords": ["Web Bluetooth", "custom elements", "device management", "data streaming", "connection handling"]
+  },
+  {
+    "id": "html_101",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a custom implementation of the IntersectionObserver that handles complex targeting scenarios and maintains performance.",
+    "expected_keywords": ["IntersectionObserver", "targeting", "performance", "scroll handling", "optimization"]
+  },
+  {
+    "id": "html_102",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a system for handling Web USB API communications with custom protocol implementations?",
+    "expected_keywords": ["Web USB", "protocol", "device communication", "binary data", "error handling"]
+  },
+  {
+    "id": "html_103",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom text editor that handles bidirectional text, complex Unicode combinations, and maintains IME support.",
+    "expected_keywords": ["bidirectional", "Unicode", "IME", "text editing", "input handling"]
+  },
+  {
+    "id": "html_104",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling WebTransport API connections with fallback mechanisms. How would you manage connection stability?",
+    "expected_keywords": ["WebTransport", "fallback", "connection stability", "data transfer", "error handling"]
+  },
+  {
+    "id": "html_105",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom implementation of the ResizeObserver that handles complex layout calculations?",
+    "expected_keywords": ["ResizeObserver", "layout", "calculations", "performance", "DOM updates"]
+  },
+  {
+    "id": "html_106",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a WebGPU-based computing system that integrates with HTML canvas for real-time data visualization. How would you handle shader compilation and memory management?",
+    "expected_keywords": ["WebGPU", "shaders", "computation", "visualization", "memory management"]
+  },
+  {
+    "id": "html_107",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling Web NFC tag reading and writing with custom NDEF record formats. How would you handle security and permissions?",
+    "expected_keywords": ["Web NFC", "NDEF", "permissions", "security", "data format"]
+  },
+  {
+    "id": "html_108",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom quantum-safe encryption system for form data using Web Crypto API?",
+    "expected_keywords": ["Web Crypto", "encryption", "quantum-safe", "form security", "key management"]
+  },
+  {
+    "id": "html_109",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a system for handling Web Serial API communications with custom binary protocols and error correction.",
+    "expected_keywords": ["Web Serial", "binary protocol", "error correction", "communication", "device handling"]
+  },
+  {
+    "id": "html_110",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a custom implementation of the Layout API that handles complex grid-based calculations and maintains performance.",
+    "expected_keywords": ["Layout API", "grid", "performance", "calculations", "custom layout"]
+  },
+  {
+    "id": "html_111",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a system for handling WebHID devices with complex input mappings and real-time feedback?",
+    "expected_keywords": ["WebHID", "input mapping", "real-time", "device handling", "feedback"]
+  },
+  {
+    "id": "html_112",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling Web Authentication with FIDO2 keys and biometric authentication. How would you implement fallbacks?",
+    "expected_keywords": ["WebAuthn", "FIDO2", "biometric", "authentication", "fallback"]
+  },
+  {
+    "id": "html_113",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom text layout engine that handles complex scripts and bidirectional text with proper line breaking.",
+    "expected_keywords": ["text layout", "complex scripts", "bidirectional", "line breaking", "typography"]
+  },
+  {
+    "id": "html_114",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a system for handling Web MIDI devices with complex routing and real-time processing?",
+    "expected_keywords": ["Web MIDI", "routing", "real-time", "processing", "device handling"]
+  },
+  {
+    "id": "html_115",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a custom implementation of the Paint API for complex graphical effects that maintain performance.",
+    "expected_keywords": ["Paint API", "graphics", "performance", "custom effects", "rendering"]
+  },
+  {
+    "id": "html_116",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling Web Payments API with custom payment handlers and validation logic.",
+    "expected_keywords": ["Web Payments", "payment handlers", "validation", "security", "transaction"]
+  },
+  {
+    "id": "html_117",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom text-to-speech engine using Web Speech API with voice selection and real-time modification?",
+    "expected_keywords": ["Web Speech", "TTS", "voice synthesis", "real-time", "modification"]
+  },
+  {
+    "id": "html_118",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a system for handling complex CSS Houdini animations with custom properties and timing functions.",
+    "expected_keywords": ["CSS Houdini", "animations", "custom properties", "timing", "performance"]
+  },
+  {
+    "id": "html_119",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a custom implementation of the Presentation API that handles multiple displays and complex content synchronization.",
+    "expected_keywords": ["Presentation API", "multiple displays", "synchronization", "content management", "display"]
+  },
+  {
+    "id": "html_120",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a system for handling Web Share Target API with custom content types and processing?",
+    "expected_keywords": ["Web Share Target", "content types", "processing", "sharing", "validation"]
+  },
+  {
+    "id": "html_121",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling Compression Streams API with custom compression algorithms and optimization strategies.",
+    "expected_keywords": ["Compression Streams", "algorithms", "optimization", "data handling", "performance"]
+  },
+  {
+    "id": "html_122",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom implementation of the Contact Picker API with advanced filtering and data handling.",
+    "expected_keywords": ["Contact Picker", "filtering", "data handling", "privacy", "permissions"]
+  },
+  {
+    "id": "html_123",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a system for handling File System Access API with complex directory structures and real-time synchronization?",
+    "expected_keywords": ["File System Access", "directory handling", "synchronization", "permissions", "real-time"]
+  },
+  {
+    "id": "html_124",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a custom implementation of the Idle Detection API with complex user activity tracking and power management.",
+    "expected_keywords": ["Idle Detection", "activity tracking", "power management", "optimization", "privacy"]
+  },
+  {
+    "id": "html_125",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling Web Locks API with deadlock prevention and complex resource management.",
+    "expected_keywords": ["Web Locks", "deadlock prevention", "resource management", "synchronization", "error handling"]
+  },
+  {
+    "id": "html_126",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a WebCodecs API-based video transcoding system that handles multiple formats and maintains real-time processing. How would you optimize performance?",
+    "expected_keywords": ["WebCodecs", "transcoding", "optimization", "video processing", "performance"]
+  },
+  {
+    "id": "html_127",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling WebNN (Web Neural Network) API integration with HTML canvas for real-time AI-powered image processing.",
+    "expected_keywords": ["WebNN", "neural network", "AI", "image processing", "optimization"]
+  },
+  {
+    "id": "html_128",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom shader-based particle system using WebGPU that interacts with HTML elements?",
+    "expected_keywords": ["WebGPU", "shaders", "particle system", "interaction", "performance"]
+  },
+  {
+    "id": "html_129",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a system for handling Web Audio Worklet nodes with custom DSP algorithms and real-time visualization.",
+    "expected_keywords": ["Audio Worklet", "DSP", "visualization", "real-time", "processing"]
+  },
+  {
+    "id": "html_130",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom text fragmentation system using the CSS Fragmentation API with complex layout requirements.",
+    "expected_keywords": ["CSS Fragmentation", "layout", "text flow", "pagination", "columns"]
+  },
+  {
+    "id": "html_131",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling Web Bluetooth beacon interactions with custom advertisement data parsing.",
+    "expected_keywords": ["Bluetooth beacon", "advertisement", "parsing", "data handling", "scanning"]
+  },
+  {
+    "id": "html_132",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom CSS Layout API that handles dynamic masonry layouts with variable-sized elements?",
+    "expected_keywords": ["Layout API", "masonry", "dynamic sizing", "performance", "layout"]
+  },
+  {
+    "id": "html_133",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a system for handling WebTransport datagram protocols with custom reliability mechanisms.",
+    "expected_keywords": ["WebTransport", "datagram", "reliability", "protocols", "networking"]
+  },
+  {
+    "id": "html_134",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom Web Component that handles complex shadow DOM event retargeting and slot management.",
+    "expected_keywords": ["Web Components", "shadow DOM", "events", "slots", "composition"]
+  },
+  {
+    "id": "html_135",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling Web Audio spatialization with custom HRTF implementations.",
+    "expected_keywords": ["Web Audio", "HRTF", "spatialization", "3D audio", "processing"]
+  },
+  {
+    "id": "html_136",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom CSS Paint API worklet that generates procedural textures with user interactions?",
+    "expected_keywords": ["Paint API", "procedural", "textures", "interaction", "worklet"]
+  },
+  {
+    "id": "html_137",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Create a system for handling Web USB protocol implementations with custom device class drivers.",
+    "expected_keywords": ["Web USB", "protocol", "drivers", "device class", "communication"]
+  },
+  {
+    "id": "html_138",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Implement a custom WebAssembly module that handles SIMD operations for real-time video effects.",
+    "expected_keywords": ["WebAssembly", "SIMD", "video effects", "performance", "optimization"]
+  },
+  {
+    "id": "html_139",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Design a system for handling Web GPU compute shaders with custom memory management strategies.",
+    "expected_keywords": ["WebGPU", "compute shaders", "memory management", "optimization", "parallel processing"]
+  },
+  {
+    "id": "html_140",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How would you implement a custom Web Crypto API implementation for post-quantum cryptography algorithms?",
+    "expected_keywords": ["Web Crypto", "post-quantum", "cryptography", "algorithms", "security"]
+  },
+  {
+    "id": "html_141",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `<head>` tag in HTML, and can it be omitted?",
+    "expected_keywords": [
+        "valid",
+        "links",
+        "documents",
+        "metadata",
+        "cannot"
     ]
-} 
+  },
+  {
+    "id": "html_142",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "If you see `<div>` everywhere in a webpage, what could be a better semantic alternative?",
+    "expected_keywords": [
+        "header",
+        "semantic",
+        "instead",
+        "section",
+        "better"
+    ]
+  },
+  {
+    "id": "html_143",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What happens if you forget to close an HTML tag like `<p>`?",
+    "expected_keywords": [
+        "layout",
+        "will",
+        "unexpected",
+        "browser",
+        "issues"
+    ]
+  },
+  {
+    "id": "html_144",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "Why does `<br>` not have a closing tag in HTML?",
+    "expected_keywords": [
+        "void",
+        "require",
+        "contain",
+        "doesn",
+        "element"
+    ]
+  },
+  {
+    "id": "html_145",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `<strong>` and `<b>` tags?",
+    "expected_keywords": [
+        "bold",
+        "semantic",
+        "indicates",
+        "while",
+        "importance"
+    ]
+  },
+  {
+    "id": "html_146",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "Can you use multiple `<h1>` tags on a single page?",
+    "expected_keywords": [
+        "recommended",
+        "main",
+        "heading",
+        "subheadings"
+    ]
+  },
+  {
+    "id": "html_147",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `alt` attribute in the `<img>` tag?",
+    "expected_keywords": [
+        "load",
+        "fail",
+        "they",
+        "alternative",
+        "accessibility"
+    ]
+  },
+  {
+    "id": "html_148",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What happens if you don\u2019t specify the `type` attribute in a `<script>` tag?",
+    "expected_keywords": [
+        "script",
+        "default",
+        "javascript",
+        "browser",
+        "assumes"
+    ]
+  },
+  {
+    "id": "html_149",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `<ul>` and `<ol>` tags?",
+    "expected_keywords": [
+        "while",
+        "bulleted",
+        "list",
+        "creates",
+        "numbered"
+    ]
+  },
+  {
+    "id": "html_150",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "Why is it important to use the `lang` attribute in the `<html>` tag?",
+    "expected_keywords": [
+        "engines",
+        "understand",
+        "screen",
+        "readers",
+        "language"
+    ]
+  },
+  {
+    "id": "html_151",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<meta charset='UTF-8'>` tag?",
+    "expected_keywords": [
+        "ensuring",
+        "document",
+        "proper",
+        "text",
+        "specifies"
+    ]
+  },
+  {
+    "id": "html_152",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<section>` and `<article>` tags?",
+    "expected_keywords": [
+        "while",
+        "piece",
+        "section",
+        "related",
+        "article"
+    ]
+  },
+  {
+    "id": "html_153",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<figure>` and `<figcaption>` tags?",
+    "expected_keywords": [
+        "used",
+        "caption",
+        "provides",
+        "figcaption",
+        "content"
+    ]
+  },
+  {
+    "id": "html_154",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What happens if you use `<table>` without `<thead>`, `<tbody>`, or `<tfoot>`?",
+    "expected_keywords": [
+        "render",
+        "these",
+        "improves",
+        "using",
+        "will"
+    ]
+  },
+  {
+    "id": "html_155",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<input type='text'>` and `<textarea>`?",
+    "expected_keywords": [
+        "while",
+        "single",
+        "line",
+        "multi",
+        "text"
+    ]
+  },
+  {
+    "id": "html_156",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `placeholder` attribute in an `<input>` tag?",
+    "expected_keywords": [
+        "hint",
+        "text",
+        "example",
+        "provides",
+        "inside"
+    ]
+  },
+  {
+    "id": "html_157",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<button>` and `<input type='button'>`?",
+    "expected_keywords": [
+        "while",
+        "button",
+        "contain",
+        "input",
+        "text"
+    ]
+  },
+  {
+    "id": "html_158",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `required` attribute in a form field?",
+    "expected_keywords": [
+        "before",
+        "must",
+        "field",
+        "submitting",
+        "ensures"
+    ]
+  },
+  {
+    "id": "html_159",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<iframe>` and `<embed>` tags?",
+    "expected_keywords": [
+        "while",
+        "embeds",
+        "embed",
+        "webpage",
+        "iframe"
+    ]
+  },
+  {
+    "id": "html_160",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What does the `target` attribute do in an `<a>` tag?",
+    "expected_keywords": [
+        "open",
+        "same",
+        "linked",
+        "document",
+        "frame"
+    ]
+  },
+  {
+    "id": "html_161",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<noscript>` tag?",
+    "expected_keywords": [
+        "have",
+        "noscript",
+        "browsers",
+        "alternative",
+        "javascript"
+    ]
+  },
+  {
+    "id": "html_162",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What happens if you use an invalid attribute in an HTML tag?",
+    "expected_keywords": [
+        "render",
+        "ignore",
+        "will",
+        "browser",
+        "without"
+    ]
+  },
+  {
+    "id": "html_163",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the role of the `<link>` tag in the `<head>` section?",
+    "expected_keywords": [
+        "used",
+        "document",
+        "stylesheets",
+        "link",
+        "like"
+    ]
+  },
+  {
+    "id": "html_164",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `inline` and `block` elements in HTML?",
+    "expected_keywords": [
+        "while",
+        "much",
+        "line",
+        "full",
+        "only"
+    ]
+  },
+  {
+    "id": "html_165",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What does the `data-*` attribute do in HTML?",
+    "expected_keywords": [
+        "store",
+        "allows",
+        "javascript",
+        "custom",
+        "attribute"
+    ]
+  },
+  {
+    "id": "html_166",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<title>` tag?",
+    "expected_keywords": [
+        "title",
+        "results",
+        "document",
+        "which",
+        "appears"
+    ]
+  },
+  {
+    "id": "html_167",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `GET` and `POST` methods in forms?",
+    "expected_keywords": [
+        "while",
+        "post",
+        "making",
+        "request",
+        "body"
+    ]
+  },
+  {
+    "id": "html_168",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What does the `checked` attribute do in a checkbox input?",
+    "expected_keywords": [
+        "that",
+        "indicates",
+        "default",
+        "selected",
+        "when"
+    ]
+  },
+  {
+    "id": "html_169",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<style>` tag?",
+    "expected_keywords": [
+        "used",
+        "define",
+        "document",
+        "internal",
+        "styles"
+    ]
+  },
+  {
+    "id": "html_170",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `id` and `class` attributes?",
+    "expected_keywords": [
+        "while",
+        "used",
+        "single",
+        "class",
+        "unique"
+    ]
+  },
+  {
+    "id": "html_171",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What does the `src` attribute do in an `<img>` tag?",
+    "expected_keywords": [
+        "displayed",
+        "attribute",
+        "specifies",
+        "image"
+    ]
+  },
+  {
+    "id": "html_172",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<address>` tag?",
+    "expected_keywords": [
+        "used",
+        "contact",
+        "owner",
+        "document",
+        "information"
+    ]
+  },
+  {
+    "id": "html_173",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What happens if you use `<meta>` tags incorrectly?",
+    "expected_keywords": [
+        "issues",
+        "tags",
+        "page",
+        "incorrect",
+        "rendering"
+    ]
+  },
+  {
+    "id": "html_174",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `action` attribute in a form?",
+    "expected_keywords": [
+        "should",
+        "submitted",
+        "when",
+        "attribute",
+        "specifies"
+    ]
+  },
+  {
+    "id": "html_175",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What does the `tabindex` attribute do?",
+    "expected_keywords": [
+        "keyboard",
+        "order",
+        "which",
+        "when",
+        "tabindex"
+    ]
+  },
+  {
+    "id": "html_176",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `<span>` and `<div>`?",
+    "expected_keywords": [
+        "used",
+        "while",
+        "grouping",
+        "larger",
+        "span"
+    ]
+  },
+  {
+    "id": "html_177",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What does the `autofocus` attribute do in an input field?",
+    "expected_keywords": [
+        "automatically",
+        "focuses",
+        "when",
+        "field",
+        "attribute"
+    ]
+  },
+  {
+    "id": "html_178",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<canvas>` tag?",
+    "expected_keywords": [
+        "used",
+        "graphics",
+        "draw",
+        "javascript",
+        "canvas"
+    ]
+  },
+  {
+    "id": "html_179",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What happens if you use `<script>` tags in the `<head>` section?",
+    "expected_keywords": [
+        "section",
+        "async",
+        "they",
+        "defer",
+        "loaded"
+    ]
+  },
+  {
+    "id": "html_180",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `rel` attribute in a `<link>` tag?",
+    "expected_keywords": [
+        "relationship",
+        "resource",
+        "linked",
+        "document",
+        "current"
+    ]
+  },
+  {
+    "id": "html_181",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<meta name='viewport'>` tag?",
+    "expected_keywords": [
+        "browsers",
+        "mobile",
+        "ensuring",
+        "design",
+        "controls"
+    ]
+  },
+  {
+    "id": "html_182",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What does the `disabled` attribute do in form elements?",
+    "expected_keywords": [
+        "makes",
+        "attribute",
+        "disabled",
+        "element",
+        "unresponsive"
+    ]
+  },
+  {
+    "id": "html_183",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `<link rel='stylesheet'>` and `<style>`?",
+    "expected_keywords": [
+        "while",
+        "file",
+        "links",
+        "stylesheet",
+        "contains"
+    ]
+  },
+  {
+    "id": "html_184",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What does the `value` attribute do in an `<input>` tag?",
+    "expected_keywords": [
+        "default",
+        "value",
+        "field",
+        "attribute",
+        "specifies"
+    ]
+  },
+  {
+    "id": "html_185",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<progress>` tag?",
+    "expected_keywords": [
+        "task",
+        "represents",
+        "completion",
+        "progress"
+    ]
+  },
+  {
+    "id": "html_186",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What happens if you use `<meta>` tags for SEO incorrectly?",
+    "expected_keywords": [
+        "poor",
+        "engine",
+        "search",
+        "rankings",
+        "tags"
+    ]
+  },
+  {
+    "id": "html_187",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `method` attribute in a form?",
+    "expected_keywords": [
+        "send",
+        "post",
+        "either",
+        "attribute",
+        "specifies"
+    ]
+  },
+  {
+    "id": "html_188",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What does the `novalidate` attribute do in a form?",
+    "expected_keywords": [
+        "validation",
+        "novalidate",
+        "attribute",
+        "html5",
+        "disables"
+    ]
+  },
+  {
+    "id": "html_189",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `<header>` and `<nav>`?",
+    "expected_keywords": [
+        "header",
+        "while",
+        "navigation",
+        "navigational",
+        "links"
+    ]
+  },
+  {
+    "id": "html_190",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What does the `accept` attribute do in a file input?",
+    "expected_keywords": [
+        "that",
+        "files",
+        "types",
+        "accept",
+        "server"
+    ]
+  },
+  {
+    "id": "html_191",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<time>` tag?",
+    "expected_keywords": [
+        "date",
+        "specific",
+        "such",
+        "time",
+        "period"
+    ]
+  },
+  {
+    "id": "html_192",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you use `<script>` tags without a `src` attribute?",
+    "expected_keywords": [
+        "script",
+        "javascript",
+        "will",
+        "browser",
+        "inside"
+    ]
+  },
+  {
+    "id": "html_193",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `for` attribute in a `<label>` tag?",
+    "expected_keywords": [
+        "label",
+        "improving",
+        "associates",
+        "accessibility",
+        "specific"
+    ]
+  },
+  {
+    "id": "html_194",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What does the `multiple` attribute do in a file input?",
+    "expected_keywords": [
+        "file",
+        "select",
+        "allows",
+        "more",
+        "than"
+    ]
+  },
+  {
+    "id": "html_195",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<strong>` and `<em>`?",
+    "expected_keywords": [
+        "indicates",
+        "while",
+        "importance",
+        "emphasis",
+        "strong"
+    ]
+  },
+  {
+    "id": "html_196",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<details>` tag?",
+    "expected_keywords": [
+        "which",
+        "details",
+        "information",
+        "from",
+        "creates"
+    ]
+  },
+  {
+    "id": "html_197",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you use an empty `<a>` tag?",
+    "expected_keywords": [
+        "empty",
+        "cause",
+        "will",
+        "anywhere",
+        "link"
+    ]
+  },
+  {
+    "id": "html_198",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `autocomplete` attribute in form fields?",
+    "expected_keywords": [
+        "should",
+        "browser",
+        "field",
+        "attribute",
+        "specifies"
+    ]
+  },
+  {
+    "id": "html_199",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What does the `readonly` attribute do in an input field?",
+    "expected_keywords": [
+        "makes",
+        "readonly",
+        "uneditable",
+        "value",
+        "field"
+    ]
+  },
+  {
+    "id": "html_200",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<summary>` tag?",
+    "expected_keywords": [
+        "provides",
+        "content",
+        "summary",
+        "details"
+    ]
+  },
+  {
+    "id": "html_201",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you use `<meta>` tags for character encoding incorrectly?",
+    "expected_keywords": [
+        "garbled",
+        "display",
+        "text",
+        "issues",
+        "incorrect"
+    ]
+  },
+  {
+    "id": "html_202",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `target='_blank'` attribute in an `<a>` tag?",
+    "expected_keywords": [
+        "opens",
+        "linked",
+        "window",
+        "document",
+        "target"
+    ]
+  },
+  {
+    "id": "html_203",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What does the `hidden` attribute do in an HTML element?",
+    "expected_keywords": [
+        "makes",
+        "hidden",
+        "visible",
+        "attribute",
+        "element"
+    ]
+  },
+  {
+    "id": "html_204",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<script>` tag?",
+    "expected_keywords": [
+        "used",
+        "script",
+        "reference",
+        "javascript",
+        "document"
+    ]
+  },
+  {
+    "id": "html_205",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you use a `<link>` tag with a non-existent stylesheet?",
+    "expected_keywords": [
+        "applied",
+        "ignore",
+        "will",
+        "browser",
+        "link"
+    ]
+  },
+  {
+    "id": "html_206",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='submit'>` and `<button>`?",
+    "expected_keywords": [
+        "while",
+        "button",
+        "various",
+        "perform",
+        "contain"
+    ]
+  },
+  {
+    "id": "html_207",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What does the `size` attribute do in an `<input>` tag?",
+    "expected_keywords": [
+        "field",
+        "attribute",
+        "specifies",
+        "characters",
+        "width"
+    ]
+  },
+  {
+    "id": "html_208",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<blockquote>` tag?",
+    "expected_keywords": [
+        "that",
+        "used",
+        "define",
+        "section",
+        "quoted"
+    ]
+  },
+  {
+    "id": "html_209",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you use `<style>` tags in the `<body>` section?",
+    "expected_keywords": [
+        "section",
+        "apply",
+        "keep",
+        "body",
+        "will"
+    ]
+  },
+  {
+    "id": "html_210",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `action` attribute in a form?",
+    "expected_keywords": [
+        "should",
+        "submitted",
+        "when",
+        "attribute",
+        "specifies"
+    ]
+  },
+  {
+    "id": "html_211",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What does the `value` attribute do in a checkbox input?",
+    "expected_keywords": [
+        "that",
+        "server",
+        "value",
+        "will",
+        "attribute"
+    ]
+  },
+  {
+    "id": "html_212",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<mark>` tag?",
+    "expected_keywords": [
+        "that",
+        "used",
+        "context",
+        "mark",
+        "text"
+    ]
+  },
+  {
+    "id": "html_213",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you use `<meta>` tags for viewport settings incorrectly?",
+    "expected_keywords": [
+        "layout",
+        "responsiveness",
+        "mobile",
+        "poor",
+        "issues"
+    ]
+  },
+  {
+    "id": "html_214",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `method` attribute in a form?",
+    "expected_keywords": [
+        "send",
+        "post",
+        "either",
+        "attribute",
+        "specifies"
+    ]
+  },
+  {
+    "id": "html_215",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What does the `accept` attribute do in a file input?",
+    "expected_keywords": [
+        "that",
+        "files",
+        "types",
+        "accept",
+        "server"
+    ]
+  },
+  {
+    "id": "html_216",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<time>` tag?",
+    "expected_keywords": [
+        "date",
+        "specific",
+        "such",
+        "time",
+        "period"
+    ]
+  },
+  {
+    "id": "html_217",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you use `<script>` tags without a `src` attribute?",
+    "expected_keywords": [
+        "script",
+        "javascript",
+        "will",
+        "browser",
+        "inside"
+    ]
+  },
+  {
+    "id": "html_218",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `for` attribute in a `<label>` tag?",
+    "expected_keywords": [
+        "label",
+        "improving",
+        "associates",
+        "accessibility",
+        "specific"
+    ]
+  },
+  {
+    "id": "html_219",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What does the `multiple` attribute do in a file input?",
+    "expected_keywords": [
+        "file",
+        "select",
+        "allows",
+        "more",
+        "than"
+    ]
+  },
+  {
+    "id": "html_220",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<strong>` and `<em>`?",
+    "expected_keywords": [
+        "indicates",
+        "while",
+        "importance",
+        "emphasis",
+        "strong"
+    ]
+  },
+  {
+    "id": "html_221",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<details>` tag?",
+    "expected_keywords": [
+        "which",
+        "details",
+        "information",
+        "from",
+        "creates"
+    ]
+  },
+  {
+    "id": "html_222",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you use an empty `<a>` tag?",
+    "expected_keywords": [
+        "empty",
+        "cause",
+        "will",
+        "anywhere",
+        "link"
+    ]
+  },
+  {
+    "id": "html_223",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `autocomplete` attribute in form fields?",
+    "expected_keywords": [
+        "should",
+        "browser",
+        "field",
+        "attribute",
+        "specifies"
+    ]
+  },
+  {
+    "id": "html_224",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What does the `readonly` attribute do in an input field?",
+    "expected_keywords": [
+        "makes",
+        "readonly",
+        "uneditable",
+        "value",
+        "field"
+    ]
+  },
+  {
+    "id": "html_225",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<summary>` tag?",
+    "expected_keywords": [
+        "provides",
+        "content",
+        "summary",
+        "details"
+    ]
+  },
+  {
+    "id": "html_226",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<div>` tag in HTML, and can it be replaced with a more semantic tag?",
+    "expected_keywords": [
+        "purposes",
+        "semantic",
+        "often",
+        "header",
+        "more"
+    ]
+  },
+  {
+    "id": "html_227",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What happens if you forget to close an HTML tag?",
+    "expected_keywords": [
+        "layout",
+        "always",
+        "error",
+        "will",
+        "correct"
+    ]
+  },
+  {
+    "id": "html_228",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<b>` and `<strong>` tags?",
+    "expected_keywords": [
+        "bold",
+        "used",
+        "while",
+        "indicates",
+        "that"
+    ]
+  },
+  {
+    "id": "html_229",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "Can you use the `<br>` tag to create space between paragraphs? Why or why not?",
+    "expected_keywords": [
+        "create",
+        "used",
+        "paragraph",
+        "breaks",
+        "should"
+    ]
+  },
+  {
+    "id": "html_230",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `alt` attribute in the `<img>` tag?",
+    "expected_keywords": [
+        "also",
+        "used",
+        "displayed",
+        "image",
+        "alternative"
+    ]
+  },
+  {
+    "id": "html_231",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `id` and `class` in HTML?",
+    "expected_keywords": [
+        "used",
+        "while",
+        "group",
+        "class",
+        "styling"
+    ]
+  },
+  {
+    "id": "html_232",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<figure>` and `<figcaption>` tags?",
+    "expected_keywords": [
+        "diagrams",
+        "used",
+        "description",
+        "snippets",
+        "caption"
+    ]
+  },
+  {
+    "id": "html_233",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<ul>` and `<ol>` tags?",
+    "expected_keywords": [
+        "used",
+        "while",
+        "bulleted",
+        "lists",
+        "numbered"
+    ]
+  },
+  {
+    "id": "html_234",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `placeholder` attribute in the `<input>` tag?",
+    "expected_keywords": [
+        "hint",
+        "typing",
+        "which",
+        "text",
+        "disappears"
+    ]
+  },
+  {
+    "id": "html_235",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<em>` and `<i>` tags?",
+    "expected_keywords": [
+        "used",
+        "rendered",
+        "italic",
+        "typically",
+        "implying"
+    ]
+  },
+  {
+    "id": "html_236",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<iframe>` tag?",
+    "expected_keywords": [
+        "used",
+        "another",
+        "video",
+        "document",
+        "current"
+    ]
+  },
+  {
+    "id": "html_237",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<header>` and `<head>` tags?",
+    "expected_keywords": [
+        "title",
+        "header",
+        "section",
+        "navigation",
+        "about"
+    ]
+  },
+  {
+    "id": "html_238",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `required` attribute in HTML forms?",
+    "expected_keywords": [
+        "that",
+        "before",
+        "submitted",
+        "required",
+        "must"
+    ]
+  },
+  {
+    "id": "html_239",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<section>` and `<article>` tags?",
+    "expected_keywords": [
+        "that",
+        "used",
+        "while",
+        "section",
+        "post"
+    ]
+  },
+  {
+    "id": "html_240",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `target` attribute in the `<a>` tag?",
+    "expected_keywords": [
+        "open",
+        "opens",
+        "linked",
+        "window",
+        "document"
+    ]
+  },
+  {
+    "id": "html_241",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<span>` and `<div>` tags?",
+    "expected_keywords": [
+        "used",
+        "while",
+        "grouping",
+        "larger",
+        "level"
+    ]
+  },
+  {
+    "id": "html_242",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `role` attribute in HTML?",
+    "expected_keywords": [
+        "purposes",
+        "used",
+        "define",
+        "role",
+        "purpose"
+    ]
+  },
+  {
+    "id": "html_243",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `GET` and `POST` methods in HTML forms?",
+    "expected_keywords": [
+        "post",
+        "making",
+        "request",
+        "body",
+        "secure"
+    ]
+  },
+  {
+    "id": "html_244",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<meta>` tag?",
+    "expected_keywords": [
+        "engines",
+        "about",
+        "descriptions",
+        "document",
+        "metadata"
+    ]
+  },
+  {
+    "id": "html_245",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `async` and `defer` attributes in the `<script>` tag?",
+    "expected_keywords": [
+        "while",
+        "script",
+        "executes",
+        "execution",
+        "defer"
+    ]
+  },
+  {
+    "id": "html_246",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<canvas>` tag?",
+    "expected_keywords": [
+        "used",
+        "graphics",
+        "draw",
+        "other",
+        "using"
+    ]
+  },
+  {
+    "id": "html_247",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='text'>` and `<textarea>`?",
+    "expected_keywords": [
+        "used",
+        "while",
+        "single",
+        "line",
+        "multi"
+    ]
+  },
+  {
+    "id": "html_248",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `autofocus` attribute in HTML forms?",
+    "expected_keywords": [
+        "ready",
+        "automatically",
+        "making",
+        "focuses",
+        "when"
+    ]
+  },
+  {
+    "id": "html_249",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<dl>`, `<dt>`, and `<dd>` tags?",
+    "expected_keywords": [
+        "description",
+        "list",
+        "defines",
+        "term"
+    ]
+  },
+  {
+    "id": "html_250",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<progress>` tag?",
+    "expected_keywords": [
+        "used",
+        "display",
+        "file",
+        "task",
+        "progress"
+    ]
+  },
+  {
+    "id": "html_251",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<th>` and `<td>` tags?",
+    "expected_keywords": [
+        "header",
+        "while",
+        "cell",
+        "defines",
+        "standard"
+    ]
+  },
+  {
+    "id": "html_252",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `download` attribute in the `<a>` tag?",
+    "expected_keywords": [
+        "instead",
+        "file",
+        "linked",
+        "download",
+        "attribute"
+    ]
+  },
+  {
+    "id": "html_253",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<fieldset>` and `<legend>` tags?",
+    "expected_keywords": [
+        "while",
+        "related",
+        "legend",
+        "caption",
+        "provides"
+    ]
+  },
+  {
+    "id": "html_254",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<audio>` tag?",
+    "expected_keywords": [
+        "used",
+        "effects",
+        "embed",
+        "such",
+        "audio"
+    ]
+  },
+  {
+    "id": "html_255",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='radio'>` and `<input type='checkbox'>`?",
+    "expected_keywords": [
+        "while",
+        "allows",
+        "select",
+        "option",
+        "only"
+    ]
+  },
+  {
+    "id": "html_256",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<video>` tag?",
+    "expected_keywords": [
+        "used",
+        "video",
+        "embed",
+        "page",
+        "content"
+    ]
+  },
+  {
+    "id": "html_257",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='submit'>` and `<button>`?",
+    "expected_keywords": [
+        "purposes",
+        "used",
+        "while",
+        "including",
+        "flexibility"
+    ]
+  },
+  {
+    "id": "html_258",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<datalist>` tag?",
+    "expected_keywords": [
+        "enter",
+        "select",
+        "value",
+        "input",
+        "allowing"
+    ]
+  },
+  {
+    "id": "html_259",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='password'>` and `<input type='text'>`?",
+    "expected_keywords": [
+        "purposes",
+        "hides",
+        "while",
+        "password",
+        "text"
+    ]
+  },
+  {
+    "id": "html_260",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<output>` tag?",
+    "expected_keywords": [
+        "used",
+        "display",
+        "result",
+        "user",
+        "output"
+    ]
+  },
+  {
+    "id": "html_261",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='date'>` and `<input type='time'>`?",
+    "expected_keywords": [
+        "date",
+        "while",
+        "allows",
+        "select",
+        "time"
+    ]
+  },
+  {
+    "id": "html_262",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<meter>` tag?",
+    "expected_keywords": [
+        "used",
+        "measurement",
+        "display",
+        "disk",
+        "known"
+    ]
+  },
+  {
+    "id": "html_263",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='email'>` and `<input type='text'>`?",
+    "expected_keywords": [
+        "while",
+        "does",
+        "validation",
+        "valid",
+        "validates"
+    ]
+  },
+  {
+    "id": "html_264",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<details>` and `<summary>` tags?",
+    "expected_keywords": [
+        "section",
+        "collapsible",
+        "summary",
+        "details",
+        "provides"
+    ]
+  },
+  {
+    "id": "html_265",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='number'>` and `<input type='range'>`?",
+    "expected_keywords": [
+        "slider",
+        "while",
+        "number",
+        "enter",
+        "allows"
+    ]
+  },
+  {
+    "id": "html_266",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<time>` tag?",
+    "expected_keywords": [
+        "used",
+        "date",
+        "readable",
+        "specific",
+        "format"
+    ]
+  },
+  {
+    "id": "html_267",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='url'>` and `<input type='text'>`?",
+    "expected_keywords": [
+        "while",
+        "does",
+        "validation",
+        "valid",
+        "validates"
+    ]
+  },
+  {
+    "id": "html_268",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<mark>` tag?",
+    "expected_keywords": [
+        "used",
+        "mark",
+        "reference",
+        "text",
+        "emphasis"
+    ]
+  },
+  {
+    "id": "html_269",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='color'>` and `<input type='text'>`?",
+    "expected_keywords": [
+        "while",
+        "enter",
+        "allows",
+        "color",
+        "picker"
+    ]
+  },
+  {
+    "id": "html_270",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<wbr>` tag?",
+    "expected_keywords": [
+        "long",
+        "break",
+        "word",
+        "opportunity",
+        "allowing"
+    ]
+  },
+  {
+    "id": "html_271",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='search'>` and `<input type='text'>`?",
+    "expected_keywords": [
+        "while",
+        "designed",
+        "button",
+        "inputs",
+        "text"
+    ]
+  },
+  {
+    "id": "html_272",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<ruby>` tag?",
+    "expected_keywords": [
+        "used",
+        "pronunciation",
+        "east",
+        "asian",
+        "ruby"
+    ]
+  },
+  {
+    "id": "html_273",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='tel'>` and `<input type='text'>`?",
+    "expected_keywords": [
+        "while",
+        "mobile",
+        "designed",
+        "keyboard",
+        "numbers"
+    ]
+  },
+  {
+    "id": "html_274",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<template>` tag?",
+    "expected_keywords": [
+        "that",
+        "used",
+        "define",
+        "reusable",
+        "rendered"
+    ]
+  },
+  {
+    "id": "html_275",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='file'>` and `<input type='text'>`?",
+    "expected_keywords": [
+        "while",
+        "file",
+        "enter",
+        "allows",
+        "text"
+    ]
+  },
+  {
+    "id": "html_276",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<slot>` tag?",
+    "expected_keywords": [
+        "used",
+        "define",
+        "placeholders",
+        "user",
+        "content"
+    ]
+  },
+  {
+    "id": "html_277",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='reset'>` and `<input type='button'>`?",
+    "expected_keywords": [
+        "while",
+        "fields",
+        "default",
+        "values",
+        "button"
+    ]
+  },
+  {
+    "id": "html_278",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<picture>` tag?",
+    "expected_keywords": [
+        "define",
+        "sources",
+        "device",
+        "allows",
+        "enabling"
+    ]
+  },
+  {
+    "id": "html_279",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='hidden'>` and `<input type='text'>`?",
+    "expected_keywords": [
+        "that",
+        "used",
+        "store",
+        "while",
+        "should"
+    ]
+  },
+  {
+    "id": "html_280",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<map>` and `<area>` tags?",
+    "expected_keywords": [
+        "image",
+        "area",
+        "clickable",
+        "defines",
+        "within"
+    ]
+  },
+  {
+    "id": "html_281",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='month'>` and `<input type='date'>`?",
+    "expected_keywords": [
+        "while",
+        "date",
+        "year",
+        "allows",
+        "month"
+    ]
+  },
+  {
+    "id": "html_282",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<noscript>` tag?",
+    "expected_keywords": [
+        "have",
+        "noscript",
+        "browsers",
+        "alternative",
+        "javascript"
+    ]
+  },
+  {
+    "id": "html_283",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='week'>` and `<input type='date'>`?",
+    "expected_keywords": [
+        "while",
+        "date",
+        "year",
+        "allows",
+        "select"
+    ]
+  },
+  {
+    "id": "html_284",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<base>` tag?",
+    "expected_keywords": [
+        "relative",
+        "document",
+        "base",
+        "specifies",
+        "urls"
+    ]
+  },
+  {
+    "id": "html_285",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='datetime-local'>` and `<input type='date'>`?",
+    "expected_keywords": [
+        "local",
+        "date",
+        "while",
+        "allows",
+        "select"
+    ]
+  },
+  {
+    "id": "html_286",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<track>` tag?",
+    "expected_keywords": [
+        "used",
+        "tracks",
+        "other",
+        "track",
+        "video"
+    ]
+  },
+  {
+    "id": "html_287",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='range'>` and `<input type='number'>`?",
+    "expected_keywords": [
+        "slider",
+        "while",
+        "number",
+        "enter",
+        "allows"
+    ]
+  },
+  {
+    "id": "html_288",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<colgroup>` and `<col>` tags?",
+    "expected_keywords": [
+        "colgroup",
+        "individual",
+        "group",
+        "styling",
+        "groups"
+    ]
+  },
+  {
+    "id": "html_289",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='reset'>` and `<input type='submit'>`?",
+    "expected_keywords": [
+        "while",
+        "server",
+        "fields",
+        "default",
+        "values"
+    ]
+  },
+  {
+    "id": "html_290",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<optgroup>` tag?",
+    "expected_keywords": [
+        "making",
+        "dropdown",
+        "select",
+        "related",
+        "navigate"
+    ]
+  },
+  {
+    "id": "html_291",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `<input type='checkbox'>` and `<input type='radio'>`?",
+    "expected_keywords": [
+        "while",
+        "selection",
+        "allows",
+        "only",
+        "group"
+    ]
+  },
+  {
+    "id": "html_292",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "In HTML5, which element would you use to group a set of navigation links, and why is it preferred over a generic <div>?",
+    "expected_keywords": [
+        "used",
+        "section",
+        "navigation",
+        "preferred",
+        "links"
+    ]
+  },
+  {
+    "id": "html_293",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "How does the 'defer' attribute in the <script> tag affect the execution of JavaScript, and when would you use it?",
+    "expected_keywords": [
+        "that",
+        "browser",
+        "complete",
+        "parsing",
+        "tells"
+    ]
+  },
+  {
+    "id": "html_294",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "Can you explain the difference between the 'src' and 'href' attributes in HTML?",
+    "expected_keywords": [
+        "hypertext",
+        "anchor",
+        "href",
+        "stylesheets",
+        "them"
+    ]
+  },
+  {
+    "id": "html_295",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the 'rel' attribute in a link tag, and can you provide an example of its usage?",
+    "expected_keywords": [
+        "that",
+        "indicates",
+        "relationship",
+        "resource",
+        "linked"
+    ]
+  },
+  {
+    "id": "html_296",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "How does the 'target' attribute in an anchor (<a>) tag affect link behavior, and what are the possible values?",
+    "expected_keywords": [
+        "same",
+        "opens",
+        "body",
+        "_top",
+        "possible"
+    ]
+  },
+  {
+    "id": "html_297",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "Describe the difference between the <b> and <strong> tags in HTML. Do they have the same visual effect?",
+    "expected_keywords": [
+        "purposes",
+        "render",
+        "that",
+        "semantic",
+        "extra"
+    ]
+  },
+  {
+    "id": "html_298",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the function of the 'action' attribute in an HTML form, and what happens if it is omitted?",
+    "expected_keywords": [
+        "same",
+        "will",
+        "which",
+        "omitted",
+        "current"
+    ]
+  },
+  {
+    "id": "html_299",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "How can you create a multi-line text input field in an HTML form?",
+    "expected_keywords": [
+        "created",
+        "line",
+        "multi",
+        "using",
+        "comments"
+    ]
+  },
+  {
+    "id": "html_300",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "Explain the purpose of the 'method' attribute in a form tag. What are the differences between its possible values?",
+    "expected_keywords": [
+        "suitable",
+        "while",
+        "post",
+        "request",
+        "large"
+    ]
+  },
+  {
+    "id": "html_301",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the significance of the <base> tag in an HTML document, and where should it be placed?",
+    "expected_keywords": [
+        "section",
+        "relative",
+        "links",
+        "placed",
+        "document"
+    ]
+  },
+  {
+    "id": "html_302",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "How does the 'async' attribute in the <script> tag influence script execution, and how does it differ from 'defer'?",
+    "expected_keywords": [
+        "during",
+        "will",
+        "asynchronously",
+        "complete",
+        "parsing"
+    ]
+  },
+  {
+    "id": "html_303",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "Can you explain the purpose of the <noscript> tag in HTML?",
+    "expected_keywords": [
+        "noscript",
+        "does",
+        "displayed",
+        "alternative",
+        "javascript"
+    ]
+  },
+  {
+    "id": "html_304",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between the <ol>, <ul>, and <dl> tags in HTML?",
+    "expected_keywords": [
+        "used",
+        "typically",
+        "their",
+        "descriptions",
+        "definition"
+    ]
+  },
+  {
+    "id": "html_305",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "How can you specify that an input field in a form is mandatory for submission?",
+    "expected_keywords": [
+        "that",
+        "username",
+        "before",
+        "submission",
+        "required"
+    ]
+  },
+  {
+    "id": "html_306",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the 'placeholder' attribute in an input element?",
+    "expected_keywords": [
+        "that",
+        "about",
+        "typing",
+        "text",
+        "inside"
+    ]
+  },
+  {
+    "id": "html_307",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "Describe the difference between the <label> tag and the 'for' attribute in HTML forms.",
+    "expected_keywords": [
+        "label",
+        "used",
+        "define",
+        "improving",
+        "associates"
+    ]
+  },
+  {
+    "id": "html_308",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "How can you create a drop-down list in an HTML form?",
+    "expected_keywords": [
+        "each",
+        "down",
+        "created",
+        "drop",
+        "select"
+    ]
+  },
+  {
+    "id": "html_309",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the function of the 'enctype' attribute in a form tag, and when is it necessary to use it?",
+    "expected_keywords": [
+        "server",
+        "file",
+        "multipart",
+        "should",
+        "case"
+    ]
+  },
+  {
+    "id": "html_310",
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What are the advantages and disadvantages of using the <iframe> element in modern web development?",
+    "expected_keywords": ["iframe", "security", "embedding", "SEO", "performance"]
+  },
+  {
+    "id": "html_311",
+    "category": "html",
+    "difficulty": "hard",
+    "question": "How does the Shadow DOM enhance encapsulation in web components, and what are its limitations?",
+    "expected_keywords": ["Shadow DOM", "encapsulation", "web components", "CSS isolation", "scoping"]
+  },
+  {
+    "id": "html_312",
+    "category": "html",
+    "difficulty": "hard",
+    "question": "Explain the differences between the defer and async attributes in the <script> tag. When would you use each?",
+    "expected_keywords": ["defer", "async", "script", "execution", "parsing"]
+  },
+  {
+    "id": "html_313",
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What are the key considerations when designing an HTML document for accessibility?",
+    "expected_keywords": ["accessibility", "ARIA", "semantic HTML", "screen readers", "WCAG"]
+  },
+  {
+    "id": "html_314",
+    "category": "html",
+    "difficulty": "hard",
+    "question": "How can you ensure that an HTML5 web application works correctly without JavaScript enabled?",
+    "expected_keywords": ["progressive enhancement", "graceful degradation", "noscript", "server-side rendering", "HTML5"]
+  },
+  {
+    "id": "html_315",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML code to create a responsive navigation bar that collapses into a hamburger menu on smaller screens.",
+    "expected_keywords": ["responsive", "navigation", "hamburger", "CSS", "media queries"]
+  },
+  {
+    "id": "html_316",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How can you implement a custom video player with playback speed control using HTML5 and JavaScript? Write the code.",
+    "expected_keywords": ["video", "player", "playback", "speed", "JavaScript"]
+  },
+  {
+    "id": "html_317",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between the <canvas> and <svg> elements in HTML5? Provide use cases for each.",
+    "expected_keywords": ["canvas", "svg", "graphics", "HTML5", "vector"]
+  },
+  {
+    "id": "html_318",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to implement a drag-and-drop file uploader.",
+    "expected_keywords": ["drag", "drop", "file", "uploader", "JavaScript"]
+  },
+  {
+    "id": "html_319",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How can you use the <template> tag to dynamically generate HTML content with JavaScript? Provide an example.",
+    "expected_keywords": ["template", "dynamic", "content", "JavaScript", "HTML5"]
+  },
+  {
+    "id": "html_320",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and CSS code to create a card layout with hover effects and responsive design.",
+    "expected_keywords": ["card", "layout", "hover", "CSS", "responsive"]
+  },
+  {
+    "id": "html_321",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the <details> and <summary> tags in HTML5? How can they be styled with CSS?",
+    "expected_keywords": ["details", "summary", "accordion", "CSS", "HTML5"]
+  },
+  {
+    "id": "html_322",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to implement a real-time search filter for a list of items.",
+    "expected_keywords": ["search", "filter", "real-time", "JavaScript", "HTML"]
+  },
+  {
+    "id": "html_323",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How can you use the <picture> element to serve different images based on device resolution? Provide an example.",
+    "expected_keywords": ["picture", "responsive", "images", "resolution", "HTML5"]
+  },
+  {
+    "id": "html_324",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to create a countdown timer that updates in real-time.",
+    "expected_keywords": ["countdown", "timer", "JavaScript", "real-time", "HTML"]
+  },
+  {
+    "id": "html_325",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the <meter> tag in HTML5? How is it different from the <progress> tag?",
+    "expected_keywords": ["meter", "progress", "HTML5", "measurement", "semantic"]
+  },
+  {
+    "id": "html_326",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and CSS code to create a responsive grid layout with equal-height columns.",
+    "expected_keywords": ["grid", "layout", "responsive", "CSS", "equal-height"]
+  },
+  {
+    "id": "html_327",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How can you use the <iframe> tag to embed external content securely? What are the potential risks?",
+    "expected_keywords": ["iframe", "embed", "security", "sandbox", "HTML"]
+  },
+  {
+    "id": "html_328",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to implement a custom dropdown menu with search functionality.",
+    "expected_keywords": ["dropdown", "menu", "search", "JavaScript", "HTML"]
+  },
+  {
+    "id": "html_329",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the <datalist> tag in HTML5? How does it differ from a <select> dropdown?",
+    "expected_keywords": ["datalist", "select", "dropdown", "HTML5", "autocomplete"]
+  },
+  {
+    "id": "html_330",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and CSS code to create a parallax scrolling effect.",
+    "expected_keywords": ["parallax", "scrolling", "CSS", "HTML", "background"]
+  },
+  {
+    "id": "html_331",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How can you use the <audio> tag to create a custom audio player with play/pause controls?",
+    "expected_keywords": ["audio", "player", "controls", "HTML5", "JavaScript"]
+  },
+  {
+    "id": "html_332",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to implement a dark mode toggle for a webpage.",
+    "expected_keywords": ["dark", "mode", "toggle", "JavaScript", "CSS"]
+  },
+  {
+    "id": "html_333",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the <output> tag in HTML5? How can it be used in forms?",
+    "expected_keywords": ["output", "form", "calculation", "HTML5", "semantic"]
+  },
+  {
+    "id": "html_334",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and CSS code to create a sticky header that remains fixed at the top of the page while scrolling.",
+    "expected_keywords": ["sticky", "header", "CSS", "HTML", "position"]
+  },
+  {
+    "id": "html_335",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How can you use the <figure> and <figcaption> tags to improve accessibility in HTML5?",
+    "expected_keywords": ["figure", "figcaption", "accessibility", "HTML5", "semantic"]
+  },
+  {
+    "id": "html_336",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to implement a custom slider with thumbnails.",
+    "expected_keywords": ["slider", "thumbnails", "JavaScript", "HTML", "CSS"]
+  },
+  {
+    "id": "html_337",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the <mark> tag in HTML5? How can it be styled with CSS?",
+    "expected_keywords": ["mark", "highlight", "CSS", "HTML5", "semantic"]
+  },
+  {
+    "id": "html_338",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and CSS code to create a responsive masonry layout.",
+    "expected_keywords": ["masonry", "layout", "responsive", "CSS", "HTML"]
+  },
+  {
+    "id": "html_339",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How can you use the <time> tag to display machine-readable dates in HTML5?",
+    "expected_keywords": ["time", "date", "machine-readable", "HTML5", "semantic"]
+  },
+  {
+    "id": "html_340",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to implement a custom tooltip that appears on hover.",
+    "expected_keywords": ["tooltip", "hover", "JavaScript", "CSS", "HTML"]
+  },
+  {
+    "id": "html_341",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the <wbr> tag in HTML5? How does it differ from the <br> tag?",
+    "expected_keywords": ["wbr", "br", "line", "break", "HTML5"]
+  },
+  {
+    "id": "html_342",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and CSS code to create a responsive pricing table.",
+    "expected_keywords": ["pricing", "table", "responsive", "CSS", "HTML"]
+  },
+  {
+    "id": "html_343",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How can you use the <cite> tag to reference sources in HTML5?",
+    "expected_keywords": ["cite", "reference", "HTML5", "semantic", "source"]
+  },
+  {
+    "id": "html_344",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to implement a custom progress bar with animation.",
+    "expected_keywords": ["progress", "bar", "animation", "JavaScript", "CSS"]
+  },
+  {
+    "id": "html_345",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the <kbd> tag in HTML5? How can it be used to display keyboard inputs?",
+    "expected_keywords": ["kbd", "keyboard", "input", "HTML5", "semantic"]
+  },
+  {
+    "id": "html_346",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and CSS code to create a responsive timeline layout.",
+    "expected_keywords": ["timeline", "layout", "responsive", "CSS", "HTML"]
+  },
+  {
+    "id": "html_347",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How can you use the <samp> tag to display sample output in HTML5?",
+    "expected_keywords": ["samp", "sample", "output", "HTML5", "semantic"]
+  },
+  {
+    "id": "html_348",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and JavaScript code to implement a custom checkbox with toggle functionality.",
+    "expected_keywords": ["checkbox", "toggle", "JavaScript", "CSS", "HTML"]
+  },
+  {
+    "id": "html_349",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the <var> tag in HTML5? How can it be used to display variables?",
+    "expected_keywords": ["var", "variable", "HTML5", "semantic", "code"]
+  },
+  {
+    "id": "html_350",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "Write HTML and CSS code to create a responsive testimonial slider.",
+    "expected_keywords": ["testimonial", "slider", "responsive", "CSS", "HTML"]
+  },
+  {
+    "id": "html_351",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What happens if you omit the `<html>` tag in an HTML document?",
+    "expected_keywords": ["browser", "rendering", "optional", "standards", "document"]
+  },
+  {
+    "id": "html_352",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "Why is the `<head>` tag important in an HTML document?",
+    "expected_keywords": ["metadata", "title", "scripts", "styles", "SEO"]
+  },
+  {
+    "id": "html_353",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `<b>` and `<strong>` tags?",
+    "expected_keywords": ["bold", "semantic", "importance", "accessibility", "styling"]
+  },
+  {
+    "id": "html_354",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "Can you use multiple `<main>` tags in a single HTML document?",
+    "expected_keywords": ["semantic", "structure", "accessibility", "validation", "nested"]
+  },
+  {
+    "id": "html_355",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `alt` attribute in the `<img>` tag?",
+    "expected_keywords": ["accessibility", "description", "broken image", "SEO", "screen readers"]
+  },
+  {
+    "id": "html_356",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `<ul>` and `<ol>` tags?",
+    "expected_keywords": ["unordered", "ordered", "list", "bullets", "numbers"]
+  },
+  {
+    "id": "html_357",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "Can you nest a `<button>` inside an `<a>` tag?",
+    "expected_keywords": ["interactive", "nested", "validation", "accessibility", "semantic"]
+  },
+  {
+    "id": "html_358",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `placeholder` attribute in an `<input>` tag?",
+    "expected_keywords": ["hint", "user experience", "form", "temporary", "accessibility"]
+  },
+  {
+    "id": "html_359",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `id` and `class` attributes in HTML?",
+    "expected_keywords": ["unique", "multiple", "styling", "javascript", "selectors"]
+  },
+  {
+    "id": "html_360",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `<figure>` and `<figcaption>` tags?",
+    "expected_keywords": ["image", "caption", "semantic", "media", "description"]
+  },
+  {
+    "id": "html_361",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `localStorage` and `sessionStorage`?",
+    "expected_keywords": ["persistent", "temporary", "data", "browser", "storage"]
+  },
+  {
+    "id": "html_362",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "How does the `<canvas>` element differ from SVG?",
+    "expected_keywords": ["raster", "vector", "graphics", "animation", "pixels"]
+  },
+  {
+    "id": "html_363",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `async` and `defer` attributes in the `<script>` tag?",
+    "expected_keywords": ["loading", "execution", "performance", "render-blocking", "order"]
+  },
+  {
+    "id": "html_364",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<iframe>` and `<embed>` tags?",
+    "expected_keywords": ["external content", "media", "nested browsing", "plugins", "embedding"]
+  },
+  {
+    "id": "html_365",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `contenteditable` attribute in HTML?",
+    "expected_keywords": ["editable", "user input", "dynamic", "text", "interactive"]
+  },
+  {
+    "id": "html_366",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `GET` and `POST` methods in HTML forms?",
+    "expected_keywords": ["data", "security", "url", "body", "request"]
+  },
+  {
+    "id": "html_367",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<datalist>` tag in HTML?",
+    "expected_keywords": ["autocomplete", "input", "options", "user experience", "form"]
+  },
+  {
+    "id": "html_368",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `aria-label` and `aria-labelledby`?",
+    "expected_keywords": ["accessibility", "screen readers", "description", "reference", "label"]
+  },
+  {
+    "id": "html_369",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<template>` tag in HTML?",
+    "expected_keywords": ["reusable", "hidden", "javascript", "dynamic", "content"]
+  },
+  {
+    "id": "html_370",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `src` and `href` attributes?",
+    "expected_keywords": ["resource", "link", "external", "file", "reference"]
+  },
+  {
+    "id": "html_371",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "How does the Shadow DOM work in Web Components?",
+    "expected_keywords": ["encapsulation", "styling", "isolation", "custom elements", "DOM"]
+  },
+  {
+    "id": "html_372",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `ping` attribute in the `<a>` tag?",
+    "expected_keywords": ["tracking", "analytics", "hyperlink", "notification", "privacy"]
+  },
+  {
+    "id": "html_373",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `aria-hidden` and `hidden` attributes?",
+    "expected_keywords": ["accessibility", "visibility", "screen readers", "CSS", "DOM"]
+  },
+  {
+    "id": "html_374",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<picture>` tag in HTML?",
+    "expected_keywords": ["responsive", "images", "media queries", "formats", "performance"]
+  },
+  {
+    "id": "html_375",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `rel='noopener'` and `rel='noreferrer'` in the `<a>` tag?",
+    "expected_keywords": ["security", "performance", "referrer", "window", "opener"]
+  },
+  {
+    "id": "html_376",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `sandbox` attribute in the `<iframe>` tag?",
+    "expected_keywords": ["security", "restrictions", "content", "isolation", "permissions"]
+  },
+  {
+    "id": "html_377",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `aria-live` and `aria-atomic` attributes?",
+    "expected_keywords": ["dynamic", "updates", "accessibility", "screen readers", "content"]
+  },
+  {
+    "id": "html_378",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<slot>` element in Web Components?",
+    "expected_keywords": ["templates", "content", "custom elements", "shadow DOM", "reusable"]
+  },
+  {
+    "id": "html_379",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `aria-expanded` and `aria-pressed` attributes?",
+    "expected_keywords": ["state", "toggle", "buttons", "accessibility", "interactive"]
+  },
+  {
+    "id": "html_380",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `crossorigin` attribute in the `<script>` tag?",
+    "expected_keywords": ["CORS", "security", "external", "resources", "credentials"]
+  },
+  {
+    "id": "html_381",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `aria-roledescription` and `aria-describedby`?",
+    "expected_keywords": ["accessibility", "roles", "description", "screen readers", "context"]
+  },
+  {
+    "id": "html_382",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `manifest` attribute in Progressive Web Apps?",
+    "expected_keywords": ["offline", "installable", "metadata", "PWA", "caching"]
+  },
+  {
+    "id": "html_383",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `aria-owns` and `aria-controls` attributes?",
+    "expected_keywords": ["relationships", "accessibility", "DOM", "elements", "interactive"]
+  },
+  {
+    "id": "html_384",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<portal>` tag in HTML?",
+    "expected_keywords": ["navigation", "embedding", "seamless", "content", "experimental"]
+  },
+  {
+    "id": "html_385",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `aria-posinset` and `aria-setsize` attributes?",
+    "expected_keywords": ["accessibility", "position", "sets", "screen readers", "navigation"]
+  },
+  {
+    "id": "html_386",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `integrity` attribute in the `<script>` tag?",
+    "expected_keywords": ["security", "subresource", "hash", "verification", "CDN"]
+  },
+  {
+    "id": "html_387",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `aria-valuenow` and `aria-valuetext` attributes?",
+    "expected_keywords": ["accessibility", "values", "progress", "screen readers", "dynamic"]
+  },
+  {
+    "id": "html_388",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `<details>` and `<summary>` tags in HTML?",
+    "expected_keywords": ["collapsible", "content", "interactive", "user experience", "semantic"]
+  },
+  {
+    "id": "html_389",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the difference between `aria-required` and `required` attributes?",
+    "expected_keywords": ["accessibility", "validation", "forms", "screen readers", "input"]
+  },
+  {
+    "id": "html_390",
+    "category": "html",
+    "difficulty": "expert",
+    "question": "What is the purpose of the `fetchpriority` attribute in the `<img>` tag?",
+    "expected_keywords": ["performance", "loading", "priority", "resources", "optimization"]
+  },
+  {
+    "id": "html_391",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `<wbr>` tag in HTML?",
+    "expected_keywords": ["word break", "line break", "text", "formatting", "responsive"]
+  },
+  {
+    "id": "html_392",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "Can you use the `<table>` tag without `<tr>` or `<td>`?",
+    "expected_keywords": ["structure", "validation", "rows", "columns", "semantic"]
+  },
+  {
+    "id": "html_393",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `<abbr>` tag in HTML?",
+    "expected_keywords": ["abbreviation", "tooltip", "semantic", "accessibility", "title"]
+  },
+  {
+    "id": "html_394",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `<input type='text'>` and `<textarea>`?",
+    "expected_keywords": ["single-line", "multi-line", "input", "form", "user experience"]
+  },
+  {
+    "id": "html_395",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `<cite>` tag in HTML?",
+    "expected_keywords": ["citation", "reference", "semantic", "source", "attribution"]
+  },
+  {
+    "id": "html_396",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `<input type='submit'>` and `<button type='submit'>`?",
+    "expected_keywords": ["form", "submission", "styling", "functionality", "semantic"]
+  },
+  {
+    "id": "html_397",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `<mark>` tag in HTML?",
+    "expected_keywords": ["highlight", "text", "semantic", "emphasis", "styling"]
+  },
+  {
+    "id": "html_398",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `<input type='radio'>` and `<input type='checkbox'>`?",
+    "expected_keywords": ["single selection", "multiple selection", "form", "user input", "options"]
+  },
+  {
+    "id": "html_399",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the `<time>` tag in HTML?",
+    "expected_keywords": ["datetime", "semantic", "machine-readable", "human-readable", "metadata"]
+  },
+  {
+    "id": "html_400",
+    "category": "html",
+    "difficulty": "beginner",
+    "question": "What is the difference between `<input type='password'>` and `<input type='text'>`?",
+    "expected_keywords": ["security", "masking", "user input", "form", "authentication"]
+  },
+  {
+    "id": "html_401",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<output>` tag in HTML?",
+    "expected_keywords": ["calculation", "result", "form", "dynamic", "user feedback"]
+  },
+  {
+    "id": "html_402",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<input type='date'>` and `<input type='datetime-local'>`?",
+    "expected_keywords": ["date", "time", "user input", "form", "validation"]
+  },
+  {
+    "id": "html_403",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<progress>` tag in HTML?",
+    "expected_keywords": ["indicator", "completion", "dynamic", "user feedback", "styling"]
+  },
+  {
+    "id": "html_404",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<input type='email'>` and `<input type='url'>`?",
+    "expected_keywords": ["validation", "format", "user input", "form", "semantic"]
+  },
+  {
+    "id": "html_405",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<meter>` tag in HTML?",
+    "expected_keywords": ["measurement", "indicator", "range", "dynamic", "styling"]
+  },
+  {
+    "id": "html_406",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<input type='search'>` and `<input type='text'>`?",
+    "expected_keywords": ["search functionality", "user experience", "form", "styling", "semantic"]
+  },
+  {
+    "id": "html_407",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<fieldset>` and `<legend>` tags in HTML?",
+    "expected_keywords": ["grouping", "form", "accessibility", "semantic", "structure"]
+  },
+  {
+    "id": "html_408",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<input type='number'>` and `<input type='range'>`?",
+    "expected_keywords": ["numeric input", "slider", "user experience", "form", "validation"]
+  },
+  {
+    "id": "html_409",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `<optgroup>` tag in HTML?",
+    "expected_keywords": ["dropdown", "grouping", "options", "form", "user experience"]
+  },
+  {
+    "id": "html_410",
+    "category": "html",
+    "difficulty": "intermediate",
+    "question": "What is the difference between `<input type='reset'>` and `<button type='reset'>`?",
+    "expected_keywords": ["form", "reset", "functionality", "styling", "user experience"]
+  },
+  {
+    "id": "html_411",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<track>` tag in HTML?",
+    "expected_keywords": ["subtitles", "captions", "media", "accessibility", "synchronization"]
+  },
+  {
+    "id": "html_412",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `<input type='color'>` and `<input type='file'>`?",
+    "expected_keywords": ["color picker", "file upload", "user input", "form", "styling"]
+  },
+  {
+    "id": "html_413",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<map>` and `<area>` tags in HTML?",
+    "expected_keywords": ["image map", "clickable areas", "interactive", "coordinates", "semantic"]
+  },
+  {
+    "id": "html_414",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `<input type='tel'>` and `<input type='text'>`?",
+    "expected_keywords": ["phone number", "validation", "user input", "form", "semantic"]
+  },
+  {
+    "id": "html_415",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<dialog>` tag in HTML?",
+    "expected_keywords": ["modal", "popup", "user interaction", "accessibility", "semantic"]
+  },
+  {
+    "id": "html_416",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `<input type='week'>` and `<input type='month'>`?",
+    "expected_keywords": ["date", "time", "user input", "form", "validation"]
+  },
+  {
+    "id": "html_417",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<ruby>` tag in HTML?",
+    "expected_keywords": ["annotations", "pronunciation", "semantic", "text", "formatting"]
+  },
+  {
+    "id": "html_418",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `<input type='image'>` and `<img>`?",
+    "expected_keywords": ["form submission", "image", "user input", "styling", "semantic"]
+  },
+  {
+    "id": "html_419",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the purpose of the `<bdi>` tag in HTML?",
+    "expected_keywords": ["bidirectional", "text", "isolation", "semantic", "formatting"]
+  },
+  {
+    "id": "html_420",
+    "category": "html",
+    "difficulty": "advanced",
+    "question": "What is the difference between `<input type='time'>` and `<input type='datetime-local'>`?",
+    "expected_keywords": ["time", "date", "user input", "form", "validation"]
+  }
+    ]
+  }

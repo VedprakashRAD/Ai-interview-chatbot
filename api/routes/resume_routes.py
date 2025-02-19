@@ -1,10 +1,14 @@
 # -*- coding: utf-8 -*-
-from fastapi import APIRouter, UploadFile, File, HTTPException
-from typing import Dict, List
+from fastapi import APIRouter, UploadFile, File, HTTPException, Form
+from fastapi.responses import JSONResponse
+from typing import Dict, List, Optional
 import logging
 import os
 from api.models.resume import ResumeResponse
 from services.resume_service import ResumeService
+from models.candidate import Candidate, Domain
+from services.photo_service import PhotoService
+from services.id_service import IDService
 
 # Set up logging
 logger = logging.getLogger(__name__)
@@ -19,6 +23,10 @@ ALLOWED_MIME_TYPES = {
     'application/msword': '.doc',
     'application/vnd.openxmlformats-officedocument.wordprocessingml.document': '.docx'
 }
+
+resume_service = ResumeService()
+photo_service = PhotoService()
+id_service = IDService()
 
 @router.post(
     "/resume/upload",
@@ -67,9 +75,6 @@ async def upload_resume(
         await resume.seek(0)
         
         logger.info(f"Processing file: {resume.filename} ({file_ext})")
-
-        # Initialize resume service
-        resume_service = ResumeService()
 
         try:
             # Parse resume
@@ -155,4 +160,57 @@ def parse_resume_text(text: str) -> Dict[str, List[str]]:
         raise ValueError("Missing required sections in resume")
         
     return sections
+
+@router.post("/register")
+async def register_candidate(
+    name: str = Form(...),
+    father_name: str = Form(...),
+    email: str = Form(...),
+    domain: Domain = Form(...),
+    resume: UploadFile = File(...),
+    photo: UploadFile = File(...)
+):
+    try:
+        # Process resume
+        resume_content = await resume.read()
+        resume_path = resume_service.save_resume(resume_content, resume.filename)
+        parsed_resume = resume_service.parse_resume(resume_path)
+
+        # Process photo
+        photo_content = await photo.read()
+        photo_path = photo_service.save_photo(photo_content)
+
+        # Generate IDs
+        candidate_id = id_service.generate_candidate_id()
+        test_id = id_service.generate_test_id()
+
+        # Create candidate
+        candidate = Candidate(
+            candidate_id=candidate_id,
+            test_id=test_id,
+            name=name,
+            father_name=father_name,
+            email=email,
+            domain=domain,
+            resume_path=resume_path,
+            photo_path=photo_path,
+            parsed_resume_data=parsed_resume
+        )
+
+        # Here you would typically save the candidate to a database
+        
+        return JSONResponse(
+            status_code=200,
+            content={
+                "message": "Registration successful",
+                "candidate_id": candidate_id,
+                "test_id": test_id,
+                "parsed_resume": parsed_resume
+            }
+        )
+
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
             
